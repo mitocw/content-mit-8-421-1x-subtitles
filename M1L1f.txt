@@ -27,8 +27,8 @@ You can drive it as hard as you want ,
 you drive hundred times stronger,
 and the reaction is hundred times more,
 everything is linear.
-The [INAUDIBLE] over two level system
-comes from [? separation ?].
+The quantumness of a two level system
+comes from saturation.
 
 What about a rotating system?
 
@@ -56,8 +56,8 @@ teach the class, I wanted to ask you here
 about a special rotating system, which
 was a processing gyroscope.
 So rotating system, if you think about, processing gyroscope,
-it has a [? band ?].
-On the amplitude it can be excited.
+it has a bound
+on the amplitude it can be excited.
 So what I want to show you today,
 and in the next lecture is, that the motion
 of classical magnetic moments.
