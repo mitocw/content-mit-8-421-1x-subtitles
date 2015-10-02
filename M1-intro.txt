@@ -401,4 +401,4 @@ And then there is this parameter gamma.
 
 Gamma, which appears in the Lorentzian,
 is identical to the full widths at half maximum,
-and the q factor of a Lorentzian is omega naught over gamma.
+and the q factor of a Lorentzian is omega_0 over gamma.
