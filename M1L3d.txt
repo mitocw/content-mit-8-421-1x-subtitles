@@ -54,6 +54,6 @@ the last time that we obtain the Rabi transition probability.
 OK.
 So, but let's go further.
 We have now discussed the classical spin.
-We have sort of done classical [INAUDIBLE]
+We have sort of done classical-quantum correspondance
 with Heisenberg's equation of motion.
 We know that this, in generally, implies Rabi oscillations.
