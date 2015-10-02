@@ -91,14 +91,14 @@ it's actually an exact model, which
 captures essentially all features
 of the quantum mechanical two-level system.
 So I want to show you today and the next lecture
-that concepts of [INAUDIBLE] frequency,
-of generalized off resonant [INAUDIBLE] frequency,
+that concepts of Rabi] frequency,
+of generalized off resonant Rabi frequency,
 that all of that, you find in the classical motion
 of a magnetic moment.
-Or for instance, the physics of [? rapid ?] [INAUDIBLE]
-[? land  of ?] [? zeno ?] crossing.
+Or for instance, the physics of Rapid Adiabatic Following
+Landau-Zeno crossing.
 A lot of physics, we would usually
-associate with a [? kind ?] of system,
+associate with a quantum system,
 you find it here in a purely classical system.
 What aspects of the two-level system will we not find?
 Any ideas?
@@ -123,18 +123,18 @@ So that's correct.
 But there is one aspect, even at low frequency,
 one aspect of quantum mechanics which we cannot capture.
 
-[INAUDIBLE]
-Differing [? g ?] factors, yes.
+[Student]: different g-factors in a magnetic field?
+Differing g-factors, yes.
 That's we see a more quantitative aspect,
 but there's one very important feature about quantum mechanics
 you will never get in a classical system.
-[INAUDIBLE]
+[Student]: spin?
 Spin.
-[INAUDIBLE]
+[Stident]: Superposition
 
 OK, I think you're skirting around.
-It's a [? quantum ?] [? measure ?] [? in ?]
-[? process ?] and projection.
+It's a quantum measurement process
+and projection.
 If you perform a measurement on a compass needle,
 it can be at any angle.
 But if you do a measurement on a quantum system,
