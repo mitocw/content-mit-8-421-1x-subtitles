@@ -174,8 +174,8 @@ be cooled to the absolute ground state,
 and there's a lot of interest of coupling
 the motion of a mechanical oscillator
 to an atomic oscillator, because if different properties
-and [INAUDIBLE] and computation, and other
-explorations or feel about space,
+and for quantum computation, and other
+explorations of Hilbert space,
 you want to have different oscillators
 and take-- combine the best of the properties.
 So therefore, there is a real resource
