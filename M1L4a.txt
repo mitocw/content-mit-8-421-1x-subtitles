@@ -1,0 +1,41 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L4a.txt
+#
+# Captions for 8.421x module
+#
+# This file has 31 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+The last topic we discussed, it was a situation
+of the Landau-Zener transition that you sweep for resonance.
+You've all seen the Landau-Zener formula,
+you all know that in crossing turns into an avoided crossing.
+But I try to at least provide you
+additional insight by emphasizing
+that the whole process is absolutely coherent.
+There is full face coherence throughout.
+And what happens is there is a coherent transfer of amplitude
+from the state one to the state two.
+This is nothing else than Schrodinger's equation.
+But I want to point out that for the short times
+you sweep through, there is no detuning dependence here.
+In other words, when I discuss what
+is the effective time during which
+the transfer of population takes place,
+the time here is so short that the detuning doesn't matter.
+Actually, the criterion which leads
+to this effective time during which the transfer takes place
+is actually exactly the time window
+where the detuning is small enough that to say it loosely,
+it doesn't make a difference whether you're
+on resonance or slightly away.
+The atom experience is the same drive field.
+So based on this criterion we discussed,
+that we can understand the Landau-Zener probability
+in the perturbative limit as a coherent process
+where we transfer population, we transfer amplitude with a Rabi
+frequency during this effective time delta
+T. It's not the only way how we can look at it,

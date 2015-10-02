@@ -1,0 +1,99 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L2i.txt
+#
+# Captions for 8.421x module
+#
+# This file has 89 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+With rapid adiabatic passage I've
+discussed with you the physics that rapid precession
+keeps a magnetic moment aligned with an effective magnetic
+field.
+Let me now discuss the same phenomenon,
+but in a very different environment.
+And this is a similar process happening in a magnetic trap.
+In a magnetic trap, we don't have any drive,
+or we have a time dependent field.
+But what happens is we have a magnetic field,
+but the atoms move through the atom trap.
+So the atom sees a changing magnetic field.
+And in many of our experiments here at MIT,
+we use a quadrupolar field.
+We've discussed some of these aspects in 8422.
+So a quadrupolar field, the field
+has to be inhomogenous in order to provide trapping forces.
+So we often use quadrupolar fields.
+They have a lot of advantages.
+That's how we build the tightest magnetic traps.
+But what happens now is if an atom
+moves along this trajectory from the-- it
+moves up in the laboratory, here let's
+say the atom is in spin up.
+Here it's now aligned.
+
+The magnetic field is opposite to the spin,
+and now it moves up, and now the magnetic field up here
+is pointing up.
+The physics I explain to you, rapid area passage
+means that the rapid precession of the spin
+means that as the atom moves, the spin stays aligned
+with the magnetic field.
+So you find the same physics here
+in a different environment, but the mathematical description
+is the same.
+
+Of course, and that's my last comment for today,
+if you have a spherical quadrupolar trap,
+and you go right through the origin, you're out of luck.
+Because here the atom sees the magnetic field is down,
+it gets smaller.
+The magnetic field gets smaller, gets smaller.
+The magnetic field gets zero.
+Oopsie.
+The magnetic field points in the other direction.
+And there was no warning.
+The magnetic field has jumped from 0 degrees to 180 degrees.
+There was never, ever any transverse field
+around which the atom could process and change
+its orientation.
+So therefore when an atom is aligned
+where the magnetic field moves through the origin-- oopsie,
+it's anti-aligned.
+It has lost its orientation with respect to the magnetic field,
+and this is the breakdown of rapid adiabatic passage,
+because there's no adiabaticity.
+It is not an adiabatic change of the direction
+of the magnetic field, it's a sudden field.
+And the consequences are bad.
+You lose your atoms from the magnetic trap.
+It's called [INAUDIBLE].
+And a lot of people know what I'm talking about,
+but I'm not explaining it in detail.
+Time is over.
+Any questions about what I've discussed?
+Yes?
+I would say the question is about the frequency reach,
+and if you switch on the frequency drive,
+it's not a delta function.
+If you are far away from resonance,
+it doesn't really matter.
+There is, of course, a criterion that the rates,
+the effective rates of the frequency
+should not be comparable to the detuning.
+So then you switch it on, but you're so far away
+from resonance that it doesn't matter
+if you have a small reach.
+The effective detuning is still large.
+You scan for resonance.
+But these are of the boundary conditions.
+The exact solution of the Landau-Zener problem,
+for instance, assumes you go from minus infinity
+to plus infinity in the detuning.
+Nobody does that.
+So it is casting sort of finite-- sweep finite duration
+effects, but usually we can be pretty
+close to the idealized assumption.

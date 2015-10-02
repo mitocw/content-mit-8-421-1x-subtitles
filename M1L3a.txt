@@ -1,0 +1,148 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L3a.txt
+#
+# Captions for 8.421x module
+#
+# This file has 138 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+I mentioned to you and explained it to you
+that rapid adiabatic passage is a powerful way
+to manipulate classical and quantum system.
+And what we discussed is that when
+a spin points in the up direction
+and you sweep the resonance of an oscillating magnetic field--
+the frequency of an oscillating magnetic field
+through the resonance, you create
+an effective magnetic field in the moving
+frame which will rotate.
+And the atom, when the change is done adiabatically,
+will follow the rotation and therefore invert spin.
+So it's a perfect, very robust method
+to invert population in spin systems.
+
+But where I want to pick up today
+is the question, how slow is adiabatic?
+We have to fulfill an adiabatic condition.
+And we have already an idea of what
+the adiabatic condition is, but now we want to derive it.
+That we had this picture of a spin
+which is rapidly precessing.
+It always precesses around the direction
+of the effective magnetic field, and the condition
+for adiabaticity is that the rotation
+of the effective magnetic field has
+to be much slower than the precession.
+Let me just make it clear by a counterexample.
+If the atom precesses around the magnetic field
+and the magnetic field would suddenly jump,
+then the atom would now start precessing
+about the new direction of the magnetic field,
+and it would have completely changed its angle
+relative to the magnetic field.
+It would have lost its alignment with the magnetic field.
+So you clearly see that the condition
+is the direction of the magnetic field must not jump.
+And the only other time scale is the frequency
+of the Larmor precession.
+So our condition for adiabaticity
+is the rotation of the effective magnetic field
+has to be slow compared to the precession frequency.
+
+OK.
+And so we want to now derive from that condition
+the conditions for adiabaticity.
+And just as an outlook to make it interesting,
+what I will derive for you in the classical picture
+is now something which we will later encounter
+as the Landau-Zener parameter.
+But Landau-Zener sweeps-- we talk about it later today.
+It's the quantum mechanical version
+of rapid adiabatic passage.
+But we now get classically a result
+which will feature the Landau-Zener parameter.
+
+OK.
+So with that, let us write down what we want to look at.
+It is that the Larmor frequency omega
+L, which is given by the effective magnetic field,
+has to be much larger than theta dot.
+Now, things in general are rather complicated.
+If you are far away from resonance,
+you change the frequency, but the effective field
+is not changing a lot.
+The critical moment is really when we have the real field,
+we add the fictitious field, and that causes a rotation.
+The critical moment is when we are near resonance.
+So in other words, we have to fulfill an inequality.
+The left side has to be larger than the right side.
+But the left side is actually smallest
+in the vicinity of the resonance,
+and the angle theta dot is actually
+largest near resonance.
+That's when it sort of quickly goes through 90 degrees.
+
+So therefore, if you want to find
+the condition of adiabaticity, we
+can derive it by looking at the region around the resonance.
+OK.
+So the effective magnetic field is the real field
+minus the fictitious field caused by the transformation
+into the rotating frame.
+So we have the magnetic field at an angle theta with respect
+to the z-axis.
+I've just written down the z component for you.
+And the transverse component is-- so this is this component,
+and the transverse component is the amplitude
+of our drive field B1.
+So we can just read it from the diagram.
+
+The resonance theta is 90 degrees.
+And the correction angle is whatever
+we have of the effective z field over B1.
+And that means that the derivative, the angle theta
+dot, the angle of velocity at which the magnetic field
+rotates, there's a time derivative
+because we sweep the frequency.
+So therefore, theta dot is nothing else
+than omega dot, the sweep rate of the frequency,
+divided by gamma B1.
+But gamma B1 is nothing else than the Rabi frequency.
+And on resonance, the Larmor frequency
+is just the Rabi frequency.
+Because on resonance-- sorry for repeating myself--
+the fictitious field has canceled the bias field,
+and the only field left is the rotating field.
+But the rotating field is the Rabi frequency
+with a gamma factor.
+So therefore, we have the adiabatic condition
+that omega dot over omega Rabi has
+to be smaller than omega Rabi.
+Or to say it inverts, the change delta omega of your drive
+frequency, the change delta omega in one Rabi period
+has to be smaller than the Rabi frequency.
+
+So omega has units of frequency.
+Omega dot is a derivative, has units of frequency squared.
+And this has to be smaller than the Rabi frequency squared.
+
+You'll find that actually quite often if you
+do an adiabatic change of your trap frequency,
+things are adiabatic as long as the change of the trap
+frequency in one period of the trap frequency
+is smaller than the trap frequency.
+And you find something else, that the derivative
+of your trap frequency has to be smaller than the trap
+frequency squared.
+So these are adiabatic conditions when you tighten up,
+magnetic or optical confinement for atoms.
+So this is very, very generic.
+This new rate of the frequency you change
+has to be smaller than the relevant frequency squared.
+
+As I said, we'll come back to that
+when we do the quantized treatment
+of rapid adiabatic passage and we encounter that combination

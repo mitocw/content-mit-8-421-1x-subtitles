@@ -1,0 +1,19 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L1a-CQ2.txt
+#
+# Captions for 8.421x module
+#
+# This file has 9 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+I would like to continue our discussion whether we
+can measure the angular frequency to better
+than the Heisenberg limit, in case
+of a quantum-mechanical oscillator.
+So the question is, can you measure the frequency
+of a quantum-mechanical harmonic oscillator in the time Delta-T
+to an accuracy which is better than the limit of Heisenberg's
+Uncertainty.  Ok - your vote, please.

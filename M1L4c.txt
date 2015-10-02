@@ -1,0 +1,155 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L4c.txt
+#
+# Captions for 8.421x module
+#
+# This file has 145 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+I want to now use the density matrix formalism for arbitrary
+two-level systems.
+
+So, what is the most general Hamiltonian for the most
+general two-level system?
+Well, the most general Hamiltonian
+is the most general Hamiltonian we can
+construct with 2 by 2 matrices.
+And the base is set to expand the 2 by 2 matrices
+are the Pauli matrices.
+So, if we expand the Hamiltonian into the unity matrix-- sigma
+x, sigma y, and sigma z, we have four coefficients,
+four amplitudes, which are complex in general-- omega
+1, omega 2, omega 3.
+And here is something which I've called omega bar.
+
+By appropriately shifting what is the 0 point of energy.
+We can always get rid of this.
+So, this is just a definitional character.
+So, therefore, the most general Hamiltonian
+for any two-level system can be written
+in this very compact way.
+That it is the scalar product of the vector-- omega,
+omega 1, omega 2, omega 3-- with the vector
+sigma of the three Pauli matrices--
+sigma x, sigma y, sigma c.
+
+OK.
+So, this is a way to write down the most general Hamiltonian
+for a two-level system.
+Now, we describe two-level systems by a density matrix
+by statistical operator, which is also a 2 by 2 matrix.
+And the most general density matrix
+can also be expanded into its four components.
+Sort of the basis set of matrices
+is the unity matrix and the three Pauli matrices.
+So , 1, 2, 2, 3.
+Of course, this time we cannot throw away the unity matrix,
+because otherwise the density matrix would have more trace,
+and there would be no probability to find
+the particle.
+But we can, again, write it in a compact form
+that it is one half-- yes, I'm using the fact now
+that the trace of rho is r0.
+And this is by definition, or by conservation of probability,
+is 1.
+So, therefore, r0 is not a free parameter.
+It's just the sum of all the probabilities
+to find the system in any state.
+And the non-trivial part is then scale
+a product of this vector r-- rx, ry,
+rz-- with the vector of the three Pauli matrices.
+So, we have our most general Hamiltonian,
+we have our most general density matrix,
+and now we can insert these into the equations of motion
+for the density matrix.
+Which, as I said before, is just a reformulation
+of Schrodinger's equation.
+And if we insert the Hamiltonian and the density matrix
+into this equation, we find actually
+something which is very simple.
+It says that this vector r, which
+we call the Bloch vector-- the derivative of the Bloch vector
+is given by the cross product of the vector omega, which
+were the coefficients with which we parametrize the Hamiltonian
+cross r.
+The derivation is straightforward.
+And you will be asked to do that on your homework, assignment
+number one.
+But, it has a very powerful meaning.
+It tells us that an arbitrary two-level system,
+with an arbitrary Hamiltonian, can
+be regarded as a system where we have a vector
+r which undergoes precession.
+This is the time evolution of the system.
+So, this is the powerful generalization
+from the result we discussed previously.
+Where we found that if you have an arbitrary
+quantum-mechanical spin, the time derivative
+can be written in that way.
+So, previously we found for a purer state,
+but now we find it that it's even valid for general density
+matrix and its time evolution.
+So, what I've derived for you is the famous theorem, which
+is traced back to Feynman, Vernon, and Hellwarth--
+it's sort of a famous paper.
+So this famous theorem-- and I've
+summarized it here for you-- says
+that the time evolution of the density matrix for the most
+general two-level system is isomorphic to pure precession.
+And that means it's isomorphic to the behavior
+of a classical moment-- classical magnetic moment--
+in a suitable time-dependent magnetic field.
+So, when you have an Hamiltonian, which
+is characterized by-- the most general
+Hamiltonian is characterized by the three coefficients 1, w2,
+w3.
+But.
+If you would create a classic system where w1, w2, and w3 are
+the time-dependent components, xyz-component
+of a magnetic field, then the precession of a magnetic moment
+would be exactly the same as the time
+evolution of a quantum-mechanical density
+matrix.
+
+So, in other words, we've started out
+with rotating frames and rotation.
+And now, we've gone as far as I will go.
+Namely, I've in a way told you that
+an arbitrary quantum-mechanical two-level system, the time
+evolution is just precession.
+It's a rotation.
+There is nothing more complicated possible.
+Well, unless we talk about the coherence.
+If we have such an Hamiltonian, we
+know, of course, that a pure state will stay pure forever.
+And you can immediately verify that if you look
+at the trace of rho square.
+
+If the trace of rho square is 1, we have a pure state.
+And now we have parametrized the density matrix
+with a Bloch vector component-- r1, r2, r3.
+So, in those components, the trace of rho square
+can be written in this way.
+And of course, r0 square was constant-- this
+was our normalization of 1.
+So the question is now when we have an arbitrary time
+evolution, which we know now, according to the Feynman,
+Vernon, Hellwarth theorem.
+The arbitrary time evolution of the Bloch vector
+can be written as omega cross r.
+So, this equation tells us immediately
+that the length of the vector r is constant
+because r dot is always orthogonal to r.
+And therefore, the length of the vector r is not changing.
+So, what we have derived says that with the most general
+Hamiltonian, the length of the vector r will be constant,
+and therefore, the trace of rho square will be constant.
+This is constant because r dot is perpendicular to r.
+So, this will tell us that a pure state will just
+precess with the constant length of its Bloch vector forever.
+However, we know that in real life, some coherences are lost,
+and now we have to introduce something else.
+So this does not describe loss of coherence.

@@ -1,0 +1,220 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L4e.txt
+#
+# Captions for 8.421x module
+#
+# This file has 210 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+Any questions about that?
+Yes, please?
+So what determines the time constants,
+like for dephasing time?
+
+Well, that's a long discussion, and we
+spend a long time in 8.422 discussing various processes.
+But just to give you an example, if you have a gas of atoms
+and there are slightly inhomogeneous magnetic field,
+that would mean that each atom, if you look at it as precession
+motion, precesses at slightly different rates,
+and the atoms will lose-- will decohere.
+They all will eventually wind up with a different phase,
+that if you look at the average of coherence, it will go to 0.
+So any form of inhomogeneity, which
+is not quenching at quantum state, which is not creating
+any form of deactivation of the excited state,
+can actually decohere the phase.
+And these are contributions to T2.
+So often, contributions to T2 come
+from inhomogeneous environments, but they are not changing
+the population of states.
+Whereas what contributes to T1 are often
+collisions, collisions which, when an atom in an excited
+state collides with a buffer gas atom,
+it undergoes a transition from the excited to the ground
+state.
+So these are two distinctly different processes.
+One is really a collision and energy transfer.
+Each atom has to change its quantum state,
+whereas decoherence can simply happen
+that there is a small perturbation of the energy
+levels due to external fields.
+And then the system, as an ensemble, loses its phase.
+In the simplest way, you can say--
+you can assume inhomogeneous broadening.
+But you can also assume if the whole ensemble
+is subject to fluctuating fields, then
+since you don't know how the fields exactly fluctuate,
+after characteristic time you will no longer have
+a phase-coherent system, where the phase at a later time
+is deterministically related to the phase at which you prepared
+it.
+And that would mean the system has dephased,
+and this dephasing time is called the T2 time.
+Nancy?
+I think I have two things.
+First, you said that it's generally true
+that T2 is less than T1.
+Is it ever true that it's not the case?
+Oh.
+
+There is one exception, OK, and that's the following.
+Let me put it this way.
+Every process which contributes to T1
+will also contribute to T2.
+But there are lots of processes which only contribute to T2.
+So therefore, in general, T2 is much faster
+because many more processes can contribute with.
+However, now if you asked me, is that always true?
+Well, there is one glitch, and this is the following.
+T1 is the time to damp populations,
+and that's a damping of psi square.
+T2 is due to the damping of the phase.
+And this is actually more a damping time of the wave
+function itself.
+And if you have a wave function psi which
+is damped with a damping time tau,
+psi square is damped with twice the damping time.
+So if the only process you have is, for instance,
+spontaneous emission, then you'll
+find out that the damping rate for population is gamma.
+This is the definition of the spontaneous emission rate.
+But the damping rate 1 over T2 is 1/2 gamma.
+But because simply the way how we have defined it,
+one involves the square of the wave function.
+The other one involves simply the wave function.
+So there is this factor of 2, which
+can make, by just a factor of 2, T1 faster than T2.
+But apart from this factor of 2, if T2
+would be defined in a way which would incorporate
+the factor of 2, then T2 would always be faster than T1.
+That makes sense physically for-- I can't imagine,
+if the system has a smaller T1, then it still
+has any coherence left in it.
+
+So maybe to be absolutely correct I should say this.
+T1 is much larger than-- it is larger or equal than T2 over 2.
+In general, we have even the situation
+that TI is much, much larger than T2.
+But with this factor of 2, I've incorporated this subtlety
+of the definition.
+Other questions?
+Yes.
+I have a question about real motivation and using
+plot divisions and [INAUDIBLE].
+You mentioned-- I understand that.
+I used to teach it for mixed states.
+But you mentioned before that you
+can't describe spontaneous emission with a Hamiltonian
+formulation.
+Yes.
+But couldn't you use-- doesn't the Wigner-Weisskopf theory
+when you just quantize your electromagnetic field
+and look at the interaction between the electromagnetic
+field and your atom.
+Would you still get spontaneous emission out of coupling
+to the continuum, with emission into the different modes
+of the-- you don't necessarily need [INAUDIBLE].
+
+Yes, but let me remind you of this.
+If you're interested in the quantum state,
+and it decays to a level, but you're not
+really interested what this level is,
+and we're not keeping track of the population here,
+then we can describe the time evolution
+of the excited state with an Hamiltionian,
+because of the imaginary part.
+The Hamiltonian is longer imaginary.
+And this is what Wigner-Weisskopf theory does.
+It looks at a system in the excited state
+and looks at the time evolution of the excited state.
+But if you want to include in this description what
+happens in the ground state, you're
+not taking this situation.
+You have this situation.
+And what eventually will happen is--
+you can look at a pure state which decays.
+And this is what is done in Wigner-Weisskopf theory.
+But if you want to know now what happens in the ground state--
+well, I'm speaking loosely, but that's
+what really happens-- every spontaneous emission adds
+something to the ground state but in incoherent way.
+So what is being built up in the ground state
+is not a wave function.
+It's just population, which has to be described with a density
+matrix.
+Or in other words, if you have a coherent superposition between
+excited and ground state, you cannot just say spontaneous
+emission is now increasing the amplitude to be in the ground
+state.
+It really does something fundamentally different.
+It puts population into the ground state
+with-- I'm loosely speaking now-- but with a random phase.
+And this can only be described probabilistically
+by using the density matrix.
+But what you're talking about is actually
+for the Wigner-Weisskopf theory is pretty much
+this part of the diagram.
+We prepare an excited state, and we
+study with all its glorious details
+with the many modes of the electromagnetic field
+how the excited state decays.
+
+With the Hamiltonian formulation,
+wouldn't you have to do the sum over every single mode you're
+coupling to, which would be the exact same thing you
+do when you do a partial trace over the environment?
+Wouldn't the end result in sort of the same thing
+when you have to do some very infinite sum and integral
+for all the modes that you're coupling to?
+
+You need a sum, but--
+That's where the decoherence comes from.
+Yes.
+But if you're interested in only the decay of an excited state,
+it can decay in many, many modes,
+but all these different modes provide a contribution
+to the decay rate gamma.
+So at the end of the day, you have a Hamiltonian evolution
+with a damping time gamma, and this damping time gamma
+is the sum over all the other states.
+So in other words, the loss of population from the excited
+state is just incorporated by making a damping time
+to the Schrodinger equation, because you're not
+keeping track of the other modes where the population goes.
+You're not keeping track.
+You just say, excited state is lost.
+You're not interested whether the atoms are now in the ground
+state or some other state.
+All you are describing the loss rate from the excited state.
+And this is possible by simply doing-- by adding damping terms
+to the Schrodinger equation.
+
+In other words-- and what I'm saying
+is actually fairly simple-- if you have a coherent state
+and you lose it, it just lose amplitude.
+What is left is coherent.
+What is gone, it's gone.
+You know?
+You have a smaller amplitude, smaller probability.
+And that's simple to describe.
+What is harder to describe is if you accumulate population
+in the ground state, and the population
+arrives in incoherent pieces.
+How to treat that, this is more complicated.
+But simply the decay of a pure state,
+it's just-- you have e to the i omega t, which
+is a coherent evolution, and then you add an imaginary part,
+and this is a damping time.
+So what I'm saying-- it's sort of subtle,
+but it's also very trivial.
+I don't know if this addresses your question.
+
+And in the end, in general you need the density measures.
+I just wanted to emphasize that there
+is a little bit of decoherence where you can still get away
+with a wave function description.
+And actually Wigner-Weisskopf theory
+is the wonderful example.

@@ -1,0 +1,58 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L2e.txt
+#
+# Captions for 8.421x module
+#
+# This file has 48 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+What happens when we have an off resonant rotating field?
+When we have an off resonant rotating field,
+we go to the rotating frame, but of course the rotating frame
+we go to is now not rotating at the Langmuir frequency,
+because the purpose of going to rotating frame
+is get rid of the time dependence of the rotating
+field.
+So we go to rotating frame, which
+rotates at the frequency of the rotating field.
+So if the rotating fields rotates at a frequency omega,
+we have a fictitious field, which is omega over gamma.
+Gamma is the gyromagnetic ratio.
+For the resonant case, we were just completely
+canceling the static field in the z direction,
+but for the off resonant case, when
+omega is larger or smaller, in both cases
+this one here is no longer zero.
+And our total effective field is now
+the quadrature sum of what we have in the z direction,
+and what we have in the x direction,
+or x prime direction.
+This is b1.
+So in the z direction, we have the static field
+minus the fictitious field.
+And then the two are added up.
+On resonance, the angle theta is 90 degrees,
+but for the off resonant case, the angle
+is different, given by the simple geometric result.
+And the effective field is the quadrature sum
+of b1 squared plus b0 minus.
+
+And the fact is this adds something
+to the effective field in the rotating frame
+whether we tried it above and below resonance.
+So therefore, the magnetic moment
+processes at what is called the generalized Rabi
+frequency, which I now call the generalized Rabi
+frequency, which is gamma times b effective,
+and this is the quadrature sum of the detuning
+plus the capital omega.
+The capital letter omega, omega R,
+is the Rabi frequency at resonance.
+And this is nothing else than a measure for the drive
+field for the strengths of the drive field b1 in frequencies.
+So therefore the generalized Rabi frequency
+is the resonant Rabi frequency edit in quadrature
+with the detuning squared.

@@ -1,0 +1,93 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L1i.txt
+#
+# Captions for 8.421x module
+#
+# This file has 83 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+We have a rotating system.
+We have a system which precesses.
+So we want to learn about rotations in general,
+and what I want to show you is that under very
+general circumstances, we can solve
+the equation, the dynamics of the system,
+by going into rotating frame.
+You all know about rotating wave tunnel, rotating wave
+approximations.
+That's in quantum physics.
+I'm simply talking about a classical system,
+and I want to solve the equations
+for the classical system by going to rotating frame.
+And I want to show you where this is exact and where not.
+OK, so this is actually something
+which we do in undergraduate, definitely in 8.012,
+but let me remind you.
+When we have a rotating vector, which
+rotates with a constant angular momentum--
+with a constant angular frequency,
+then the time derivative of the vector is the cross product.
+But now we want to allow-- so this is when the vector is
+constant and just rotates-- but now we
+want to assume that there is something else, as an arbitrary
+time dependence of the vector in the rotating frame.
+So we have a vector which changes according to A dot 0,
+but it also rotates, and that means--
+and this is exactly shown in classical mechanics--
+that in the inertia frame, the time derivative
+is the sum of the two.
+It is the change of the vector in the rotating
+frame plus omega cos of A.
+So it has this equation.
+Has the simple two limiting cases.
+But if there is no change in the rotating frame,
+then you retrieve the kinematics of pure rotation.
+
+When our rotating frame is not rotating
+or it rotates at zero angular frequency, then of course
+the two time derivatives are the same.
+But anyway what I derived for you is an operator equation
+that the time derivative in the rotating frame
+is related to the time derivative
+in the inertia flame in this way.
+
+And now we want to apply it to our angular momentum, L dot.
+
+So this is just applying the operator equation
+to our angular momentum, L. And now we
+want to specialize that the equation of motion
+for the angular momentum was that it's L cross gamma B.
+And then I add this.
+So if we now describe our precessing classical magnetic
+moment, which has the equation of motion
+that L dot is L cross gamma B. If we describe it in a rotating
+frame, then the equation of motion
+gets modified as follows.
+
+Now what happens is we factor out the gamma.
+Gamma L cross B is the real field.
+
+So what we observe is that when we go into a rotating frame--
+and this is exact-- that the real magnetic field gets
+replaced by an effective magnetic field,
+because there is an extra term added to it, which we can call
+a fictitious magnetic field.
+
+So this is just an exact transformation
+of our equation of motion for a precessing
+system into the rotating frame.
+And now, of course, we haven't made any assumptions
+what the rotating frequency is.
+But if you would choose the rotating frequency
+to be the Larmor frequency minus gamma times B,
+then our effective magnetic field vanishes.
+And then we know, because there is no magnetic field,
+the angular momentum is constant in the rotating frame.
+
+In other words, the dynamics of this system
+means that L is constant in a rotating frame,
+and if you want to know what happens
+in the original, in the lab frame, in the inertia frame,

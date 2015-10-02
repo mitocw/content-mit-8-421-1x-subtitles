@@ -1,0 +1,32 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L3e.txt
+#
+# Captions for 8.421x module
+#
+# This file has 22 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Now we want to go deeper into the quantum domain
+by talking about the spin 1/2 Hamiltonian.
+
+So in other words, we want to go beyond expectation values.
+We want to talk about the wave function itself.
+So the Hamiltonian, which we will
+use for major parts in this course,
+it's one of the fundamental Hamiltonians in physics.
+Of course, there is the harmonic oscillator,
+there is the hydrogen atom, but then there
+is this Hamiltonian, which is a two level system with splitting
+omega 0, and then we make a simplification where
+we use pure exponentials-- so a single frequency in complex
+notation, with a complex exponential,
+e to the i omega t as the derived term.
+So this is one of the simplest Hamiltonians
+for this kind of system.
+It's a two level system with a splitting,
+and now it is driven, and the simple strive term is not
+cosine omega t or sine omega t, as we will see,
+the simple strive term is e to the i omega t.

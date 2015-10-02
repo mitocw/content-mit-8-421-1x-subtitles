@@ -1,0 +1,44 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L1a.txt
+#
+# Captions for 8.421x module
+#
+# This file has 34 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+We want to start talking about a seemingly simple, but very
+complex system in physics-- the harmonic oscillator.
+So the next part is actually due to Professor Vladan Vuletic,
+who worked out the topic very nicely about how precisely can
+you measure frequencies.
+And I don't need to remind you that some
+of the most accurate measurements in all of physics
+are done by measuring frequency.
+It's actually a kind of unwritten rule.
+If you want to measure something precisely,
+make sure you find a way that this quantity can be measured
+in a frequency measurement.
+Because frequencies, that's what we
+can measure, with synthesizers, with clocks and such.
+So therefore, the question how precisely can you
+measure frequency is a question which
+is actually relevant for all precision measurements.
+So well, we know we have Fourier's theorem.
+If you have an oscillator which oscillates for a time, delta t,
+we have the Fourier theorem, which
+says we have a finite width of the frequency
+spectrum, delta omega.
+But there is a spread of frequency components involved
+in such a way that delta omega times delta t
+is larger or equal than 1/2.
+The case of 1/2 is realized for Gaussian wave packets.
+And of course, this Fourier limit
+should remind you of Heisenberg's uncertainty
+relation.
+Of course, Fourier limit and Heisenberg uncertainty relation
+are related, because what Heisenberg expressed
+turns out to be simply the limit due to the wave
+nature of matter.

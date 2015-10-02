@@ -1,0 +1,30 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L3c_CQ1.txt
+#
+# Captions for 8.421x module
+#
+# This file has 20 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Let's now talk about features of, yes,
+the most important thing for us, namely the two-level system,
+which is spin 1/2.
+
+The most genetic system is an electron in a magnetic field, B
+times e z.
+And why don't we start with a quicker question.
+So the question is, what is the level structure of the electron
+in the magnetic field?
+It's a two-level system, and you have two options,
+A and B. One option is, the upper state is spin up,
+the ground state is spin down.
+Or, the opposite.
+So in other words, tell me whether an electron
+is in the lower state when the spin is up
+or when the spin is down.
+You would say it's a stupid definition,
+but we talk all the time about an electron is in the spin
+down state, or the spin up state, which is the lowest

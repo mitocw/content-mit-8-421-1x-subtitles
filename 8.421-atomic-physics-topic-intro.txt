@@ -1,0 +1,288 @@
+#
+# File:   content-mit-8-421-1x-subtitles/8.421-atomic-physics-topic-intro.txt
+#
+# Captions for 8.421x module
+#
+# This file has 278 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+Welcome to a new teaching, a new lecturing of 8421.
+
+
+AMO science is booming and is rapidly advancing,
+and a lot of it is really due to, well, of course,
+new insight, new ideas, new breakthrough but also combined
+with technology.
+We have seen over the last couple of decades
+a major development in light sources.
+If I remember what lasers I have used in my PhD
+and what lasers you are using, wow, there's
+a big difference-- big difference in performance
+but also big difference in reliability and convenience.
+But just a few systems which didn't exist a few decades ago
+are Ti-sapphire laser, which has really
+become the workhorse of generating lots
+and lots of power in the infrared domain,
+but then it can also be frequency-doubled
+to the visible.
+When I was a post-doc in the early '90s,
+people just started to use diode lasers in atomic physics.
+Well, here you are 20 years later.
+We see a much more solid-state lasers,
+and I would say even in the last five to 10 years
+there has been another, well, evolution
+is too strong a word, but another major advance by having
+extremely high power fiber lasers, which are covering more
+and more of the spectral range.
+So we have seen major advances in shaping short pulses.
+I remember when I was a student how femtosecond lasers were
+the latest.
+Well, they required a big laboratory,
+and femtosecond pulses could only
+be produced in a few laboratories in the world.
+With the discovery of the Ti-sapphire laser and Kerr-lens
+modelocking this has now become standard
+and is even commercially available.
+But researchers have pushed on, and attosecond pulses are now
+the frontier of the field.
+Well, if you have very short pulses,
+that also opens up the possibility
+to go to really high intensity.
+You don't need so much energy per pulse.
+If the pulse is very short, you reach a very high intensity,
+which is in the range of terawatt,
+and it is now pretty standard.
+If you focus the short-pulse laser,
+in the focus of the short-pulse laser
+you create electric field strings,
+which are stronger than the electric field in an atom.
+So therefore the dominant electric field
+is the one of the laser, and then you
+may add perturbatively or in whatever scheme
+the field between the electrons or the electron and the proton.
+So this is the generation of light,
+but light also wants to be controlled,
+and this is done by using cavities.
+A single photon would just fly by,
+but if you want to a photon to really intimately interact
+with an atom, maybe getting absorbed immediate,
+absorbed immediate, if you really
+want to have the photon as a [INAUDIBLE] state
+and not just as something which flies by, you need cavities,
+and not just as something which flies by, you need cavities, And we have really seen peak advances
+And we have really seen peak advances
+in superconducting cavities, super coatings
+in the optical regime, and cavity
+QED in the optical and the microwave domain
+have led to major advances, and a series
+of spectacular experiments have formed now with single photons.
+So the single photon is no longer
+an idealized concept for the description of light atom
+interaction.
+It has been a reality, and single photon control
+has as advanced greatly.
+Well, you can make major advanced in terms of light,
+find new lasers, shorter pulses, higher intensity pulses
+and things like this, but the other part
+of atomic physics, one is light, the other one are the atoms.
+We haven't invented new atoms yet.
+We still got stuck with the same periodic table,
+but we have modified the way how we can prepare and control
+atomic samples.
+A big revolution in the '90s or '80s
+has been the cooling of atoms that now
+microkelvin and nanokelvin and with evaporative cooling,
+even picokelvin regime has become possible.
+In terms of atomic samples, this was
+a revolution which took place during my time as a researcher.
+Atoms always meant you had a sample of individual atoms.
+Sometimes you started in the action
+when two atoms were colliding, but atomic physics was really
+the physics of single particles or two particles
+interacting, colliding, or forming a molecule.
+But the moment we reach, for cooling, nanokelvin
+temperature, atoms move so slowly that they feel out
+each other, and that means, suddenly, we
+have a system to do many-body physics.
+So the advent of quantum degenerate gases
+and many developments after that with optical lattices and lots
+of bells and whistles really meant
+that-- and this is dramatic-- that atomic physics has
+made the transition from single- and two-particle physics
+to many-body physics.
+And for several research groups in the Center
+for Ultralcold Atoms this is, of course, an important frontier.
+Well, somewhat related to that but more generally,
+the precision in preparation and manipulation
+which atomic physics has reached with quantum systems
+puts now atomic physics in the leading position
+at the forefront of exploring new aspects of Hilbert space.
+One can see that Hilbert space is vast,
+but what is realized with simple quantum
+system is only a tiny little corner of Hilbert space.
+And atomic physics, if I want to define it
+in the most abstract way, the goal
+is to master Hilbert space, and that
+means we want to harness parts of Hilbert space
+which are characterized by quantum entanglement--
+maybe in simple form, between two particles
+but also between many particles.
+And, of course, this has led to whole new frontier
+in quantum computation and quantum information processing.
+So this sort of should show you that how technology, new ideas,
+control, manipulation is suddenly
+opening up whole new scientific directions.
+And just to add something more recent to the list,
+we have now a major research direction
+in AMO physics dealing with cold molecules,
+and they're even prospects of rewriting chapters
+and they're even prospects of rewriting chapters What happens when you do chemistry
+What happens when you do chemistry
+but not in the ordinary way but at nanokelvin temperature,
+or what happens when you do chemistry
+where you have coherent control in such a way
+that maybe the molecules before and after the reaction
+are in the coherent superposition state?
+So, in that sense, the conclusion of the introduction
+is atomic physics has been successful because it continues
+to redefine itself.
+<i><b><u><font color=#00000000></font></u></b></i>
+And to prove the case I can say when
+I tried to predict-- I didn't even try because I knew
+it wouldn't work-- but if I tried to predict
+10 years ago what would be the hot topics of today,
+I would have failed.
+What happens is just breakthroughs and discoveries,
+and usually they happen in areas where they are not predicted.
+As another angle, atomic physics has
+seen more than its usual share of Nobel prizes
+in the last two decades.
+Maybe the prize in 1989 for ion trapping
+and Ramsey spectroscopy.
+Ramsey spectroscopy is used for all the generation
+of atomic clock.
+Ion trapping is the basic building block.
+This was sort of given for some of the technology,
+but this was the only prize in the long list I'm writing down
+now which was given for something which was maybe
+invented a few decades ago.
+A lot of Nobel prizes are given decades after the discovery.
+But all of the more recent Nobel prizes, and this speaks
+for the vitality of the field, were
+awarded for developments which had just happened in the decade
+before the prize, whether it was laser cooling, just
+invented in the '80s, whether it was Bose-Einstein condensation,
+observed first six years before the 2005 prize
+on precision spectroscopy with lasers and frequency comb.
+This was also a development that happened just a few years ago.
+And the most recent recognition for Serge Haroche and Dave
+Wineland is about the manipulation
+of individual quantum system, and the highlights of this
+were accomplished just, let's say,
+over the last five or 10 years.
+<i><b><u><font color=#00000000></font></u></b></i>
+Just sort of to make a general case here,
+I continue to be amazed how interesting and rich
+the physics of simple systems are.
+I actually expect that maybe even two Nobel prizes
+in the near future for pretty much understanding
+the Schrodinger equation.
+You would say this has been done in the old days of quantum
+mechanics in the '20s and '30s, and, of course, lots of people
+have been recognized.
+But there are to aspects of the Schrodinger equation
+which hadn't been understood or which have been understood only
+recently.
+One is the aspect of entanglement and error
+correction.
+Nobody, until 10 or 20 years, nobody [INAUDIBLE]
+and collaborators introduced error correction would
+have thought that a quantum system can de-cohere,
+but you can reestablish coherence
+by what is called quantum error correction.
+This are properties of the simple Schrodinger
+equation for just a few, well, qubits
+for a few particles, which were not known,
+or even the expert in field would have flatly said,
+no, this is not possible.
+And another aspect of actually single particle quantum physics
+which has been fully appreciated only recently
+is the question of Berry phase and topological phase.
+All the [INAUDIBLE] in condensed matter physics,
+which is also spilling over to atomic physics,
+of quantum hall effect, topological insulators and all
+of it means that there are nontrivial
+phases, nontrivial symmetries in the single particle Schrodinger
+equation.
+So just that as a case in point that the single particle
+Schrodinger equation, lot of people
+thought in the '40s and '50s, that's it;
+there's nothing else to do research.
+And now we see whole new fields emerging, exploiting
+new aspects of the Schrodinger equation.
+Will there be something else of the same caliber
+<i><b><u><font color=#00000000></font></u></b></i>
+20 years ago, people would have said, no,
+and, I just gave you to examples of major new insight which
+has really changed our understanding of quantum
+physics.
+A few years ago I served on a National Academy
+of Science committee trying to be impossible,
+to predict the future of the field.
+But sometimes the National Academy of Sciences
+is asked to give advice and try to provide the best wisdom
+possible what is exciting.
+Of course we didn't predict the future, but at least,
+to the extent possible, we summarized
+what are the frontier areas where see rapid development
+and where it would be worth investing further.
+And you will actually see that the number of those frontier
+areas are where your research happens.
+One is the traditional area of precision measurements.
+As long as atomic physics exists,
+one of the specialties of atomic physics
+is we can do precise measurements, atomic clocks,
+and precision measurements of fundamental constants, and all
+that, and that continues until the present day.
+It was just two weeks ago that there
+was a new major paper on the really
+major advance in atomic clocks.
+Strontium neutral atom clock has reached the precision
+of 6 times 10 to the minus 18.
+It's amazing.
+It's amazing. You really have to carefully understand and measure
+You really have to carefully understand and measure
+small changes in the black-body radiation because just
+the black-body radiation creates frequency shifts, which
+would interfere with that precision--
+an amazing accomplishment for the field.
+So precision measurements continue
+to be an important frontier.
+Of course, there's always the aspect
+of metrology, determine time frequency and other things
+with higher and higher accuracy, but there are also
+applications.
+Just one example is magnetometry.
+Atomic physics methods can be now used.
+If you probe an atom in an environment ,
+you can measure the magnetic field.
+So people are now talking about using atoms or artificial
+atoms in the form of NV centers to measure
+the magnetic field in biological cells and all that.
+So measurement has fundamental aspects
+but has also applied aspects
+Well, other frontiers are, of course you can use the work
+'ultra--' ultracold.
+We've talked about high intensity lasers--
+ultraintense, ultrashort.
+Atomic physics is more and more getting
+involved with nanomaterials, materials with new properties,
+maybe materials with a negative index of reflection,
+metal materials, or, in general, plasmonic materials.
+Nanomaterials can help to shape light and explore
+new aspects of how light interacts with matter.
+And, of course, a major frontier is a frontier
+of quantum information.
+<i><b><u><font color=#00000000></font></u></b></i>

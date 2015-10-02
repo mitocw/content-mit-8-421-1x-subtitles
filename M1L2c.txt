@@ -1,0 +1,105 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L2c.txt
+#
+# Captions for 8.421x module
+#
+# This file has 95 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So we want to go back to our classical magnetic moment,
+and understand the motion of it.
+But in addition to what we discussed so far,
+a stationary magnetic field, we're
+now going to add a rotating magnetic field.
+
+So we have a magnetic moment.
+We assume it's classical.
+And we have a magnetic field, which we
+assume points along the z-axis.
+And then, of course, we know that--
+from our previous discussion-- that the spin
+undergoes precession.
+It sort of precesses around the magnetic field
+at the Larmor frequency.
+And let's assume we have a rotating field.
+We add a rotating field, B1.
+And just to keep things simple, we
+want to assume that the rotating field rotates
+at the same frequency as a magnetic moment,
+so we are on a resonance.
+Because what happens now is we can simply do a transformation
+to the rotating frame.
+
+The rotating frame is now at the Larmor frequency.
+And we've just learned that in the rotating frame-- of course,
+in the rotating frame, the rotating field stands still.
+So it becomes a static field which
+points in the x direction.
+And we have the static field in the z direction.
+But now that's what I just gave you.
+We have a fictitious magnetic field,
+which comes from the transformation to the rotating
+frame.
+And on resonance at the Larmor frequency,
+this is exactly the negative of B0.
+
+So in other words, we started out
+to expose a magnetic moment to a time dependent field.
+
+So we had a rotating field cosine omega L t sine omega L
+t.
+
+But in the rotating frame, this becomes now the x prime-axis,
+and it's stationary in the rotating frame.
+
+So this was a field in the lab frame.
+In the rotating frame, we have an effective field,
+which is the field in the lab frame
+minus the fictitious field.
+And the fictitious field was given by that.
+It just cancels the B0 component.
+And in the rotating frame, this vector and this vector
+cancels, and we're just left with the field of strength
+B1, which points in the x-axis.
+
+Well, actually the x-axis in the rotating frame
+is what I called x prime.
+So therefore we have a very simple problem
+that in the rotating frame we have
+a static field of value B1.
+And the good thing is we know already what a magnetic moment
+does with a static field.
+The magnetic moment is just precessing
+around the static magnetic field.
+So therefore our solution is now we have transformed away
+the time-dependent field, and now we
+know that mu precesses around this field,
+and the precession frequency is the Rabi frequency, which
+we discussed previously.
+
+The Rabi frequency is the gyromagnetic ratio times B1.
+So therefore if you would start out
+with a magnetic moment aligned with the z-axis,
+if you would wait half a Rabi cycle,
+the magnetic moment would now be inverted.
+
+So the situation is we have a magnetic moment which
+points in the z-axis with a field in the z-axis.
+But we expose it to a rotating field
+which rotates in the xy-plane.
+And the stationary frame-- so in the rotating frame,
+we have a stationary field which points in x.
+In this rotating frame, the spin is simply
+precessing around what is now a steady field,
+and after half a Rabi cycle, the spin points down.
+So therefore we know, going back to the lab frame,
+that this rotating field has caused--
+in quantum mechanics I would say a spin flip-- a full reversal
+of the magnetic moment.
+And this is what we call a pi pulse.
+It has rotated the spin by pi.
+Or we call it a spin flip.
+But it's a completely classical system.

@@ -1,0 +1,77 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L2a.txt
+#
+# Captions for 8.421x module
+#
+# This file has 67 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+We're spending quite some time in class just to figure out
+that something is rotating.
+So what we've figured out here is
+that the effect of a rotating frame
+is to simply add a fictitious magnetic field
+to the real magnetic field.
+And that's very handy.
+For instance, we know that immediately if you have a real
+magnetic field, and we pick the fictitious magnetic field
+in such a way that the real magnetic field,
+that the total field cancels-- that it cancels the total
+magnetic field--
+Well, then we have a system viewed from the rotating frame
+where the effective field is zero.
+Well, a spin of zero field does nothing,
+and then we know when we go back into the lab frame,
+all of the spinning [INAUDIBLE], and it rotates.
+It's an exact solution.
+I want to use it today again, but in a different way.
+But I want to just point it out, today we're
+not picking the fictitious field to make the magnetic field
+zero.
+Today we're talking about what happens
+to a spin in a rotating field.
+Complicated.
+A time-dependent problem, time-dependent Hamiltonian.
+But if you go in a rotating frame
+and we rotate with the field, then in the rotating frame
+it becomes a time independent problem,
+which we can immediately solve.
+So today we use the same transformation again,
+but we pick our frequency not to cancel some static field,
+we pick our frequency to co-rotate
+with an external rotating field that in our rotating frame now,
+everything is stationary.
+So that's what you want to do today.
+And finally, just to give you an outlook,
+just try to of make you aware that often what we're doing
+is the same thing in a different angle.
+So this is one way to deal with rotation.
+I give you an exact solution by going to rotating frame.
+I will later show you today that quantum mechanically,
+the solution to the Heisenberg equation of motion
+for an angle of momentum, or magnetic moment
+in a magnetic field is exactly a rotation.
+So I will again show you that a quantum mechanical solution,
+the solution of a time-dependent problem is exactly rotation.
+And later on, when he use Hamiltonian,
+when we use the spin 1/2 Hamiltonian,
+and we write down the wave function, we solve,
+sometimes, the wave function by transforming the wave function.
+And this will be, again, the rotating frame transformation.
+It's not always called like this, but it's always the same.
+You go to some form of rotating frame,
+and we'll do that in three different ways.
+This is the first way, just as a general classical physics
+transformation to rotating frame.
+We will do it again for the expectation
+value as a solution of Heisenberg's equation
+of motion, and then we do it again
+when we transform the wave function
+with a unitary transformation.
+
+A lot of time for simple rotations,
+but it's a good thing.
+It really provides a lot of insight.

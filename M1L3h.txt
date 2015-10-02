@@ -1,0 +1,69 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L3h.txt
+#
+# Captions for 8.421x module
+#
+# This file has 59 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+OK, so this is the famous Hamiltonian,
+and of course, if it's the famous Hamiltonian,
+we want to solve it.
+As I said, the general solution is left to the homework,
+but I want to sort of show you parts of the solution
+to tell a story.
+And the question is, well, how do we solve this Hamiltonian?
+The answer is we do exactly as we
+did in the classical problem.
+We transform to the rotating frame.
+In other words, this Hamiltonian is best
+solved by doing-- you can actually solve it directly.
+You can just put in a trial wave function and solve it.
+But I want to sort of bring out the big idea here,
+which is analogous to what we have
+done in the last few classes.
+Namely we have involved rotating frames.
+So what solves this Hamiltonian is a unit heavy transformation,
+and the unit heavy transformation is this one.
+
+And so this unitary transformation,
+it transforms the Hamiltonian to a time independent one.
+We have now time independent of diagonal matrix elements.
+Our title matrix elements have changed.
+Delta is now the detuning of the tri
+frequency from the energy splitting of the two level
+system.
+In particular, when we are on resonance,
+the diagonal matrix elements have disappeared.
+This is the result of the unitary transformation.
+
+Let we just show you this transformation over here
+can be actually written as an operator involving
+the z component of the magnetic field.
+And what I just wrote down for you is actually
+the quantum mechanical operator, the rotation
+operator for performing a rotation around the z-axis.
+So by selecting the rotation angle to be omega t,
+that's how I can generate the unitary transformation.
+And this unitary transformation makes the Hamiltonian time
+independent.
+So in other words, everything is in the classical system.
+We just go to frame, which rotates with the [INAUDIBLE]
+drive, and we find a time-independent problem.
+So now this Hamiltonian can be easily solved.
+
+And you will find as a special case
+when you start with an amplitude,
+initially you start in the ground state.
+When the excited state, amplitude squared,
+the general is the Rabi oscillation, something
+we discussed 40 minutes ago.
+
+But before we got it from the classical quantum
+mechanical correspondence using the Heisenberg equation
+of motion, and here it comes out by explicitly
+solving for the wave function for the [INAUDIBLE]
+atom Hamiltonian.

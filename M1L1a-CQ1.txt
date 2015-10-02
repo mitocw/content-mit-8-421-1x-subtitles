@@ -1,0 +1,24 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L1a-CQ1.txt
+#
+# Captions for 8.421x module
+#
+# This file has 14 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+OK.
+So I want you to think about some seemingly simple
+questions.
+The first question is whether the uncertainty-- delta
+omega times delta t larger than 1/2--
+does this uncertainty hold for purely classical systems?
+
+So we now assume we have a purely classical-- you can even
+think a mechanical, large mechanical object-- purely
+classical harmonic oscillator.
+You can observe it for time delta t.
+Or it oscillates for time delta t.
+Can you determine its frequency, better than this uncertainty suggests,

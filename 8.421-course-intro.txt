@@ -1,0 +1,318 @@
+#
+# File:   content-mit-8-421-1x-subtitles/8.421-course-intro.txt
+#
+# Captions for 8.421x module
+#
+# This file has 308 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Given all this excitement, you have many reasons
+to want to learn more about it, and this course is definitely
+a good starting point.
+Let me maybe tell you a little bit
+what is the philosophy behind the course, and what you get.
+That means, of course, at the same time,
+what you will not get.
+This course is meant as an systematic basic introduction
+into AMO physics.
+
+It should really lay the basic foundation,
+that when you talk about atoms, when you talk about light,
+you are really an expert and you can talk about it at the most
+profound level.
+So it's important here, and this is the goal of this course,
+to provide enough knowledge, enough foundation for that.
+So it's not a course where I just
+try to send you highlights of the field,
+and provide you with a semi understanding of all
+this wonderful phenomena.
+I rather try to focus on selected basic things, but then
+also exciting things.
+But rather explain them thoroughly
+and teach you by example than teaching you a big overview.
+
+The course, if I want to characterize it,
+I would say it is a conservative course.
+It's also in this sense traditional.
+One reason for that is MIT-- the tradition we have at MIT.
+At MIT, we have this several generation of atomic physicists
+who have shaped the field.
+And I learned atomic physics as a postdoc
+from Dave Pritchard, who was a graduate student of Dan
+Kleppner.
+Dan Kleppner was a graduate student from Norman Ramsey.
+And Norman Ramsey was a postdoc with I. I. Rabi.
+And Rabi resonances, RF resonances,
+this is the beginning of atomic physics-- the resonances.
+That's what we also focus on today and in the first week.
+This is the most important concept in atomic physics.
+To really understand the nature of resonances
+and all its implication.
+So I should say when I-- late in my life--
+I was already past 30 when I took the first atomic physics
+class in my life.
+I took it from Dave Pritchard, and I was really sort of amazed
+about a course which had the traditional topics,
+but provided a lot of insight.
+You can teach traditional physics
+from the perspective of somebody who does research today.
+So I want to give you all the connections,
+but at the same time, I like a lot
+about the traditional approach, and some of it
+can be traced back to Norman Ramsey.
+So eventually over the last years,
+I was the main person who has shaped the atomic physics
+course.
+I expanded it from one semester to two semesters.
+But when I created a lot of new topics,
+I always looked through Dan's and Dave's note and made sure
+the best of what they taught, the best ideas
+they put into the course-- they still survive
+until the present day.
+So this course is the development and continuation
+of a longstanding tradition.
+I should say I have immensely enjoyed
+to co-teach the course on a couple of occasions with Vladan
+Vuletic and Ike Chuang.
+And Ike has made major contributions
+to the second part of the course,
+and Vladan especially to what we will be discussing
+in the next few weeks.
+
+So what I think is unusual-- you won't find it
+in many textbooks-- is that we start out
+by discussing the phenomenon of resonance
+of the harmonic oscillator.
+And we will emphasize for a while the classical part,
+but then also, of course, go to the quantum
+mechanical aspects of resonance.
+And I have to say, this balance between classical and quantum
+mechanics is something I will emphasize again and again
+in the course.
+I can guarantee you in this course,
+I will sometimes ask you interesting questions
+which challenge your intuition.
+And you will most likely recognize
+that often when your intuition goes completely wrong,
+it happens because you believe too much,
+or you overinterpret one aspect of quantum physics.
+If I then tell you, but wait a moment.
+Now think classically.
+Push the classical concert further.
+Regard the electron in the atom as an harmonic oscillator.
+Regard light scattering as the effect,
+not of a quantum mechanical atom,
+but of a driven harmonic oscillator.
+Suddenly, a lot of things which come out of quantum mechanics
+make much more sense.
+So I've often seen when I had a conflict in my understanding
+and that there is a semi-classical
+and a quantum mechanical explanation.
+I've learned to trust much more they
+semi-classical explanation.
+So that's why I feel it is important to understand
+the classical aspects.
+And usually I would also say understanding means
+to really understand its limits.
+And often I feel you can understand a phenomenon only
+when you have a quantum aspect, a classical aspect,
+and you know exactly where they overlap and where they differ.
+So to see even quantum mechanical objects occasionally
+from the classical perspective provides additional insight.
+So therefore I will emphasize classical aspects.
+And for instance it may come for many of you as a surprise--
+and we will see that next week-- that some aspects,
+like the generalized Rabi frequency.
+Which you've all, or many of you,
+have seen for a two-level system.
+We'll find it in classical resonance.
+Just the classical equation of motion of a gyroscope
+has a generalized Rabi frequency.
+And I do feel that it is absolutely
+important for the understanding of concepts
+that you know, where do the concepts emerge?
+Where are they?
+Are they already there in classical physics and survive
+in quantum physics, or is it something new
+which is genuinely quantum?
+So yes I will teach a little bit more classical physics
+that in a standard AMO course, but because I've
+seen within my own research experience
+that it helped me to shape the intuition
+for the full understanding of the systems we're dealing with.
+So resonance is an overarching theme here.
+But then we have to introduce our main players.
+The atoms come to stage.
+And we want to understand the electronics
+structure, the fine structure, the hyperfine structure.
+We want to understand what happens in
+magnetic, electric, and electromagnetic light fields.
+We want to understand in a deep way,
+how do atoms interact with radiation?
+This also leads us-- there's a big difference.
+You would say, oh, what's the difference when
+atoms interact with microwaves and atoms interact with light?
+Well, light-- or at high frequency, spontaneous emission
+becomes important.
+And then you have an open quantum system.
+You have Hamiltonian, which couples automatically
+to many, many states.
+So that's why radiation is different from just
+electric and magnetic fields, because of the presence of all
+of the vacuum modes, and we'll talk a lot about it.
+There's one special aspect about the course,
+which I don't think I've seen in textbooks in the same way.
+We are singling out in a rather long unit
+the aspect of line shape.
+And OK, we talk a lot about an atom as a resonance.
+But when you measure the resonance,
+there is a line shape.
+And I found it extremely insightful,
+when I first saw Dave Pritchard doing it in his atomic physics
+course, to just talk about all aspects which
+modify the resonance from a delta function-- from a stick
+diagram-- into a real shape.
+It can be Doppler broadening.
+It can be finite lifetime broadening.
+It can be inhomogeneous field.
+But there are lots of interesting effects,
+and by discussing them all together,
+we gain major insight.
+So we discuss how photon recoil, how the velocity of the atoms
+affects the line shape.
+And if you think you've understood everything,
+I will talk to you about a very counterintuitive aspect of line
+shapes, the Dicke narrowing.
+If you put atoms in the environment, you would say
+and they collide.
+This should lead to collision and broadening.
+But there is one aspect where collisions lead to narrowing.
+And that's sort of a highlight of this chapter which really
+shows you how all those broadening mechanisms are
+somehow connected.
+And more towards the end of the course,
+we want to understand what happens
+when atoms interact not just with one photon,
+but with several photons.
+And then we talk about multiphoton processes.
+I should actually say that I'm also emphasizing
+the multiphoton process a lot.
+Often we just simply do a transition between two levels,
+and there is an operator, and it can be single-photon
+or two-photon operator, yes.
+But to understand the multiphoton
+aspect is important, and maybe to just
+give you one aspect of it.
+When you think you do one photon physics,
+often you do two-photon physics.
+A lot of people think atoms can absorb a photon.
+I've never seen in my life an atom
+which has absorbed a photon.
+The photon is immediately re-emitted.
+It's a scattering event.
+An atom cannot absorb a photon for good,
+because the lifetime of the excited state is short.
+So when you think absorption is a single photon event--
+there is a limitation where yes, you
+are allowed to think about it.
+But if you get confused-- and I will confuse you-- then
+you need the fact that every absorption process is actually
+a two photon process.
+Photon in, photon out.
+And sometimes by remembering that it's not
+single-photon-- there are always two photons involved--
+it helps you to avoid some pitfalls
+of the single-photon picture.
+So therefore multiphoton, yes.
+It's not just high intensity, two-photon transitions
+in atomic hydrogen or such.
+It's also about a deeper understanding.
+How does a single photon interact with atoms?
+And finally, there is something which
+has fascinated many physicists-- the question about coherence.
+And coherence is as fascinating as it is diverse.
+Because coherence has many aspects
+and has many implications.
+And I also like a lot in this traditional MIT course
+that coherence is sort of singled out as a chapter,
+and how I tell you about all the different phases of coherence
+in this chapter, and not scattered
+throughout the whole course.
+We have coherence in single atoms.
+The simplest one is a coherent superposition
+of two-levels, which is so simple that it's almost boring.
+But there is an enormous richness
+when we put in a third level.
+About 20 years ago, an understanding
+of three-level physics has really
+created a new frontier in the field.
+And let me just tell you buzzwords.
+Lasing without inversions.
+Electromagnetically induced resonance.
+Those concepts happen due to coherence between three levels.
+And we talk about them towards the end of the course.
+Well, we have coherence within an atom, between two
+different or three different energy levels,
+but we can have also coherence between atoms.
+And at that point, the atoms interact not individually,
+they act collectively.
+And of course, coherence between atoms
+can be the coherence of many atoms
+in the Bose-Einstein condensate, where
+they form one big metawave.
+
+But it can also be the coherence.
+The atoms are not coherent because they're
+from the Bose-Einstein condensate,
+but they interact in a coherent way with light.
+So there's only one aspect where the atoms act coherently.
+They may be in different quantum states,
+but the interaction with the light is absolutely identical.
+And when it then comes to optical properties
+of the system, the light doesn't care
+if the atoms are different.
+The light only cares whether the atoms interact
+with the light in an absolute identical way,
+and then you have certain symmetries of the light, atom,
+and direction.
+And this coherence between many atoms
+in the interaction with light leads to-- I'll
+just give you the buzzwords-- is responsible for the process
+of phase matching.
+When you have a crystalline frequency [? doubled ?]
+laser light, you want all the atoms to interact coherently.
+And it is also important for the phenomenon of superradiance.
+I found the subject of coherence particularly fascinating.
+I should say it was the subject of coherence
+where, some maybe 10 years ago, I
+was in a long-lasting controversy
+with some colleagues in my field.
+They're people like Bill Phillips.
+When I meet him, he's one of the smartest atomic physicists,
+and one of the fastest ones, and ideas just fly back and forth.
+And there was only one example where we disagreed
+over a long period of time.
+Where he had good intuitive arguments,
+I had good intuitive arguments, and we couldn't agree.
+And this was related to the question when
+it came to atom amplification, some coherent process,
+whether it is really necessary to a Bose-Einstein condensate,
+or whether you can get away with less, which is more
+the superradiant way, where the atoms are
+different on different states, but they have an identical way
+to interact with light.
+And in the end I could prove that certain aspects which
+all people thought in the field were
+due to the coherent nature of atoms.
+That due to the fact that these atoms can be regarded
+as an atom laser, it was just some form
+of superradiance in disguise.
+But so anyway, you will notice some of my own interest
+in the chapter of coherence when I teach it.
+But it's something which is-- yes,
+phase matching and superradiance is the physics of the '50s,
+but a deeper understanding of it really
+developed when we had Bose-Einstein condensates

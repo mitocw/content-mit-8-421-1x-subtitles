@@ -1,0 +1,156 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L1f.txt
+#
+# Captions for 8.421x module
+#
+# This file has 146 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So with that, let me make the transition
+to another simple system.
+And we want to spend some time on it.
+And these are rotating systems.
+
+So a system which rotates, well what do you think,
+will it behave using the discussion we
+just, more a classical system or more
+like a kind of mechanical system?
+
+Of course, I gave you a very special definition
+what brings out quantum mechanics in a system.
+
+The harmonic oscillator is always linear.
+You can drive it as hard as you want ,
+you drive hundred times stronger,
+and the reaction is hundred times more,
+everything is linear.
+The [INAUDIBLE] over two level system
+comes from [? separation ?].
+
+What about a rotating system?
+
+Something which can go in a circle.
+Sometimes hard to ask a simple question, without giving
+the answer away, but what I had in mind
+was the gyroscope, a gyroscope which is precessing.
+And what I wanted to sort of lead you
+with the question is, if you have something which rotates,
+the amplitude is limited.
+A rotating object, let's assume a magnetic classical magnetic
+moment, it can have a precession angle,
+which is 180 degrees, but that's a maximum.
+In other words, the rotating system when you excite it,
+has a maximum amplitude.
+Exactly as a two-level system.
+So that's what a rotating system and a two-level system--
+but could actually then-- I'm now
+specializing on more rotating gyroscope.
+If you have a free rotator, this of course
+can rotate with every type of angular momentum
+and the excitation spectrum would not be bound.
+So I think I have to rephrase the question the next time I
+teach the class, I wanted to ask you here
+about a special rotating system, which
+was a processing gyroscope.
+So rotating system, if you think about, processing gyroscope,
+it has a [? band ?].
+On the amplitude it can be excited.
+So what I want to show you today,
+and in the next lecture is, that the motion
+of classical magnetic moments.
+
+When you think about the motion of classical magnetic moments,
+think about a compass needle, a magnetized needle,
+which is angular momentum.
+
+And the system is acted upon with a magnetic field,
+so this is our system.
+And if angular momentum, magnetic moments, it
+all come into play, we have the physics of classical rotation.
+But the excitation spectrum here is limited,
+because you can flip a compass needle
+and this is a [? maximum ?] excitation.
+When the North Pole points in the opposite direction, that's
+the maximum excitation you can give it.
+So therefore, it has a limited amplitude of its excitation,
+unlike a harmonic oscillator.
+And at this point, you may say, but maybe
+somewhat similar or analogous to a two-level system.
+
+But the surprisingly result is, at least
+it was surprising when I first learned about it, that it's not
+just somewhat analogous to a two-level system,
+it actually kept just exactly a lot
+of the properties of the dynamics of a two-level system.
+So you can write that down.
+The motion of classical magnetic moments provides a model,
+it's actually an exact model, which
+captures essentially all features
+of the quantum mechanical two-level system.
+So I want to show you today and the next lecture
+that concepts of [INAUDIBLE] frequency,
+of generalized off resonant [INAUDIBLE] frequency,
+that all of that, you find in the classical motion
+of a magnetic moment.
+Or for instance, the physics of [? rapid ?] [INAUDIBLE]
+[? land  of ?] [? zeno ?] crossing.
+A lot of physics, we would usually
+associate with a [? kind ?] of system,
+you find it here in a purely classical system.
+What aspects of the two-level system will we not find?
+Any ideas?
+Spontaneous emission definitely, yes.
+But actually in a two-level system,
+in a quantum mechanical two-level system,
+which we drive with a single frequency,
+spontaneous emission is also missing.
+Spontaneous emission as we will discuss later, only
+comes into play when see the excited state of the system
+enter x with many, many modes, and not just the one mode
+we apply.
+And typically, if you go to high frequency,
+we have an optical oscillator we cannot avoid spontaneous
+emission.
+Whereas for a quantum mechanical spin one half
+into acting with microwaves, we can completely
+eliminate spontaneous emission.
+So spontaneous emission I would say
+comes into play at high frequency.
+So that's correct.
+But there is one aspect, even at low frequency,
+one aspect of quantum mechanics which we cannot capture.
+
+[INAUDIBLE]
+Differing [? g ?] factors, yes.
+That's we see a more quantitative aspect,
+but there's one very important feature about quantum mechanics
+you will never get in a classical system.
+[INAUDIBLE]
+Spin.
+[INAUDIBLE]
+
+OK, I think you're skirting around.
+It's a [? quantum ?] [? measure ?] [? in ?]
+[? process ?] and projection.
+If you perform a measurement on a compass needle,
+it can be at any angle.
+But if you do a measurement on a quantum system,
+you do a projection.
+After the measurement projects a system,
+you either spin up or spin down.
+So the probabilistic nature, the projection
+occurring in a quantum measurement
+is of course absent in a classic system.
+
+But when you say, spin one half in quantum levels,
+this is sort of implied in it, that there are only two levels.
+There's only up and down and not an infinite number of angles.
+So what we will actually see is that we
+find an exact analogy between the classical system
+and the kind of quantum mechanical system.
+Then we compare expectation values.
+But the individual measurement, the individual quantum
+measurement, because it is projective is different.

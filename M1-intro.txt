@@ -1,0 +1,404 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1-intro.txt
+#
+# Captions for 8.421x module
+#
+# This file has 394 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Resonance is what describes what is relevant for two level
+systems and also-- and we will touch
+upon this-- resonances are the way how precision
+measurements are made.
+So what is a resonance?
+Well, we can first look at a classic resonance.
+Well, a resonance is something where we have some variable,
+and it varies periodically.
+So, in other words, there's a variable,
+which can be anything.
+It can be the population of quantum state.
+It can be an electric field.
+It can be the precision of an atom.
+It can be any thing you can think about and any thing you
+can measure.
+And if this variable varies periodically,
+you have a resonance.
+Of course, the periodic variation
+usually requires that you drive the system.
+So you first drive it and then the system oscillates.
+And this means now that when you drive the system--
+so this may be a free oscillation,
+but now you drive this system-- with a variable frequency,
+and what you then observe is-- you observe a peak.
+So the phenomenon of resonance is
+that you have something which can periodically vary,
+and then you drive it, you see a peaked response
+when driven with a variable frequency.
+
+We are interested in atomic physics
+in every single possible aspect of these resonance: the shape
+of the curve, how we can modify it,
+what happens when we drive it strongly,
+when we drive it weakly.
+I mean, this-- resonances is really the language
+we talked to atoms with.
+So, but here, I just want to give
+a light-hearted introduction.
+The first thing we want to add to the phenomenon
+that there is a resonance at a certain frequency
+is finite damping, that would mean
+that after the system is driven, the oscillation does not last
+for an infinite amount of time.
+And that implies that when we drive the system,
+and look at the response as a function of frequency,
+there is a finite width delta f for the driven system,
+and as we will see in many ways, the damping time and delta f
+are related by Faurier transform.
+
+And we usually characterize oscillators
+by the sharpness of the resonance.
+And the sharpness of the resonance
+is the ratio of the width of the resonance and the frequency,
+or the inverse of it.
+So if you have an oscillator at kilohertz and resonance
+is one Hertz wide, we see the resonance has
+a q, a quality factor of 1,000.
+And it means you can observe a thousand oscillations
+before the oscillation decays away.
+So what is special about atomic physics here?
+Why do I emphasize it in the introduction
+of an atomic physics course?
+Well, the system is that in atomic physics,
+we often have exquisitely isolated system, an atom
+in a dry vacuum chamber, or systems
+which are prepared with all of the tools
+and precision which we have developed
+over decades in atomic physics.
+And therefore, the result is, that in atomic physics,
+our oscillators are characterized by an extremely
+high quality factor q.
+And let me give you an example.
+If we look at an optical excitation--
+
+Maybe let me point out that something you all
+should try when you take a class in atomic phsyics-- or even
+more so, when you do research in atomic physics--
+that you have a few numbers in your mind which match.
+So, every single person in this room
+should know what is the frequency of light.
+How many Hertz is-- what is the frequency of a laser?
+The number I usually use for those estimates
+is 10 to the 15 Hertz.
+Who knows what wavelengths this laser is?
+10 to the 15 is--
+
+Well, I've used some visible light, but the speed of light
+is 3 times 10 to the 10.
+So therefore, if I just use a power, 1o to the 15 Hertz,
+it has to be 300 nanometer.
+OK.
+So, never forget that for the rest of your life.
+300 nanometer is 10 to the 15 Hertz.
+This means the most of us who are working
+with rubidium, lithium, and sodium, which
+is 600 nanometer or 800 nanometer,
+the frequency is more.
+5 times 10 to the 14 or 3 times 10 to the 14,
+but just as a ballpark number, 10 to the 15 Hertz
+is 300 nanometer.
+OK.
+So if you have an optical excitation,
+and many atoms have that, what is the q,
+what is the quality factor of this resonance?
+Well, when you stabilize your laser to a vapor cell
+and you look at the resonance, then you
+observe in the vapor cell, that you have room temperature
+Doppler broadening.
+We talk about Doppler broadening later
+in this course-- that usually corresponds to a frequency
+width on the order of a gigahertz.
+And that means that your quality factor is on the order of 10
+to the 6.
+A million.
+That's pretty good, a million oscillations.
+It's a very pure oscillator.
+But of course, you can do much better
+if you do Doppler free spectroscopy,
+either by having an atomic beam which
+is intersected at a right angle, or even better,
+put the atoms in an optical lattice.
+And this is what people are now doing with the optical lattice
+clocks, that they put an atom in an optical lattice
+where the Doppler broadening is completely eliminated.
+If you take a metastable level that the lifetime
+of the excited state is maybe one second,
+and stronsium and other atoms have those levels-- have
+those metastable levels, then you
+can actually get a line width, which is one Hertz,
+and the q factor is on the order of 10 to the 15.
+I will show you a graph and an example of such an experiment,
+and one Hertz line width of an optical transition
+for an optical atomic clock experiment in the next class
+on Monday when I want to discuss other aspects of it,
+but this is one of the world's best
+oscillator you can imagine.
+10 to the 15.
+It's a mind-boggling number.
+
+Well, it's clear why clocks have gone atomically.
+Mechanical systems are actually not bad, but of course,
+not nearly as good.
+If you take a quartz oscillator well,
+you can build pretty good clocks out of quartz oscillators.
+You have quality factors which vary between a few thousands
+and a million.
+The best values are reached at low temperature.
+Even in the advent of atomic clocks,
+quarts oscillators or sapphire oscillators
+still play a role, because you need flywheels.
+An atomic clock, you may interogate
+only every-- the Ramsey spectroscopy-- every tens
+of seconds, you get a signal, and in between, you
+need a flywheel.
+And then, clocks, which have a very high signal to noise
+ratio, but not accuracy, help you to interpolate
+between measurements.
+We see actually a resource of mechanical systems, in the form
+of micro-mechanical oscillators.
+It was only achieved in the last two or three years,
+that micro mechanical oscillators could
+be cooled to the absolute ground state,
+and there's a lot of interest of coupling
+the motion of a mechanical oscillator
+to an atomic oscillator, because if different properties
+and [INAUDIBLE] and computation, and other
+explorations or feel about space,
+you want to have different oscillators
+and take-- combine the best of the properties.
+So therefore, there is a real resource
+in mechanical oscillators.
+And those micro-mechanical oscillators
+have often quality factors of 10 to the 5.
+This is a micro-fabricated device.
+It looks like a little mushroom.
+And what happens is, this mushroom-type structure
+can confine light which travels around the perimeter.
+it's the so-called whispering gallery mode.
+It's similar to an acoustic mode which can travel
+in the dome of a big cathedral.
+That's how it was discovered.
+It's an amazing effect.
+I wish somebody would demonstrate to me.
+But if you go to one of the ancient cathedrals
+and you're in a dome, somebody can talk in one direction.
+The sound can travel around and you can hear it.
+There is a guided, special mode which can travel around
+the perimeter of a dome.
+And here, in the microscopic domain,
+it's light which is confined in such a resonator.
+So this is a resonator for whispering
+gallery mode and that can have a q on the order of a billion.
+
+So the idea here, is that you have
+either one of those mushrooms, or a glass sphere and the light
+can sort of travel around.
+And this is the characteristics of this mode.
+Well, you can go from a tiny glass sphere
+to astronomical dimensions.
+
+And you also find oscillators and the q of those oscillators
+is not really bad.
+How good is the q of the rotation of the Earth?
+
+It fulfills all of our requirements
+for resonance and oscillator.
+It's a periodic phenomenon.
+The Earth goes-- the Earth rotates around the sun
+once a year.
+And the question is, how stable is it.
+Well, the number is 10 to the 7.
+It has a q of 10 to the 7.
+So the precision of the rotation of the Earth
+is better than one part in a million.
+You can also look at the rotation of neutron star.
+If those neutron star emit flashes of x-rays-- these
+are pulsars-- and you can measure
+the rotational of mutant stars, those neutron stars
+have a quality factor of 10 to the 10.
+And of course, if-- as the name says--
+if a resonance has a high quality factor,
+it can be used for quality research.
+The narrower the line is, the more sensitive
+you are to tiny, little changes.
+And you probably know this pulsar with q of 10 to the 10,
+well, has been used for the first-- also
+indirect-- observation of gravitational waves.
+The pulsar rotates with a very precise frequency
+and you can measure it with one part of 10 to the 10.
+And people have seen that over the years,
+the frequency of rotation became smaller.
+And you can figure out that it becomes
+smaller by just one part in 10 to the 10
+because you have this position.
+And what happens is, when the pulsar rotates,
+when the neutron star rotates, it emits gravitational waves,
+and the gravitational waves is energy
+which is taken away from the kinetic energy of rotation,
+and therefore the pulsar slows down.
+So having an oscillator with such a high q
+has allowed researchers to find a small effect
+in the damping of these oscillator,
+which in this case, the gravitational waves.
+Of course, the story I will tell you, is about very small
+changes of atomic oscillators, which
+led to the discovery of the Lamb shift
+and to quantum electrodynamics.
+But the story is the same.
+A high quality oscillator is a tool for discovery.
+OK.
+So, we've talked about resonances.
+
+Of course, there are resonances which are useful
+and there are others which are less useful.
+By useful, we mean they are reproducible.
+You can really make a measurement
+and trust it and repeat it and do it again.
+And, that's not enough for being useful.
+You also want to learn something about it.
+So, we usually regard resonances as useful
+when they are connected to by theory, to something
+we are interested in.
+It can either be fundamental constants
+or-- well, let me see-- other parameters of interest.
+If you want to measure the magnetic field with very
+high precision and you look at atomic resonance,
+it's only used when you have a [INAUDIBLE] which tells you
+how the shift or the broadening of the resonance
+is related to magnetic fields.
+And this is again a specialty of AMO physics.
+We have plenty of resonances which
+are useful by those standards.
+
+And if you compare to astrophysical
+oscillators or quartz oscillators or fabricated
+oscillators.
+In atomic physics, we have the great advantage
+that atoms are identical.
+We know when we measure the transition of atomic hydrogen
+in Japan, in Europe, in the United States,
+the value has to be the same.
+For other oscillators, you often don't know that.
+
+And, the showcase of atomic physics
+is the Rydberg constant, which is
+the best known, the most accurately known constant
+in all of physics.
+And the reason is, because it can be directly measured
+by performing spectroscopy in [INAUDIBLE] with highly
+specialized lasers.
+OK.
+Of course, the question is, who's
+interested in all those digits?
+Why do you want to spend all of your Ph.D. or half of your life
+in measuring the Rydberg constant to maybe 10 times more
+precision?
+Well, it depends.
+It's maybe not something for everybody,
+but there are some connoisseurs who
+think that every digit has provided
+new insight into nature.
+And let me just give you one example.
+If you measure the Rydberg constant very precisely,
+you can know, and this has become a frontier of our field,
+ask the question-- Is there a change with time
+of fundamental constants?
+
+So when you measure the Rydberg constant today with 10
+to the minus 15 precision and measure it again
+in a year, who is guaranteeing to you that you
+will measure the same value?
+So with the precision which I've just
+given to you in this measurement of the Rydberg constant,
+people are now able to see whether the Rydberg
+constant has changed, 10 to the minus 15 per year.
+Of course, you know the age of the universe
+is 14 billion years.
+That's about 10 to the 10 years, so even the worst case
+is, if you would go back to the beginning of the universe
+and the Rydberg constant would change at 10 to the minus 15
+per year, it would have changed by 10 to the minus 5
+over the age of the universe.
+But this would be traumatic, because you can actually
+show that life would not have developed.
+The whole organic chemistry would've been different
+if some fundamental constants of nature
+had been different by one part in 10 to the minus 6, 7, or 8.
+So you have extremely stringent limits
+on how much fundamental constant could have changed
+during the evolution of life, because life would not
+have been the same if fundamental concept is changed.
+The question, of course, is should
+those fundamental constants change?
+The answer is, we don't know.
+But there is a whole research area,
+in string theory, where they say that our universe is sort
+of just one of many possible minima
+in a multi-dimensional space.
+And it's actually a dynamic medium.
+It changes the function of time.
+So that people who wouldn't be surprised
+if the world is not the same in the future
+as it is right now, because the universe
+or whatever defines fundamental constants,
+is changing as a function of time.
+So the question is, will it be during your lifetime,
+or will it even be during, maybe your Ph.D.,
+that one researcher says, we now have a [INAUDIBLE]
+and we find out, that yes, we measure
+the fundamental constant using the most accurate atomic clock,
+and a year later, we've measured something which is a tiny bit,
+but significantly different.
+The second aspect, why you should always measure things
+as accurately as possible-- and this
+is sort of the traditional of our field--
+if you can measure something very accurately,
+do it, because yes, there may be surprises.
+
+And, for instance, when people looked at the same on shift
+with higher precision, they found--
+we will talk about when we talk what
+atoms in the magnetic field-- When people looked
+at the anomalous Zeeman effect, the discovery of that,
+is what nobody expected.
+That particles electron has a spin.
+Or, when people saw a tiny shift in the spectrum
+of atomic hydrogen, it was a thousand megahertz splitting,
+it was the Lamb shift.
+This was the discovery of quantum electrodynamics.
+And, we know that precision always
+becomes a tool, a tool to control atomic systems,
+control quantum mechanics with more precision.
+For instance, if you can completely
+hyperfine structure-- you can prepare atoms
+in a certain hyperfine state.
+If you don't have the resolution, you can't do that.
+OK.
+So we now want to talk-- go back to the resonance.
+When we look at typical resonance,
+we have a frequency omega, the resonance frequency omega
+naught.
+
+And we measure line with standard omega.
+In many cases-- and we will discuss them in great detail--
+the line shape is the Lorentzian.
+And the Lorentzian is the imaginary part
+of a one over x function.
+Omega naught minus omega.
+And then there is this parameter gamma.
+
+Gamma, which appears in the Lorentzian,
+is identical to the full widths at half maximum,
+and the q factor of a Lorentzian is omega naught over gamma.

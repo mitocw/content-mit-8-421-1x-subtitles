@@ -1,0 +1,237 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L2g.txt
+#
+# Captions for 8.421x module
+#
+# This file has 227 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+There's one thing I want to do about classical spins
+and then we do the full quantum treatment.
+And this aspect of classic spins is
+called rapid adiabatic passage.
+
+So we want to add one more twist to our discussion.
+So far we have assumed a static field and a rotating field
+which rotates at one frequency.
+But now we want to change the frequency of the rotating
+field.
+So we have our magnetic moment in a static magnetic field
+which is how a quantization axis,
+and now we have a rotating field,
+but we increase the frequency of the rotating field from slow
+to fast, and ask what happens.
+And the result is, that by increasing the frequency,
+sweeping the frequency through the resonance,
+we can do something very useful.
+We can invert the spin.
+We can turn over the magnetic moment in a very robust way.
+And this is the concept of rapid adiabatic passage.
+A lot of you may be familiar with the concept
+of a Landau-Zener transition.
+What I'm telling you is exactly the classic counterpart
+of the Landau-Zener transition, actually
+in many cases, when it comes to spin physics,
+the classical physics and the quantum physics is the same.
+So that's why I want to discuss rapid adiabatic passage
+and Landau-Zener physics first in the classical environment.
+So rapid adiabatic passage is a technique
+for inverting, turning around, spins
+or magnetic moments by sweeping the frequency of your drive
+field across the resonance.
+So adiabatic means that this frequency sweep has to be slow.
+Slow is slow compared to the Larmor frequency.
+
+At any given moment, the magnetic moment
+processes at the Larmor frequency,
+which is the gyromagnetic ratio times the effective magnetic
+field.
+So, it's sort of quasi-stationary, this spin
+processes around the effective magnetic field
+and we want to change the frequency of the drive,
+slow compared to that motion.
+Well, the word rapid adiabatic passage,
+has the word adiabatic, which means slow, but also rapid.
+
+The word rapid means we have to be rapid
+compared to relaxation processes, which we do not
+discuss here, in an idealized environment.
+For instance, if you do rapid adiabatic passage
+in an environment where the atoms can collide.
+Rapid means you have to do it fast enough before you have
+decoherence due to collisions.
+So slow compared to the Larmor frequency and rapid
+compared that to all the things I'm not mentioning here.
+Rapid compared to decoherence and relaxation processes.
+
+I'm will not set up differentially equation
+and solve them.
+I'm going to give you the intuitive picture of what
+goes on, but then also derive what
+is sort of the criterion for adiabaticity
+which we have to fulfill.
+So what are our ingredients?
+We have magnetic moment mu.
+We have a static field, B naught.
+We have a drive field, B1, which rotates at the frequency omega.
+And we assume that the rotating field is
+smaller than the static field.
+It's not absolutely necessary but you
+apply a big static fields and then you
+have a perturbative drive.
+That's a standard situation.
+Or we always want to have a quantization axis-- which
+is given-- but the z-axis is defined
+by the static magnetic field, but it's only
+defined by the static magnetic field
+if the transverse field is not much
+larger than the static field.
+Otherwise we're talking about a somewhat different problem.
+OK.
+And let me just assume, to be specific,
+we need to discuss what happens if it's not the case.
+We assume that we start with the frequency omega, which
+is much, much smaller than the Larmor frequency-- much,
+much smaller than the resonance.
+
+So what does it mean for our effective magnetic field.
+Let me just catch it for you.
+Remember, our effective magnetic field--
+we have a field B naught.
+We have a drive field B1, which we assume is smaller.
+But then, when we go to the rotating frame,
+we have a fictitious field, but if the frequency omega
+is below the Larmor frequency, this fictitious field
+is very small.
+So therefore, we start out in a situation
+where the effective field is pretty much pointing
+along the z direction.
+OK.
+So just to remind you-- so we have
+a situation where the effective field is just at a tiny angle.
+And if you started out with our magnetic moment aligned in z--
+and we assume B 1 is really perturbative.
+Pretty much, the magnetic moment is very tightly coupled.
+It has a very small procession angle.
+Or if you want, if you take the magnetic field
+B1 to be perturbative, you can say
+the magnetic moment is aligned with the effective field.
+That's the limit of-- that the cone angle of precision
+is very small.
+So let me write that down.
+This was omega, much, much smaller
+than the normal frequency.
+
+So now, we want to turn up the knob
+on the frequency of the drive.
+We want to rotate the drive field B1 faster and faster.
+And the picture you should have, is-- I just wiped it awayy--
+but what that means, is the effective field,
+the fictitious field has now a longer and longer comportment.
+And on resonance, the fictitious magnetic field
+will cancel B naught.
+So in other words, at this point,
+when B naught is canceled, the effective field
+has only the B1 component in the x direction.
+So therefore, when we go to delta equals zero,
+the effective field is only B1 and points in the x direction.
+So what we have done is, by changing the frequency,
+by ramping up the frequency to resonance,
+we have tilted the effective magnetic field
+from the z direction into the x direction.
+
+And at any given moment, I mean, we
+know what the exact solution of the magnetic moment--
+At any given moment, the magnetic moment
+processes around the effective magnetic field.
+And if the procession is very fast,
+and the effective magnetic field is slowly rotating,
+the magnetic moment is just following.
+So therefore, at this point, when we are at resonance,
+we have tilted the magnetic moment by 90 degree.
+Just one second.
+And if you go with the frequency much higher
+than the Larmor frequency, then our fictitious magnetic field
+is much larger than B naught.
+And therefore, the effective magnetic field
+points now in the minus z direction.
+So, the idea is, that as long as this rotation
+of the effective field from being plus z,
+in the x direction, and into minus z, is slow enough.
+The rapid precession is locking, is keeping
+the magnetic moment aligned with the effective magnetic field.
+And we have just a handle we invert.
+We move around the magnetic moment.
+
+So, in the adiabatic limit, the spin processes tightly.
+And by tightly, I mean the angle theta is small around Bf, B
+effective, and follows the direction
+of the effective magnetic field.
+So we are rotating an effective field.
+We are rotating the magnetic moment,
+but we're not rotating anything in the laboratory.
+The only thing we are doing is, we
+are changing the frequency of rotating magnetic field.
+
+Questions?
+Jenny?
+Oh yeah, I was just thinking.
+Can't you also do this by keeping the frequency the same
+and just ramping up the strength?
+
+Yes, I mean, the essence here is that
+the effective magnetic field is [INAUDIBLE] through resonance.
+And what you are suggesting is, if the frequency is constant
+that would mean the fictitious magnetic field is constant.
+But if we were given fictitious magnetic field,
+and we have a huge field B naught--
+the effective magnetic field points out, points up,
+but if you now make the static field, B naught,
+smaller and smaller, go through resonance
+and make it even smaller, we have also
+done an inversion of the effective magnetic field.
+The result is the same.
+Actually sometimes in the laboratory,
+if you have a synthesizer which is not easily
+computer controlled, we do an analog sweep
+of the magnetic field, so we actually
+change the Larmor frequency of the atom,
+instead of changing the drive frequency.
+What really matters in the whole business
+is the relative frequency between the two.
+Is it necessarily true that the spin always processes tightly
+around the effective field?
+Isn't it at resonance, the radius of the circle
+in precession is equal to mu?
+
+Before we found that the radius was mu sine theta.
+And then sine thetha, it was like omega r over--
+Yes, but the way how we've set it up here-- now we start out--
+if you are far away from resonance,
+the angle theta is infinitesimally small.
+Something confuses you.
+Yeah.
+
+See, what we have solved before-- We've done something
+else before.
+What we've discussed before is if we have a spin which
+is aligned, and then we looked at the-- you can say
+the transient solution-- We switched suddenly
+on the rotating field, so then we've
+sort of described that we have a magnetic field which
+is in the z direction.
+We leave it on.
+Our spin is aligned in the z direction.
+And if you then suddenly switch on the rotating field,
+that would mean you have suddenly
+created an effective field which is tilted.
+So then, by the sudden switch on of your drive,
+you have now an angle theta, and the magnetic moment
+processes with the procession of angle theta.
+But what we are here doing is, we
+are ever so slightly changing the angle theta.
+And then, the spin stays aligned.
+That's the difference.

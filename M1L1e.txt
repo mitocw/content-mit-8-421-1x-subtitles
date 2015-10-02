@@ -1,0 +1,113 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L1e.txt
+#
+# Captions for 8.421x module
+#
+# This file has 103 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So let me bring out the difference
+between a two-level system and an harmonic oscillator
+a little bit more by discussing the situation of cavity QED.
+
+Let's assume we want 100% population in the first excited
+state.
+So an harmonic oscillator in the system
+is prepared in the first excited state.
+This is also called a Fock state,
+with one quantum of excitation.
+And it's a rather special state, where people have worked hard
+to generate it, because you cannot realize it
+in an harmonic oscillator.
+And let me explain it in the following way.
+If you have an harmonic oscillator,
+you start and you would drive it.
+And you try to put 100% in the n equals 1 state.
+Before you have accumulated 100% percent
+in the n equals 1 state, you drive it already
+to higher states.
+And of course, you know when you start
+driving an harmonic oscillator classically or quantum
+mechanically, you create a coherent state, which
+is a superposition of excited states.
+So we would say an n equals 1 state cannot be excited.
+
+We usually get a coherent state, which
+is a superposition of several-- of many or at least
+several states.
+Whereas in a two-level system, we can just do a pi pulse,
+and to put all the atoms in the excited state
+is nothing special.
+Whereas to have a cavity filled with photons,
+and selectively excite the n equals 1 state,
+this is special because it's not easy.
+It's not straightforward.
+So in cavity QED, you can do it if you have anharmonicities
+or nonlinearities.
+
+So let me explain.
+That means it needs either in-- well,
+it's an anharmonicity or some form of-- so
+if you have a situation where you
+have your harmonic oscillator, but the energy levels
+are not equidistant.
+
+So the difference between this first and second excited state
+are not the same, then you can drive the system.
+You can prepare Fock state in n equals
+1, like in a two-level system.
+And you're out of resonance to drive it to higher states.
+So here what you realize is a sort of two-level system,
+and that allows you to create those special state which
+are regarded as non-classical, very special states
+of the harmonic oscillator.
+And one way how you can create it-- well,
+if you have an empty cavity, each photon
+has the same energy.
+Then you have an equidistant harmonic oscillator.
+But if you put-- for instance, you add an atom to the cavity,
+and the radiation is interacting with the atom,
+then you get-- we'll talk about it later.
+The atom and the photons interact with the Rabi
+frequency, and then you get a splitting called
+the normal mode splitting.
+
+And this level splitting is proportional to the Rabi
+frequency, and we discuss it later.
+But many of you know that the Rabi frequency
+scales with the square root of the photon number.
+So therefore you have a splitting
+which is proportional to square root one, square root
+two, square root three.
+And you have a spectrum which is no longer
+an equidistant system, and then you
+can create non-classical states of the photon
+field, non-classical states on an harmonic oscillator.
+
+So anyway, I thought I wanted to bring it up
+at the beginning of the class, because a lot what
+we are discussing in this class is
+we re-discover in many situations in atoms,
+in the light, in the way how light and atoms interact.
+Harmonic oscillators and two-level systems,
+often I say they are the same.
+They behave in the same way.
+But I hope this introduction remark tells you,
+when can you think in one limit, and when do you
+have to apply the other limit?
+Another take-home message you may take from this discussion
+is-- harmonic oscillators, yes, we
+have quantum harmonic oscillators.
+But even the quantum harmonic oscillator
+follows a classical description.
+So the real quantumness, what makes quantum optics quantum
+optics, and Cavity QED a wonderful example of quantum
+physics is the physics embedded in a two-level system.
+That we can put one quantum excitation into something.
+Exactly one is as much quantum as you can get.
+This is realizing the two-level system,
+and this is related to this phenomenon of saturation.
+You can saturate a two-level system,

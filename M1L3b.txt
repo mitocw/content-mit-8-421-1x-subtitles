@@ -1,0 +1,153 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L3b.txt
+#
+# Captions for 8.421x module
+#
+# This file has 143 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+We want to now talk about quantized spin
+in a magnetic field.
+
+And one of the first things I will be telling you
+is that everything we have learned
+about the classical magnetic moment,
+you don't have to unlearn or relearn.
+It exactly applies to the quantized-- to the quantum
+spin.
+Before we look at standard Hamiltonian
+for two-level system, let us first
+look at something more general, which is Heisenberg equations
+of motion.
+So we want to write down the differential
+equation, the equation of motion for expectation values.
+
+So for an atom in a magnetic field,
+our Hamiltonian is simply the Zeeman Hamiltonian,
+which involves the gyromagnetic ratio, the angular momentum
+operator, and the magnetic field.
+And you know from quantum mechanics
+that Heisenberg's equation of motion for any operator
+is simply that the time derivative of the operator
+equals the commutator with the Hamiltonian.
+In some cases, if you have an explicit time
+derivative of the operator, you have to add it.
+But we are talking here about the angular momentum
+operator, which has no explicit time dependence.
+So we are interested in the operator which
+describes the magnetic moment.
+But the magnetic moment is nothing else
+than the gyromagnetic ratio times the angular momentum.
+So therefore, the relevant commutator
+is the commutator of the Hamiltonian with the angular
+momentum operator.
+And just to remind you, the Hamiltonian
+was proportional to Lz.
+So what we are talking about is commutators, not surprisingly,
+between the angular momentum operators.
+And those commutators are just this cyclic permutation
+involving the epsilon tensor.
+So if you just put that in component by component,
+you realize immediately that the operator equation for the time
+derivative of the magnetic moment
+is nothing else than the cross product, the vector product,
+of the operator of the magnetic moment
+times the magnetic field.
+Two comments.
+This is exact, but also it looks exactly
+like the classical result. Where you
+would say it's an operator equation, usually
+operator equation some of them are pretty useless,
+because you can't calculate the operators.
+But in this case, we can immediately
+take the expectation value, so we
+can get some immediately meaningful equation,
+namely that the expectation value follows
+the same equation.
+And this tells us that whenever we have a quantum system,
+it has a magnetic moment.
+In an applied external magnetic field,
+the result is simply rotation, precession.
+And this is exact.
+It's not a classical approximation,
+it's an exact result for quantum mechanics.
+The way how we derived it makes it obvious
+that it's an exact result which is validate
+not only for spin 1/2, but it is valid for any spin.
+If you have a magnetic moment corresponding
+to a spin of 10 h bar, this spin follows the same equation
+of motion as spin 1/2.
+Of course, a special case is valid for spin 1/2.
+But spin 1/2 is isomorphous to a two-level system.
+Any two-level system can be regarded as spin 1/2 system.
+Therefore, this geometric interpretation
+that the dynamics of the quantum system
+is just a precession rigorously, exactly
+applies to any two-level system.
+
+It's also valid-- and this will be relevant for atoms--
+if you have composite angular momentum.
+
+For instance, we will encounter the total angular momentum, f,
+of an atom which has components from the orbital motion
+of the electron, the spin of the electron,
+and the spin of the nucleus.
+But if you have such an angular momentum,
+if the equation of motion is it will precess around
+a magnetic field.
+Well the small print here is unless the B field is so strong
+that it decouples the components,
+or that it breaks up the coupling of the different parts
+of the angular momentum.
+In other words, we have simply assumed here
+that angular momenta-- m a magnetic moment is
+gamma times angular momentum.
+And that requires that the angular momenta
+are coupled in a certain way.
+And if you don't fully understand
+what coupled of angular momenta is,
+we'll really talk about that when
+we talk about atomic structure.
+So as long as the spins stay coupled to one total spin,
+this total spin will just precess.
+This picture of precession will also
+be valid for a system of N two-level systems
+coupled to an external field.
+And this will be the example of Dicke superradiance, which
+we will discuss towards the end of the course.
+
+OK, so very simple result, but very powerful.
+And this is your permission, whenever
+you encounter any of the systems,
+to see a vector precessing in your head.
+This is exact.
+
+So we've talked about Heisenberg equation of motion
+for general spin.
+But you have a question, Nancy?
+What did you mean by N two-level systems here?
+Are we talking about correlated systems
+or non-correlated systems?
+
+We talk about N two-level systems.
+And to be more specific, the coupling
+comes because they all talk to the same electromagnetic field.
+So we have N two-level systems connected to the modes
+of the electromagnetic field.
+We start with this symmetric state.
+The coupling is symmetric.
+And that preserves the symmetry of the atomic state.
+In other words, we will have a situation where the angular
+momentum is the maximum angular momentum we
+can get of N two-level system.
+And the dynamics of this two-level system,
+the description of Dicke superradiance,
+has this geometric visualization of this precessing motion.
+
+I know I'm not explaining it exactly.
+It's more I want to sort of whet your appetite for what
+comes later, and also sort of prep you
+that some of the simple pictures will really

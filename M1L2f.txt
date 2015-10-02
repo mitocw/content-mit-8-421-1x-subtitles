@@ -1,0 +1,217 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L2f.txt
+#
+# Captions for 8.421x module
+#
+# This file has 207 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So because it's an exact result and I like the result,
+Rabi flopping at the generalized Rabi frequency,
+I want to derive it for you.
+So I want to figure out, what is the dynamic of a spin which
+is originally aligned and now it undergoes-- it
+is driven by a rotating field.
+Remember, the resonant case was very simple.
+The spin was just doing Rabi flopping.
+It was fully inverted, came back, and just
+did this at the Rabi frequency.
+Now we know that in the off resonant case,
+there will be an effective magnetic field
+and it will precess at a faster frequency, which is
+the generalized Rabi frequency.
+But since the effective magnetic field is not transverse--
+it has a z component-- the spin will never fully invert.
+So geometrically, it's very easy.
+We start out with a magnetic moment at 0 time.
+And I can immediately draw to you the complete solution.
+The complete solution is that in the rotating frame,
+this sort of precesses around the effective magnetic field.
+This is the solution.
+What I just want to do is-- because it takes
+me three or four minutes-- I want to read from this graph,
+from this drawing, one or two trigonometric identities,
+and derive for you the explicit expression,
+what is the value of the magnetic moment
+as a function of time?
+But it's clear from that, it will have a maximum value.
+It precesses around the tilt direction.
+And when it's over there, it is a minimum value.
+But it will never completely invert.
+Well, quantum mechanically, if you drive a system at own
+resonance, you cannot completely invert the population.
+But we'll come to that later.
+So what do I need?
+Well, the bin is moving here on a circle.
+So let's say the spin was here at one time.
+At another time, it is there.
+It has moved an angle psi.
+The tilt angle between the spin and the magnetic field
+is what I call theta.
+And the angle between the initial magnetic moment
+and the magnetic moment at time, t, is what I call alpha.
+These are the three relevant angles.
+The tip of the magnetic moment goes in a circle.
+And the circle has a radius, which is mu times sine theta.
+Sine theta is nothing else than the rotating magnetic field
+over the effective magnetic field, which
+is nothing else than the resonant Rabi frequency divided
+by the generalized Rabi frequency.
+OK.
+I said what I want to determine is
+the magnetic moment in the z direction
+as a function of time.
+And for that, I defined the angle cosine alpha.
+The way how I derive it, the easiest way , it's geometry.
+It's three dimension and triangles and all of that.
+But the best way how I can describe it for you,
+let me introduce this auxiliary line, which connects the tip
+of the magnetic moment at time t equals 0 and at time t.
+And I call this length of this line a.
+And I'm want have now two triangles where one side is a,
+determine a in two different ways, combine the equation,
+and we are done.
+So the first way is that we have the magnetic moment at time 0,
+the magnetic moment at time t.
+We said the angle is alpha.
+And the two tips are connected by a.
+And you know in an arbitrary triangle
+you have this would be [? Pythagoras ?]
+but in the general case, this is valid for general triangle.
+So applying that to this triangle, we have a square.
+b square is mu square. c square is mu square.
+So we get 2 mu square.
+And then this term, 2 ab is 2 mu times mu times cosine alpha.
+So therefore, this is 1 minus cosine alpha.
+So we've taken care of the first triangle.
+I hope the drawing is not completely confusing
+at this point, but why don't we just look at the drawing,
+looking down the effective field.
+We look down at the effective field
+and then we see the circle the magnetic moment precesses
+and the radius of the circle, I've already given to you.
+So now we want to look down the effective magnetic moment.
+We see the circle.
+You want to lock down the effective magnetic field.
+We see the circle where the magnetic moment precesses.
+It has precessed from here to there.
+We connect this line.
+This was our a.
+And the angle at which the magnetic moment has precesses
+is phi.
+And the radius, as we derived before,
+was mu times sine theta.
+So now just using the same equation for this triangle,
+we find that a square is 2 mu square,
+sine square theta, times 1 minus cosine phi.
+And for cosine phi, I want to use the trig identity
+and express it by half the angle.
+All right.
+Now we are done.
+We are pretty much looking at this-- the drawing is clear,
+precession around the tilt angle,
+and we are just doing geometry here.
+And we have now two expressions for a square.
+We can set the two expressions equal.
+
+And solve for the unknown, which is cosine alpha.
+And with that, we find that cosine alpha
+is 1 minus 2 sine square theta sine square phi over 2.
+And the purpose of this exercise was that cosine alpha tells us
+the tilt angle of the magnetic moment away
+from the vertical axis.
+So therefore, we have done what we wanted to do.
+
+We know the z component of the magnetic moment as a function
+of time is this times 1 minus
+Rabi frequency squared generalized Rabi frequency
+squared times sine squared.
+And now we know the precession phi, the precession at which
+the tip of the magnetic moment moves
+in a circle-- we discussed it already before
+and you gave the correct answer with the clicker--
+is the generalized Rabi frequency, omega Rabi.
+So that's a nice formula.
+But before we lean back and look at it,
+let me just do one tiny step.
+Based on our quantum mechanical background,
+we can now define the probability
+that the spin has been flipped, is
+the relative difference in the z component
+appropriately normalized.
+This is just the normalized change in the z component.
+And if I called that a probability that well,
+which is on the left hand side, then I
+find that the probability for this classical expression for,
+which expresses how much the z component
+of the magnetic moment has changed.
+
+And this is exactly this celebrated formula for spin
+flips in the spin one half system.
+
+So we have derived exactly the solution for the motion,
+for the precession of a magnetic moment,
+in a magnetic field plus a rotating magnetic field.
+And what we found is, we found that the magnetic moment
+precesses at the generalized Rabi frequency.
+And, as I will show you next week,
+this result is exactly the same as
+for quantum mechanical expectation values.
+Question?
+So what if we have [INAUDIBLE] oscillating [INAUDIBLE]
+instead of rotating magnetic fields?
+Oh, that's a much more complicated problem.
+What happens when we have the magnetic field, which
+is linearly polarized, which is only
+oscillating in one direction?
+Well, light or a vector, which is oscillating linearly
+in one direction, can be regarded
+as a superposition of a left and right rotating field.
+In other words, if you superimpose
+left handed and right handed circularly polarized light,
+the sum of the two is linearly polarized light.
+So now we have actually the situation
+that linearly polarized magnetic field-- that's
+what we usually do in the lab.
+I mean, we have coils.
+We connect them to a synthesizer.
+And the field is not going in a circle.
+It's going back and fourth.
+It's linearly polarized.
+This corresponds to a magnetic field,
+which corresponds to two magnetic field, one rotates
+left and one rotates right.
+But the problem is, if you now do
+a transformation in the rotating frame,
+do we want to rotate omega to the left or omega to the right?
+So what we can do is we can pick our rotating frame.
+And we are now in the rotating frame.
+One of the rotating fields has become time independent.
+The other rotates now at 2 omega.
+
+And at that point, we need the celebrated rotating wave
+approximation that we keep the one term we have rectified,
+and the other one at 2 omega rotates
+so rapidly that we say these rapid oscillations do nothing,
+and we discard it.
+We'll discuss it later in this course.
+
+But the gist is if you have linearly
+polarized light, linearly polarized magnetic fields,
+we usually have to do an additional approximation,
+the rotating wave approximation.
+And since the rotating wave approximation is done always
+in almost [INAUDIBLE], any paper you can find,
+we think it's always necessary.
+But what I've shown to you is when we have a rotating field,
+we don't need any approximation.
+The transformation of the rotating frame is exact.
+
+But that's the beauty of it, that when
+we assume rotating frames, we can hold onto exact solutions
+for longer, and only later then discuss
+what happens when we introduce linearly
+polarized magnetic fields.

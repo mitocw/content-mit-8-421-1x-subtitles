@@ -1,0 +1,79 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L1j.txt
+#
+# Captions for 8.421x module
+#
+# This file has 69 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+We have only a few minutes left today,
+and I want to spend those few minutes to talk
+about another factor of two.
+Now, let me ask you the following.
+If you have an electron in the magnetic field-- well,
+you know that the electron goes in circles.
+
+It's the cycle for motion of the electron.
+Now, for any classical charge distribution,
+the Larmor frequency is the charge
+of the particle-- in case of the electron, it's e-- divided
+by 2m times b.
+So the Larmor frequency is e over 2m times b.
+So therefore we know that when we
+have an ensemble of positive and negative charges,
+and there is an effective magnetic moment,
+that this magnetic moment would process
+at the Larmor frequency, which is given by this expression.
+So who knows what the frequency of the cycle promotion is?
+
+So when we have a free electron, what
+is the frequency at which it goes in circles?
+It's two times the Larmor frequency.
+
+OK, I just wanted to mention it--
+there's an important factor of two,
+which you should know about.
+In previous classes I spent 10 or 20 minutes
+to teach you about a few of them, which
+is called Larmor's theorem, but I summarized the argument
+on the atomic physics wiki, and I can't say more here in class
+than I've written on the wiki.
+So please read on our atomic physics wiki
+about Larmor's theorem.
+Larmor's theorem shows you that under certain assumptions,
+you can transform away the effect of a magnetic field
+by going to the Larmor frequency.
+
+That looks exactly like what we have discussed here,
+but what we discussed here was exact.
+There no approximation, whereas the derivation
+of Larmor's theorem, which talks about charge distributions,
+not about magnetic moments-- charge distributions--
+has to make certain approximations.
+So just wanted to point your attention
+to that there are two deviations about Larmor frequency.
+One is exact, which I gave to you.
+There IS another one, which is Larmor's theorem, which
+applies to isolated charges, which is not exact.
+But they both conclude that you can transform away
+the effect of a magnetic field by going to rotating
+frame at the Larmor frequency.
+And the fact that Larmor's theorem is not exact
+is actually illustrated by this example of a free electron,
+where you have a factor of two.
+And this comes because the term which
+you neglect when you derive Larmor's theorem
+is negligible if the situation is
+that you have electrons and charges forming
+magnetic moments.
+But if you have a free electron, the neglected term
+is exactly 1/2 of the dominant term,
+and that is why the cyclotron frequency is twice
+the Larmor frequency.
+So never confuse the cyclotron and the Larmor frequency.
+And the factor of two is not related to a G
+factor of the electron or such.
+It's really the difference between the physics
+of a free charge and the physics of a magnetic moment.

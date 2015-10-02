@@ -1,0 +1,21 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L2d_CQ2.txt
+#
+# Captions for 8.421x module
+#
+# This file has 11 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Well, let me then immediately add another twist.
+What would happen-- let's ask the same question,
+but now we are driving it at a lower frequency.
+
+OK, same question as before, but instead of driving this system
+with a faster rotating field, faster than the Larmor
+frequency, we're now driving it with a smaller frequency.
+Is now the response of the magnetic moment--
+the effective precession frequency-- larger, smaller,
+or the same as the Rabi frequency as the resonant case?

@@ -1,0 +1,25 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L3f_CQ2.txt
+#
+# Captions for 8.421x module
+#
+# This file has 16 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Since it is so important, let me ask you a quicker question,
+whether this Hamiltonian can be exactly realized in nature,
+or it is an approximation?
+
+For instance, let-- you always have cosine omega t
+as a drive and cosine omega t is e to the plus i omega t and e
+to the minus omega t.
+And then maybe with a rotating wave approximation before
+[? we ?] [? weigh ?] [? a term. ?] So I sort of want
+to ask you, is this an idealization that we have
+a coupling which is a simple, complex exponential?
+Is nature always more complicated?
+Or is there a simple way to realize
+this Hamiltonian in nature?

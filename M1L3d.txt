@@ -1,0 +1,59 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L3d.txt
+#
+# Captions for 8.421x module
+#
+# This file has 49 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+It's just use for a moment, the result
+we got from Heisenberg's equation of motion.
+We know the classical result. We've
+already derived for the classical spin,
+the classical result for the expectation
+value of the magnetic moment.
+But now I want to sort of relate it
+to something kind of mechanical because we
+know that the classical solution equals
+a kind of mechanical solution.
+So, if you have a two-level system,
+the z component of the magnetic moment
+is the difference between spin down and spin up.
+And because of conversation, probability, p up
+and p down is unity, we can also write that as 2 times--
+and let me now introduce e for excited state-- just,
+I know it's hard to keep track of spin up and spin down--
+I want to make sure that I mean now, the excited state.
+So the excited state for the electron is spin up.
+So we have this condition.
+So therefore, the excited state friction of a two-level system
+is related to the expectation value of the magnetic moment
+in that way.
+And now we want to use the classical result we derived.
+We derived the classical result, when for t equals 0,
+all the spins were in the ground state.
+And by using the result we would derive previously,
+we have the 1/2 from the previous line,
+and then the magnetic moment mu z,
+we found an expression which involved
+the Rabi frequency and the off resonant Rabi frequency-- Sine
+squared generalized Rabi frequency times time over 2.
+So the two factors of one half and one half cancel,
+and what we find now for the quantum mechanical system using
+Heisenberg's equation of motion, is
+that if you compare a system initially
+in the ground state, the excited state probability,
+the friction, the excited state oscillates
+with the Rabi frequency.
+And this is, I think, the second time in this course, and not
+the last time that we obtain the Rabi transition probability.
+
+OK.
+So, but let's go further.
+We have now discussed the classical spin.
+We have sort of done classical [INAUDIBLE]
+with Heisenberg's equation of motion.
+We know that this, in generally, implies Rabi oscillations.

@@ -1,0 +1,65 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L3j_CQ1.txt
+#
+# Captions for 8.421x module
+#
+# This file has 55 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+The first question which I will ask you,
+should we calculate the transition probability
+by using perturbation theory for an incoherent transition,
+or for coherent transition?
+Let me just explain to you what I mean, and then I'll
+ask you for your opinion.
+Coherently, we simply say in perturbation theory
+we start with our population in state one.
+We have, due to the coupling Hamiltonian, the time
+dependence of the population in state two,
+and that means if we integrate this equation for a short time,
+we find an amplitude a2, and the probability
+to be in the state two, which is the amplitude squared
+is proportional to the Rabi frequency
+squared times the effective time squared, the effective time
+of drive in the system.
+Coherent processes are always for quadratic in time.
+OK.
+If we do it incoherently, well, the way
+how we describe incoherent processes
+are Fermi's Golden Rule, which we have all seen.
+And the probability in Fermi's Golden Rule is very different.
+Well, it is proportional to the Rabi frequency squared,
+to the matrix element squared.
+But Fermi's Golden Rule gives us a constant rate,
+and for constant rate, the probability is rate times time.
+So now it is linear in time, and then
+because of the delta function, Fermi's Golden Rule--
+I'm missing a symbol, so I use gamma here.
+It has nothing to do with the [INAUDIBLE] property,
+this is just the density of states.
+So I hope you know now what is the difference
+between coherent and incoherent.
+The most important part is that things
+are linear in time for an incoherent process, [INAUDIBLE]
+creation, and at least for small times
+quadratic in time for coherent process.
+
+OK, so now we come to this process
+where we take atoms from spin up to spin down.
+We evaporate with a weak cross-- almost 80.
+With a weaker F drive, so we are closer to the diabetic limit.
+So if you think about this problem,
+I want you to tell me if this process, the transition,
+the perturbation transition close to the diabetic case
+is that should we use when we apply the perturbation
+theory, the coherent picture.
+
+Or the incoherent picture.
+In other words, it's the dynamics of the quantum system.
+When we go relatively quickly through the [INAUDIBLE],
+causing-- is that a coherent or an incoherent process?
+
+I could add, see, it doesn't matter, but it does matter.

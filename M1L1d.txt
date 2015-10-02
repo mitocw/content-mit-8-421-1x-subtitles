@@ -1,0 +1,57 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L1d.txt
+#
+# Captions for 8.421x module
+#
+# This file has 47 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+OK, let's work that out a little bit.
+I'll give you some examples.
+So the phenomenon of a two-level system is it has saturation.
+The maximum energy you can put in is one quantum.
+Whereas an harmonic oscillator can never be saturated.
+Just to think of the harmonic oscillator potential parabola,
+you can drive the system as high as you want.
+So you can go in this classic language
+to arbitrarily large amplitudes.
+
+So what I just mentioned where the equivalence holds-- I just
+want you to have an example in mind--
+is the Lorentz model for an atom, where
+you describe the atom as an electron connected
+with a spring to the nucleus.
+And as we will see in a few weeks,
+this model gives the identical answer--
+identical to the quantum mechanical treatment--
+for probabilities like the polarizability
+and the index of refraction for gas of atoms or molecules.
+OK.
+So if you have a two-level system,
+you can often think we have an s, ground state, and then
+p, excited state.
+And if you do a weak excitation, we
+have sort of a wave function, which
+is all-- that's a positive 1 sine,
+and then we mix the p orbital, which
+has a node which is positive and negative.
+And now we have the positive, negative, and the positive,
+and that there is the resonant frequency between the two,
+and that together results in an oscillating dipole.
+So the simple model of superimposing
+an s state and a p state at a certain frequency
+gives us an oscillating dipole, which
+is a realization of an harmonic oscillator.
+But the harmonic oscillator, it oscillates.
+And this is of course, valid for sufficiently small excitation.
+
+So the question we have already addressed in the discussion--
+what is small?
+So small means population of higher excited states
+is negligible.
+So in other words, as long as the excitation of the first
+excited state is small, then we can neglect the excitation
+in the second excited state, which is even smaller.

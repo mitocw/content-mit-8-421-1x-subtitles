@@ -1,0 +1,187 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L3g.txt
+#
+# Captions for 8.421x module
+#
+# This file has 177 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+The Hamiltonian is the spin coupled to a magnetic field.
+And if you express that by angular momentum operators,
+the gyromagnetic ratio, it involves the operator
+for the spin in the z direction.
+So, the two-level system has a splitting of H bar omega,
+so it's plus 1/2 minus 1/2 H bar omega,
+and that means the diagonal part, the non-driven part,
+is simply given by the Pauli spin matrix sigma z
+and omega 0 is the energy splitting.
+Which is proportional to the applied magnetic field.
+And up-down, or excited and ground
+are the eigenstates of this Hamiltonian with energies plus
+minus H bar omega 0 over 2.
+OK, so this is the same Hamiltonian,
+but now we add a real rotating B field, B1.
+So the drive Hamiltonian, H1, is the same magnetic moment,
+but now coupled to a time-dependent rotating field.
+The amplitude of the rotating field
+is the Rabi frequency divided by gamma.
+And we assume that the field is rotating in the xy plane.
+So, it's ex ey cosine omega t sine omega t.
+And now, I put in two minus signs here for convenience.
+If you want, I just shifted-- it's just a definition,
+I have change the definition of the amplitude by a minus sign.
+So this is the Rabi frequency and the magnetic moment
+divided by gamma is nothing than the spin.
+Magnetic moment is gamma times this spin.
+So therefore, we are back to the spin operators,
+and the spin operators, if I factor out 1/2 H bar,
+are now the Pauli spin matrices sigma x and sigma y.
+
+And if you look at those spin matrices,
+then you realize that we go complex in our Hamiltonian.
+Not because we have approximated a real field cosine omega
+t by some e to the i omega t, but because when
+you have rotating field and we write down it in Pauli spin
+matrices, we get imaginary units from the sigma y spin matrix.
+So, that means we have now, for this system,
+rewritten the coupling term to the rotating field H1 as 0 0 00
+e to the plus i omega t e to the minus i omega t.
+And therefore.
+the Hamiltonian is the famous two-level Hamiltonian
+with omega 0 in the Rabi frequency,
+which I wrote down at the beginning.
+So, you need that here, but we will use it even more in 8.421.
+This is the famous dressed atom Hamiltonian.
+It is the starting point calculate
+eigenstates and eigenvalues, not just in perturbation theory.
+You can go oscillating fields at arbitrary lengths,
+so you can solve exactly in the dressed atom
+picture using this Hamiltonian.
+The problem of a two-level system
+plus one mode of the electromagnetic field,
+no matter what the drive term, what
+the strengths of the electromagnetic field
+in the spin mode is.
+So, this describes the two-level system,
+plus one mode of the electromagnetic field,
+with arbitrary strengths.
+
+And as I said, we talk about some things
+here, but others I explored in 8.422.
+Questions ?
+Yes, Will.
+We can refer to the eigenstates and eigenenergies
+of this Hamiltonian as dressed in states the same way
+as we refer to address states in a fully quantized fiction?
+Do we refer both cases as dressed states?
+
+Yes.
+OK.
+It's a good question.
+The question is now, what are the dressed states, and Will,
+I think you're referring that there
+are two ways to talk about the coupling of a two-level system
+to one mode of the electromagnetic field.
+It is this same classical picture
+where we introduce-- and let me say an analog amplitude
+of the electromagnetic field, which drives it.
+And then, there is a fully quantized picture,
+where you first quantized the electromagnetic field,
+and you copy to photon number states.
+It's actually the beauty of it, that the two solutions
+are exactly the same.
+So, in other words, if you couple an atom
+to one mode of the electromagnetic field,
+we have two ways how we can solve it.
+One is we introduce a coherent electromagnetic field,
+and there is an exact unitary transformation
+which tells us if you have THE quantize field
+in a coherent state.
+We can do a unitary transformation, and what we get
+is exactly this Hamiltonian.
+So therefore, this is also-- you may not recognize it--
+this is actually the quantum description
+of the electromagnetic field when it's in a coherent state.
+The other option is we use the dressed atom picture maybe
+following some work of Claude Cohen-Tannoudji and others.
+Where we assume this single mode of the electromagnetic field
+has in photons, and then we solve it
+for this photon number state.
+So, in other words, these are the two ways
+how we can relatively easily treat the problem.
+Either we assume the quantum field is in a coherent state
+or it's in a flux state.
+But, since the dressed atom picture in the standard way
+assumes that the photon number, N, is large,
+there is a correspondence that in the limit of N
+being large the flux state description
+and the coherent state description fully agree.
+
+And you pick what you want.
+If you introduce the electromagnetic field
+explicitly with it's quantum state,
+you get the dressed atom picture as a solution
+of time independent problem.
+Whereas here, with a coherent state description,
+the coherent state oscillates, cosine omega t,
+with a time dependent problem.
+And actually, I should say whenever
+I get confused in one picture, I look in the other picture
+and it becomes clear.
+I generally prefer where we have N photons,
+it's because we can discuss everything
+in a time independent way.
+But for certain intuitive aspects, this is also variable.
+So, in the end you have to learn both.
+And, in your homework, you really
+actually write down the general solution
+for this Hamiltonian an exercise.
+Nancy.
+I think I'm confused a little bit.
+So, in the flux state picture, the dressed states
+can be exactly part of an independent matter of coupling
+between a lesser photon number in an excited state.
+So, we can write eN plus 1 and g, or something like that.
+Yeah, you couple the photon field
+with N photons of energy in H bar omega
+to N minus 1 H bar omega.
+But in this one, is there a direct photon number thing,
+because we haven't quantized the field yet?
+What do the dressed states mean at this point?
+
+Well, the fact is if you start out with a coherent state,
+your photon field is not in photons, it's a laser beam.
+The laser beam with a coherent state,
+is in a quantized description, a superposition of many flux
+states.
+So, therefore, the number photons in a coherent state
+fluctuates, or has a large Poissonian statistics,
+and if you take one photon out or not,
+it doesn't make a big difference.
+For instance, for those of you who
+know how the coherent state is defined,
+the coherent state is defined as when
+you act on the coherent state with an annihilation operator,
+you get the eigenvalue times a coherent state.
+So, that tells you have a fully-quantized description
+of your laser, in terms of a coherent state.
+You take one photon out, and what do you get?
+The same state back.
+And this may immediately justify that what we write down here
+is simply the coherent state with it's amplitude,
+and the amplitude of the coherent state
+would be B1, the amplitude of the drive field.
+And we don't really need other states,
+because to coherent state has the property.
+You take a photon out and you still have the same state.
+So therefore, we don't have to keep
+track of the coherent state.
+It's there all the time.
+But, what I'm saying can be formulated more exactly when we
+use the appropriate formalism.
+But this is sort of the bridge.
+That's why we do not have to keep track of the photon state.
+It's because the coherent state has those wonderful properties.

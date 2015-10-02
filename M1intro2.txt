@@ -1,0 +1,40 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1intro2.txt
+#
+# Captions for 8.421x module
+#
+# This file has 30 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Welcome to the course on atomic and optical physics.
+We now start with Module 1.
+The study of resonances has been a watershed in physics,
+because studying resonances allows for precise measurement.
+It is an unwritten rule in physics
+that if you want to measure something precisely,
+you have to find a way to express
+the quantity of interest, in terms of a frequency
+measurement, and then precisely measure
+the frequency spectroscopically for resonance.
+Therefore, it is very appropriate
+that the theme of Module 1 of this course
+is the theme of resonance, of resonance physics.
+We look at resonance in the simplest physical system
+of two levels, realized by spin 1/2 in a magnetic field.
+However, we look at the system from both
+a classical and a quantum perspective.
+A two level system can be fully captured by classical equations
+describing the precession of a classical magnetic moment
+in a magnetic field.
+And I know from my experience that every student is surprised
+when he or she hears that concepts
+like rapid adiabatic passage, Rabi frequencies, spin flips,
+can be fully captured by classical equations.
+And this expresses a central aspect of this course,
+that we try to shape our intuition for physics
+by looking at the physics from different perspectives,
+and understanding which description
+is most appropriate for which phenomenon.

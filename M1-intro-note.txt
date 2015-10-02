@@ -1,0 +1,69 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1-intro-note.txt
+#
+# Captions for 8.421x module
+#
+# This file has 59 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+With this short note about-- I've talked about resonances.
+I've talked about, now, the two important parameters,
+the resonance frequency and the full width at half maximum.
+How do we measure those?
+And there is actually sometimes a confusion.
+The more systematic approach is you
+should measure all those frequency and line
+widths in angular frequency units, which
+are technically radian per second, 2 pi per second.
+But since radian has no dimension,
+we sometimes say we measure it in inverse seconds.
+
+So this is a measurement of angular frequencies,
+and this is different from the unit of frequencies.
+When we have a frequency, which is an angular frequency divided
+by 2 pi, frequencies are usually measured in hertz.
+The problem is that hertz is always also 1 over a second,
+and this is where the confusion comes.
+So let me just point out how you can avoid the confusion.
+You may write an angular frequency omega 0.
+It is 2 pi times 1 megahertz.
+Then you exactly know what it is.
+You can, of course, this is nothing else than 6 times--
+6.28 times 10 to the sixth second to the minus 1,
+but you should never say that omega 0 is
+6.8 times 10 to the 6 hertz.
+Because then people don't really know, and you get confused.
+And you confuse other people, if you really
+mean that this now has a frequency of 6 times 10
+to the 6 hertz or an angular frequency.
+So just be clean in your thinking, in your homework,
+and all that, that a frequency, when you mean angular
+frequency, is 1 over second.
+When you mean it as a frequency, it's hertz.
+And this is often the clearest form to say,
+yes, I know where to put the 2 pi and I put it in explicitly.
+So we often, in our papers, report frequencies like that.
+
+Finally, there is a question about gamma.
+So what are the units for gamma?
+Well, if you look at the exponential, which decays,
+it has e to the minus i omega t, and then it
+has the imaginary part gamma t.
+So gamma is really a temporal decay,
+and there is no question about frequency and angular
+frequency.
+It's not a frequency.
+It's not an angular frequency.
+It's a decay rate.
+So for instance, if gamma is 10 to the 4 per second,
+you should never say gamma is 10 to the 4 hertz,
+or you should also never say gamma is 2 pi times
+1.66 kilohertz.
+That just doesn't make any sense.
+Gamma is really a damping rate and is therefore
+an inverse time.
+The damping time associated with this gamma
+is simply the inverse of it, and in the case chosen,
+it's 100 microseconds.

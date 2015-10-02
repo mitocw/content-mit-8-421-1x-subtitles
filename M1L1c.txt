@@ -1,0 +1,78 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L1c.txt
+#
+# Captions for 8.421x module
+#
+# This file has 68 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+The next thing I want to discuss is the analogy-- but also
+the differences-- between an harmonic oscillator
+and a two-level system.
+
+So, what is a two-level system?
+Well, it's a system with two levels.
+What is an harmonic oscillator?
+Well, it's a system which has an infinite number
+of equidistance levels.
+
+I will tell you later in this course, when
+we talk about the AC and DC Stark Effect,
+when you talk about the polarized ability and light
+scattering, that you can regard the atom-- or the electron
+in the atom-- as an harmonic oscillator.
+An atom scatters light exactly in the same way
+as the charge, which is connected to some support
+structure with a spring, how a charge-- how an oscillating
+charge-- would scatter light.
+Well, you know of course, the atom is a two-level system.
+And, this sort of model I make for the electron
+as an harmonic oscillator, at a single resonance frequency.
+Which is 100% exact in the limit of low laser power.
+Well, this realizes an harmonic oscillator.
+So, therefore, what I'm telling you,
+by this example, that there are situations
+where a two-level system and an harmonic oscillator
+are the same.
+Or, create the same observance.
+Create the same physics.
+Do you have any idea when the two systems may look the same?
+Or, when the two systems react exactly in the same way
+to-- for instance, external radiation?
+I'd like to give you the answer before I give you
+the full explanation, which now comes.
+If you start out in the ground state,
+you can see at zero temperature, we
+have mainly all of the population there.
+If you start now driving the system,
+we put-- and I will say a bit more about it--
+a little bit into the excited state.
+But, it is the nature of an harmonic oscillator,
+when you put something into the excited state,
+that immediately, a little bit, goes
+into the second excited state.
+And, this is of course something which you can only do
+in an harmonic oscillator, but you cannot do a level system.
+So, to the extent that we have weak excitation,
+and we can neglect the excitation in higher
+levels, to that extent a two-level system
+and harmonic oscillator are identical.
+Actually, what I'm saying appears trivial,
+but I really want you to think about it.
+It's actually a very profound statement
+that when can you describe the quantum mechanical system
+as an harmonic oscillator?
+For weak excitation, then all of what matters
+is that you have put a small fraction of the system
+to the first excited state.
+And, you immediately realize that the feature which
+distinguishes the two-level system
+from an harmonic oscillator, is the phenomenon of, let's say,
+saturation.
+You cannot go higher.
+If you do not saturate a two-level system,
+it behaves like an harmonic oscillator,
+and therefore, it behaves completely classical.

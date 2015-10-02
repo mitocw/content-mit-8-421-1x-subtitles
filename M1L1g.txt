@@ -1,0 +1,117 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L1g.txt
+#
+# Captions for 8.421x module
+#
+# This file has 107 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+OK.
+With that motivation, we're now talking
+about magnetic resonance.
+
+And we will later do a fully quantum-mechanical description,
+but to get the concepts and also understand the analogies
+to a classical system, we want to understand
+what happens when we have a classical magnetic moment
+in magnetic fields.
+And that includes static fields, but then we
+want to excite the system.
+We want to drive the system.
+And this is time varying fields.
+
+And we realize soon that the fields are spatially uniform.
+So let me just remind you of the obvious equations of motion
+that also allows me to introduce the nomenclature.
+The interaction energy between a classical magnetic moment
+mu and the magnetic field is mu dot B.
+The force is the gradient of the interaction energy.
+But it is 0 for uniform fields.
+So therefore, we don't need to look at the force,
+but the next thing which we then have to consider is the torque.
+
+And when we think about the classical magnetic moment,
+you can think about a compass needle,
+but magnetic materials are complicated.
+If I think about the simplest magnetic moment,
+I think about a loop of current I and area A.
+And that's sort of the classical model for magnetic moment.
+
+So we have a magnetic moment mu.
+And if we now add a magnetic field, which is at an angle,
+we have a torque.
+But just to be sure, to make sure,
+the torque is something which is nothing else than the Lorentz
+force on the electrons.
+But since the electron is forced to go in a circle,
+we don't have to look at the Lorentz force microscopically,
+we just immediately jump to the torque,
+and the torque is what describes the dynamics of the system.
+
+OK.
+So we have torque.
+When we have torque, we want to formulate the problem
+in terms of angular momentum.
+
+And our equation of motion is the classical equation
+of motion that the derivative of angular momentum
+is given by that.
+Now, what makes those equations immediately solvable and find
+a very easy limit is that the magnetic moment of this system,
+we assume, is proportional to its angular momentum.
+
+Well, if you have a mechanical object which
+goes in a-- If you have a charged object which circles
+around a central potential, then you, of course,
+find immediately that if it moves faster,
+it has more angular momentum.
+It has a larger magnetic moment.
+So we use that as the defining equation for what
+is called the gyromagnetic ratio, which, of course, is
+very closely related to g-factors, which
+we define later on for atoms.
+The gyromagnetic ratio is the ratio between magnetic moment
+and angular momentum.
+And then, we find that the derivative of angular momentum
+is given by the situation.
+And this is now an equation which
+you've seen in classical mechanic
+and in many situations the solution of that
+is a pure precession.
+The motion is pure precession of the angular momentum
+around the axis of the magnetic field.
+So in other words, we have the axis of the magnetic field.
+We have the angular momentum, and at a constant tipping
+angle, we have the tip of the angular momentum precesses
+around the magnetic field.
+And the precession happens with an angular frequency, which
+is called the Larmor frequency.
+
+The frequency, the Larmor frequency,
+the frequency of precession is proportional
+to the magnetic field and the gyromagnetic ratio.
+
+So let me give you an example for an electron.
+The gyromagnetic ratio is 2 pi times 2.8 megahertz per Gauss.
+
+And we've discussed last class what
+it means when I take out 2 pi, because the Larmor frequency is
+an angular frequency, and angular frequency is not
+measured in hertz, because there's the 2 pi factor,
+and I just make it obvious where the 2 pi factor is hidden.
+Now this is for the electron.
+
+But if you have an ensemble of classical charges,
+an [INAUDIBLE] distribution of classical charges,
+where with the same charge-to-mass ratio,
+you find that the gyromagnetic ratio is 1/2 of that.
+And this here is the Bohr magneton,
+which we will use quite often in this course.
+The third example is the proton.
+The proton is heavier.
+It has a heavier mass, about 1,000 times heavier
+than the electron, and therefore the Larmor frequency is not
+megahertz per Gauss, it is kilohertz per Gauss.

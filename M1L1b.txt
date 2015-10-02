@@ -1,0 +1,113 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L1b.txt
+#
+# Captions for 8.421x module
+#
+# This file has 103 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Suppose for the laser-- I first explain the laser to you,
+and then we go back to the pure quantum system, which has
+actually certain subtleties.
+
+But for the laser, it is obvious--
+at least if I tell you how I want to measure it--
+because I can take the laser and create a beat note
+with another very stable laser.
+And there we caught the speed note on a photodiode.
+
+I can realize by making this other laser,
+the local oscillator, stronger and stronger,
+I can create a beat note, which is larger and larger,
+and corresponds to a macroscopic electric current, which
+can be measured with very high precision.
+So you can realize an arbitrarily high
+signal-to-noise ratio by using a strong local oscillator.
+And then you can actually say the photocurrent, which
+comes out of the photodiode is actually-- you can regard it
+with macroscopic current as purely classical,
+and then of course, the answer to the first question applies.
+
+So that takes care of question 3 by mapping it actually
+on question 2.
+But now by saying that the laser also
+has a quantum mechanical limit and I'm not changing anything,
+we realize that probably the answer to question 2
+should also be yes.
+So let's therefore ask ourself, what
+is the situation when the Heisenberg uncertainty
+relation applies?
+
+One is we have to be really careful.
+It predicts the outcome of a single measurement
+on a single quantum system.
+Or if the Heisenberg uncertainty relation
+sets a limit how well we prepare a quantum system,
+it's about a single quantum system,
+and then we perform a single measurement.
+
+So in a sense, if we would say all
+you have is a single photon, which is a very special quantum
+system.
+You have a single photon, and you measure the frequency
+of the photon only once.
+Then you will find the limit, which is the Heisenberg limit.
+You cannot with a single measurement on a single photon
+determine the accuracy of the frequency better than this.
+And of course, you can get higher accuracy
+by doing repeated measurements, or by using many photons.
+
+We talk about it more in 8.422.
+But I just want to remind you if you
+have n uncorrelated photons-- in other words we perform
+n measurements on n different objects-- then
+the signal-to-noise ratio is, just
+by Poisson distribution, square root n.
+And therefore the resolution for the frequency of the photons
+is better than the Heisenberg or the Fourier limit
+by 1 over the square root n.
+Some of you-- and actually in Professor Vuletic's group,
+there is research on it-- that if you have correlated-- well
+in his case, correlated atoms-- but if you
+had correlated photons, then you can even do better.
+You can reach what is sometimes called the Heisenberg
+limit, where you are better than the limitation
+given by Fourier's theorem or by the Heisenberg uncertainty
+relation by a factor of 1/n.
+
+OK.
+So as far as the question 2, where the quantum harmonic
+oscillator is concerned, we would
+say the answer is yes, if you have
+a single photon at frequency omega 0,
+which interacts with the quantum harmonic oscillator
+at frequency omega 0.
+However, the answer would even in that case
+be no, if you have harmonic oscillator levels,
+and you take a photon, and by a non-linear process,
+excite the n-th level.
+So you have a single photon now.
+You can resolve the energy, delta E, of this level.
+A single photon, a single quantum object.
+You can define the energy.
+That's Heisenberg's uncertainty relation.
+The energy is determined to that precision.
+But your frequency, omega, of the optical pulse
+is n times omega 0, using non-linear process.
+And then you can determine the frequency of the harmonic
+oscillator, even for a single quantum
+system and a single photon with a precision
+which is 1/n times better.
+So you have to be also careful-- but I
+don't want to beat it to death now--
+to distinguish between the accuracy
+at which Heisenberg's uncertainty relation maybe
+limits the measurement of an energy level,
+and how this is related to the frequency
+of the harmonic oscillator.
+And by going immediately to the n-th level,
+you can, of course, measure the distance between two levels
+more accurately, because you have increased [INAUDIBLE].

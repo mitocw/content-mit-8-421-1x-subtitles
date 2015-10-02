@@ -1,0 +1,44 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L2d_CQ1.txt
+#
+# Captions for 8.421x module
+#
+# This file has 34 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Well, then I have a question for you.
+I've discussed with you the case that the rotating field rotates
+at the Larmor frequency.
+But now, I want to discuss the case that the rotating field is
+not at the Larmor frequency.
+It's at a frequency omega 1, which is faster
+than the Larmor frequency.
+
+And the question is now, what will happen to the spin,
+or the magnetic moment?
+I explain to you that on resonance, the magnetic moment
+was just flipping over, rotating, precessing
+at the Rabi frequency.
+And I want you to think about it for a moment,
+and then decide if you go off resonant--
+if you drive the system away from the resonance--
+with a rotating field which is faster than the Larmor
+frequency, what is now the oscillation
+frequency of the magnetic moment?
+
+And so the choices are is it larger, smaller or the same?
+And this was, of course, compared to the Rabi frequency.
+
+So I've explained to you that the spin flip,
+the Rabi flopping or the pi pulse,
+and this picture was at the magnetic moment,
+thus Rabi flopping rotates-- plus c, minus c, plus c,
+minus c, at the Rabi frequency.
+But now we drive the system faster than the Larmor
+frequency.
+And the question is, whatever the magnetic moment does,
+is it faster, slower, or does it always
+happen at the Rabi frequency?

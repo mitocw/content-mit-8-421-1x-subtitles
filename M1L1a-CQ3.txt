@@ -1,0 +1,18 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L1a-CQ3.txt
+#
+# Captions for 8.421x module
+#
+# This file has 8 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Now, instead of a quantum mechanical harmonic oscillator,
+we take something to be a very familiar with, an optic laser,
+and we observe a laser pulse lasting a duration delta t.
+So, same situation.
+But, instead of observing a quantum mechanical harmonic
+oscillator, we observe the laser pulse.
+For the laser can remeasure the frequency

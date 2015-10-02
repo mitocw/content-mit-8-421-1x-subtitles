@@ -1,0 +1,141 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L4d.txt
+#
+# Captions for 8.421x module
+#
+# This file has 131 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So now we are just one tiny step away from introducing the block
+equations.
+We will fully feature the optical block equations
+in 8.422.
+But since we have discussed two-level systems to quite some
+extent, I cannot resist to show you now--
+in three or four minutes-- what the block equations are,
+and then when you take the second part of the course you
+will already be familiar with it.
+So let me just now tell you what has
+to be added to do this step from the previous formulation
+to the Bloch equations and how we-- and this is the one
+step you have to do-- we have to include relaxation
+processes into the description.
+So my less-than-five minute way to now
+we now derive the block equations for you,
+goes as follows.
+I first remind you that everything has
+to come to thermal equilibrium.
+In other words, if you have an atomic system--
+if you have a quantum computer, whatever system you have,
+and you're prepare it in a pure state,
+you know if you will wait forever,
+this system will be described by a density matrix, which
+is the density matrix of thermal equilibrium, which has
+only diagonal matrix elements.
+The populations follow the Boltzmann factor.
+And everything is normalized by the partition function.
+So we know that this will happen after long, long times.
+So no matter with what density matrix we start out.
+If we start with the density matrix or pure state,
+for instance, they will be inevitably
+some relaxation process which will restore rho to rho t
+to the thermal equilibrium.
+
+Now how this happens can be formulated in a microscopic way
+and to be the court will go through a beautiful derivation
+of a master equation and really provide some insight
+what causes relaxation.
+But here for the purpose of this course,
+I want to say that there is relaxation
+and I want to introduce now in the phenomenological way
+damping and damping times.
+My phenomenological way-- way to introduce stamping,
+goes as follows.
+Our equation of motion for the density matrix
+was that this is a unitary evolution described
+by the Schrodinger equation, was that the density matrix evolves
+according to the commutator of the Hamiltonian
+But now-- and I have to peak-- quotation marks around it
+because this is not a mathematically exact way
+of writing it-- but now we're going
+to introduce some term which will damp the density
+matrix to the thermal equilibrium density matrix,
+with some equilibration time Te.
+
+In other words-- I mean this is what you can always
+do if you know the system is damp,
+you have some coherent evolution but eventually you
+add a damping term and you make the damping term-- you
+formulate in such a way that asymptotically the system will
+be damped to the thermal equilibrium.
+In other words, the damping term will
+have no effect on the dynamics once you've
+reached equilibrium.
+So it does all the right things.
+Of course, we have to be a little bit careful
+because everything is either an operator or matrix
+and I was just adding the damping term
+as you would probably do it to a one-dimension equation.
+So therefore it may be a little bit more specific.
+In many cases, you will find that there
+are two distinctly different relaxation times.
+In other words, the system will have usually at least two
+physically distinct relaxation times.
+They're traditionally called T1 and T2.
+T1 is the damping time for population differences.
+
+So this is the damping time to shuffle population
+from some inverted state or some other state
+into equilibrium state.
+That usually involves the removal
+of energy out of the system.
+So it's an energy decay time.
+And if you would inspect our parameterization of the block
+vector or population or population differences
+are described by the Z component, the third component
+of the block vector.
+Well we have other components of the block vector
+which correspond to coherencies the off diagonal matrix
+element of the density matrix and they are only known zero
+if you have two states populated with the well-defined actual
+phase so when you lose-- the industry system trying
+to mechanical systems is its memory of the phase,
+our one and our two component of the Bloch vector go to 0.
+So therefore the time T2, the time T2,
+is a time which describes the loss of coherencies,
+the de-phasing times, and in most situations-- well,
+if you lose energy, you've also lost-- if you lose energy,
+because you quench a quantum state,
+you've also lost the phase, so therefore, in general,
+T2 is smaller than T1, often by a lot.
+So with those remarks about the two damping times,
+I can now go back to the equation at the top, which
+was sort of written with quotation marks,
+and write it in a more accurate way as a matrix equation
+for the damping of the components of the density
+matrix expressed by the Bloch vector.
+In other words, the equation of motion
+for the Z component of the Bloch vector,
+which is describing the population
+has a coherent part, which is this generalized precession,
+and then it has a damping part which
+damps the populations to the equilibrium
+value with a damping time T1.
+And then we have the corresponding equations
+for the x and y, or the 1 and 2 component of the optical Bloch
+vector.
+We'll just replace the Z index by x and y
+from the equation above, but then we
+divide by a different relaxation time, T2.
+So what we have found here, these are the famous Bloch
+equations, which were introduced by Bloch in 1946, introduced
+first for magnetic resonance, but they are also
+valued in the optical domain.
+For magnetic resonance, you have a two-level system,
+spin up and spin down.
+In the optical domain, you have a ground and excited state.
+In the letter case, they are often refer to as the Optical
+Bloch equations.

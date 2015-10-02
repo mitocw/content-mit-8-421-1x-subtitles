@@ -1,0 +1,201 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L4b.txt
+#
+# Captions for 8.421x module
+#
+# This file has 191 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+I would like to take the topic one step further and discuss
+the density matrix formalism.
+So we have so far discussed purely
+Hamiltonian unitary evolution, namely
+the Schrodinger equation.
+And of course, a unitary evolution
+leaves the system, which is in a pure state, in a pure state.
+It's just that the quantum state evolves.
+However, that means we cannot describe processes like
+incoherence or some losses away from the two levels we are
+focusing on.
+And so now we want to use the density operator, the density
+operator formalism, to have a description of two-level system
+which goes beyond that.
+So Schrodinger equation deals only with pure states,
+cannot describe loss of particles, loss of photons,
+and decoherence.
+Well, there is one exception.
+If the incoherent, the decoherence forces
+is merely a state-dependent loss of atoms to a third state,
+then you can still use the wave function formalism.
+So this is the exception.
+If you have two states and all what happens
+is that you have some loss to some other levels
+and their rate coefficients, then one
+can still use a Hamiltonian description,
+but you have to replace the eigenvalues by complex numbers.
+In other words, you have to add an imaginary part to the energy
+levels.
+And that means the time evolution
+is exponentially dimmed.
+So that's as much as you can incorporate
+decoherence and losses into a wave function formalism.
+However, many other processes require the formalism
+of the density matrix.
+And the simplest process where a wave function formalism
+is absolutely inadequate is the process
+of spontaneous emission.
+When you have a loss in the excited state,
+you could still describe the excited state
+with a complex energy eigenvalue.
+But the fact that whatever is lost from the excited state
+is added to the ground state, there
+is no wave function formalism which can describe that.
+So for those forces and for decoherence in general,
+we require the use of the density operator.
+So I know that most of you have seen
+the density operator in statistical mechanics
+or some advanced course in quantum mechanics.
+So therefore, I'll only spend about five minutes on it.
+So I want to kind of just remind you or give you
+a very short introduction.
+So for those of you who have never heard about it,
+I probably say enough that you understand
+the following discussion.
+And for those of you who know already everything about it,
+five minute of recapitulation is hopefully not too boring.
+So my way of introducing the density operator
+is first introduce it formally, write down
+a few equations for a pure state, but then, in a moment,
+add something to it.
+So if we have a time-dependent wave function which
+we expand into eigenfunctions, then we can, in this basis,
+define arbitrary operators by matrices.
+And we want to describe our system by finding out
+measurable, observable expectation
+values of operators, which, of course, depend on time.
+And this is, of course, nothing else
+than the expectation value taken with a time-dependent wave
+function.
+But now we can expand it into the bases m, n,
+and we can then rewrite it as a matrix, which is a density
+matrix, or simply as the trace of the density
+matrix with the operator.
+And what I introduced here as the density matrix
+can be written as psi of [INAUDIBLE], psi of t,
+and the matrix element given by this combination of amplitudes
+when we expand the wave function psi into its basis.
+So this density matrix has diagonal
+and off-diagonal matrix elements.
+The diagonal matrix elements are called the populations,
+the populations in state n.
+And the off-diagonal matrix elements are called coherences.
+OK.
+So this is just rewriting Schrodinger's equation
+expectation value in a matrix formalism.
+But the reason why I wrote is that we want to now add
+some probability to it.
+We do not know for sure that the system is in a pure state.
+We have probabilities pi that the system
+is in a quantum state psi i.
+So we add another index to it.
+And when we perform the expectation value--
+there's also one star too many-- when we perform the expectation
+value, we sort of do it for each quantum state
+with a probability pi.
+So we are actually-- and this is what I wanted to point out,
+this was the purpose of this whole discussion--
+that we are now actually performing two averages.
+One can be regarded as the normal quantum mechanical
+average, when you find the average value
+or the expectation value for a quantum state.
+So this is sort of the statistics or the averaging
+which is inherent in quantum physics.
+But then in addition, there may simply
+be another probabilistic average because you have not
+prepared the system in a pure state,
+or the system may undergo some stochastic forces
+and wind up in different states.
+So there are two kinds of averages which are performed.
+And the advantage of the density matrix formalism
+is that both kinds of averages can be done simultaneously
+in a very compact formalism.
+So therefore, I put this probabilistic averaging now
+into the definition of the density matrix,
+or I can write the density matrix in this way.
+And with this extended definition of the density
+matrix, both kinds of averages are
+done when I determine the expectation
+value of an operator by performing the trace
+with the density matrix.
+
+A lot of properties of the density matrix.
+I think you're familiar with many of those.
+For instance, that Schrodinger's equation for the density matrix
+becomes this following equation.
+You can derive that if you take the Schrodinger equation
+and you apply the Schrodinger equation to each state psi i,
+and then you do the averaging with the probability pi.
+You find that the Schrodinger equation for each state
+psi i turns into this equation for the density matrix.
+And we just write down that the purpose now
+is we have two averages here.
+One is the quantum mechanic average,
+and one is sort of an ensemble average with the probabilities
+pi.
+I want to discuss in a few moments
+the density matrix for two-level system.
+So I have to remind you of two properties,
+that the density matrix is normalized to unity.
+So that's probability of unity to find the system
+in one of the states.
+When we look at the square of the density
+matrix, the trace of rho square, this
+is simply the sum of the probability squared,
+and this is smaller than 1.
+And the only that it is 1 is for pure state.
+So pure state is characterized by the fact
+that we can find a basis where only one of the probabilities
+pi is non-vanishing.
+And then, of course, almost trivially, the trace rho is 1
+and the trace rho square is 1.
+So so far, I've presented you the density matrix
+just as an elegant way of integrating the two
+averages into one formalism.
+And in essence, this is what it is.
+But you can now also use the density matrix
+if the whole system undergoes a time evolution which
+is no longer unitary, no longer described by a Hamilton
+operator because you're interested in the time
+evolution of a small system, which
+is part of a bigger system.
+The bigger system is always described by unitary time
+evolution, but the smaller system is usually not described
+by unitary time evolution.
+And that's when the density matrix becomes crucial.
+Of course, you can say this is just you describe the smaller
+system and you do some probabilistic average, what
+the other part of the system does,
+and therefore it's just another version of doing two averages.
+But this is sort of why we want to use the density
+matrix in general.
+So we want to use the density matrix for non-unitary time
+evolution.
+And the key word here is that this is often
+the situation for open systems, where
+we are interested in a small system,
+but it is open to a bigger system.
+Like we are interested that you describe an atom,
+but the atom can spontaneously emit photons
+into other parts of Hilbert space,
+and we're not interested in those other parts
+of Hilbert space.
+So an open system for this purpose
+is where we limit our description to a small part
+of a larger system.
+Again, an atom interacting with all the modes
+of the electromagnetic field, but we simply
+want to describe the atom.
+And then we cannot use a wave function anymore.

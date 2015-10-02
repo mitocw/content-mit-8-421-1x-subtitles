@@ -1,0 +1,35 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L2h_CQ1.txt
+#
+# Captions for 8.421x module
+#
+# This file has 25 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+But I think we have at least understood
+in the adiabatic limit is that when
+we start with a magnetic moment, which is aligned,
+and now we do a sweep, we start with a small rotating frequency
+and we make it large.
+We sweep from low to high frequency through resonance.
+Then we can invert the magnetic moment.
+My question for you now is what happens
+when we start with a spin, but we
+switch on a drive which is far above resonance,
+and we sweep it to small frequencies?
+What will now happen when we do the opposite sweep?
+Will the spin just stay?
+Will it be flipped, or will it sort of get diffused,
+or get disoriented?
+So this is answer A, this is answer B,
+and this is answer C. I have assumed in the discussion
+before that we start with a very low frequency, where
+the fictitious magnetic field is negligible,
+and then we change the frequency,
+we sweep the frequency across the normal frequency
+to very high frequency.
+My question now is what happens when we reverse
+the frequency of the sweep?

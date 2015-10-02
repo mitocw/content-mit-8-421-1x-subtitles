@@ -1,0 +1,72 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L1h_CQ1.txt
+#
+# Captions for 8.421x module
+#
+# This file has 62 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+Let me make a note.
+It's one of the many notes I will
+make in this course about factors of two.
+There are factors of 2.
+If you miss it, you qualitatively miss the physics,
+and let me in that context by talking about precision
+frequencies and magnetic moment, explain
+a factor of 2, which is related to the G
+factor of the electron.
+
+So if we have the electron which has been of 1/2, in units
+of the por magnetron, what is a magnetic moment
+of the electron?
+1/2, 1 or 2?
+What is the magnetic moment of the electron?
+1/2, 1 or 2?
+
+I should have a clicker question on that,
+and no it's 1, 1 por magnetron.
+And then we sort of show the level structure of it.
+
+You have-- this is your energy-- You have spin up,
+and you have spin down.
+The difference is 2.8 megahertz per Gauss,
+and if you ask what is the precession
+frequency of an electron inner magnetic field,
+it's 2.8 megahertz if the field is 1 Gauss,
+and if you want to drive the rotation,
+if you want to change the precession angle-- we'll
+talk about that in great detail--
+you better drive the system at 2.8 megahertz.
+But 2.8 megahertz is the difference of plus 1.4
+and minus 1.4, and therefore the energy
+of the electron in a magnetic field
+is either plus or minus 1.4 megahertz per Gauss,
+and 1.4 is 1 por magnetron.
+The magnetic moment of the electron is 1 por magnetron.
+
+So precesses at 2.8.
+OK, but let us contrast this with a classical current
+distribution, which has 1 unit over h bar, which
+means the magnetic moment is 1 por magnetron,
+exactly as the electron has.
+Well, quantum mechanically means it has three different level,
+minus 1, 0 and 1, because it has one unit of angular momentum.
+Since the system has one por magnetron, when
+the system stands up or stands down,
+the difference between spin up and spin down
+is 2.8 megahertz per Gauss.
+
+OK, my question now is, what is the precession frequency
+of this classical charge distribution, which is 1 unit h
+power of angular momentum, and I've just
+shown you the level structure.
+If you now create a wave packet of those three levels, which
+means wave packets of the three levels
+means you have this spin which points in one direction.
+What is the precession frequency of that system?
+So let me give you three choices.
+
+2.4, 1.4, with .0 megahertz per Gauss,
+so please vote for A, B, or C.

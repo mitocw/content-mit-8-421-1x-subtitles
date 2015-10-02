@@ -1,0 +1,55 @@
+#
+# File:   content-mit-8-421-1x-subtitles/M1L3k_CQ2.txt
+#
+# Captions for 8.421x module
+#
+# This file has 45 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+OK.
+So, if we assume now-- I hope you all
+agree-- that the amplitude is obtained in this coherent way.
+Then, of course, the question is: but, what
+is the effective time?
+When we sweep the resonance, we are far away.
+Nothing happens.
+Nothing happens.
+Nothing happens.
+Nothing happens.
+We go through the resonance, everything happens.
+Nothing happens.
+Nothing happens.
+Nothing happens.
+So, this is the effective time.
+When the wave function really changes,
+and we create the coherent admixture in the second state.
+And, it is this effective times squared,
+which determines what happens.
+What our transition amplitude is.
+So, therefore, the question is: what is the effective time
+in the [? lambda ?] [? z ?] now causing?
+I can give you three choices.
+One is, the effective time is-- well we changed omega,
+and the effective time is what is
+the time until we're already tuning,
+which is equal to the Rabi frequency.
+Another possibility is that the effective time that
+will coherently drive the system,
+is one over the Rabi frequency-- just the Rabi, period.
+Or, another choice how I can construct time out of-- the two
+frequencies we have is omega Rabi omega dot--
+these are our two elements.
+So, another possibility how I can get time
+is omega is frequency, omega dot is frequency squared,
+and the square root of one over omega
+dot-- at least for the fields the dimension
+and criteria on that this time.
+So, my question for you is: what do you think
+is the effective time during which we drive the system
+coherently?
+I have to tell you, before I made up the problem,
+I did not know the answer.
+But, I can also tell you that there is one-- only
+one-- answer which is correct.
