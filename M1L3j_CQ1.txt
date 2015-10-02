@@ -38,19 +38,19 @@ and for constant rate, the probability is rate times time.
 So now it is linear in time, and then
 because of the delta function, Fermi's Golden Rule--
 I'm missing a symbol, so I use gamma here.
-It has nothing to do with the [INAUDIBLE] property,
+It has nothing to do with the Landau-Zener probability,
 this is just the density of states.
 So I hope you know now what is the difference
 between coherent and incoherent.
 The most important part is that things
-are linear in time for an incoherent process, [INAUDIBLE]
-creation, and at least for small times
+are linear in time for an incoherent process, rate
+equation, and at least for small times
 quadratic in time for coherent process.
 
 OK, so now we come to this process
 where we take atoms from spin up to spin down.
 We evaporate with a weak cross-- almost 80.
-With a weaker F drive, so we are closer to the diabetic limit.
+With a weaker F drive, so we are closer to the diabatic limit.
 So if you think about this problem,
 I want you to tell me if this process, the transition,
 the perturbation transition close to the diabetic case
@@ -59,7 +59,7 @@ theory, the coherent picture.
 
 Or the incoherent picture.
 In other words, it's the dynamics of the quantum system.
-When we go relatively quickly through the [INAUDIBLE],
-causing-- is that a coherent or an incoherent process?
+When we go relatively quickly through the Landau-Zener,
+crossing -- is that a coherent or an incoherent process?
 
 I could add, see, it doesn't matter, but it does matter.
