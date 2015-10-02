@@ -51,7 +51,7 @@ that's how I can generate the unitary transformation.
 And this unitary transformation makes the Hamiltonian time
 independent.
 So in other words, everything is in the classical system.
-We just go to frame, which rotates with the [INAUDIBLE]
+We just go to frame, which rotates with the Rabi
 drive, and we find a time-independent problem.
 So now this Hamiltonian can be easily solved.
 
@@ -65,5 +65,5 @@ we discussed 40 minutes ago.
 But before we got it from the classical quantum
 mechanical correspondence using the Heisenberg equation
 of motion, and here it comes out by explicitly
-solving for the wave function for the [INAUDIBLE]
+solving for the wave function for the dressed
 atom Hamiltonian.
