@@ -110,4 +110,4 @@ and how this is related to the frequency
 of the harmonic oscillator.
 And by going immediately to the n-th level,
 you can, of course, measure the distance between two levels
-more accurately, because you have increased [INAUDIBLE].
+more accurately, because you have increased your lever arm.
