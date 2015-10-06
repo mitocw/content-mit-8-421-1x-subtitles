@@ -94,6 +94,6 @@ The exact solution of the Landau-Zener problem,
 for instance, assumes you go from minus infinity
 to plus infinity in the detuning.
 Nobody does that.
-So it is casting sort of finite-- sweep finite duration
+So we're discussing sort of finite -- sweep finite duration
 effects, but usually we can be pretty
 close to the idealized assumption.
