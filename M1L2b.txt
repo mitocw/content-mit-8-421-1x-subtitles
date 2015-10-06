@@ -102,7 +102,7 @@ So what is state of the art for this strontium clock?
 
 Well, in the experiment, they use an interrogation time.
 So they observe the atom for delta t,
-which is n the order of 116 milliseconds.
+which is n the order of 160 milliseconds.
 And putting in the two pis in the right place,
 that could mean the frequency resolution solution
 is one hertz.
