@@ -9,7 +9,7 @@
 #
 #----------------------------------------
 
-So now we are just one tiny step away from introducing the block
+So now we are just one tiny step away from introducing the Bloch
 equations.
 We will fully feature the optical block equations
 in 8.422.
