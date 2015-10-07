@@ -21,11 +21,11 @@ of equidistance levels.
 
 I will tell you later in this course, when
 we talk about the AC and DC Stark Effect,
-when you talk about the polarized ability and light
+when we talk about the polarizability and light
 scattering, that you can regard the atom-- or the electron
 in the atom-- as an harmonic oscillator.
 An atom scatters light exactly in the same way
-as the charge, which is connected to some support
+as a charge, which is connected to some support
 structure with a spring, how a charge-- how an oscillating
 charge-- would scatter light.
 Well, you know of course, the atom is a two-level system.
