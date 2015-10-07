@@ -9,13 +9,13 @@
 #
 #----------------------------------------
 
-So now we are just one tiny step away from introducing the block
+So now we are just one tiny step away from introducing the Bloch
 equations.
-We will fully feature the optical block equations
+We will fully feature the optical Bloch equations
 in 8.422.
 But since we have discussed two-level systems to quite some
 extent, I cannot resist to show you now--
-in three or four minutes-- what the block equations are,
+in three or four minutes-- what the Bloch equations are,
 and then when you take the second part of the course you
 will already be familiar with it.
 So let me just now tell you what has
@@ -24,7 +24,7 @@ to the Bloch equations and how we-- and this is the one
 step you have to do-- we have to include relaxation
 processes into the description.
 So my less-than-five minute way to now
-we now derive the block equations for you,
+we now derive the Bloch equations for you,
 goes as follows.
 I first remind you that everything has
 to come to thermal equilibrium.
