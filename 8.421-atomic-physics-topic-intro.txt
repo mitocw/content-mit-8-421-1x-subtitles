@@ -32,7 +32,7 @@ people just started to use diode lasers in atomic physics.
 Well, here you are 20 years later.
 We see a much more solid-state lasers,
 and I would say even in the last five to 10 years
-there has been another, well, evolution
+there has been another, well, revolution
 is too strong a word, but another major advance by having
 extremely high power fiber lasers, which are covering more
 and more of the spectral range.
