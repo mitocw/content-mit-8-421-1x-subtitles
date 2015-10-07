@@ -203,7 +203,7 @@ it causes a shift of the atomic resonance.
 We talk later about it, but it's the AC Stark effect
 of the black body radiation, which
 becomes an important systematic at the position.
-I don't really accept the number on the previous atomic clocks,
+I don't really know exactly the number on the previous atomic clocks,
 but now this is the gold standard
 of frequency metrology.
 Yes.
