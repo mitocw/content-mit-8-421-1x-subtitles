@@ -34,7 +34,7 @@ in this very compact way.
 That it is the scalar product of the vector-- omega,
 omega 1, omega 2, omega 3-- with the vector
 sigma of the three Pauli matrices--
-sigma x, sigma y, sigma c.
+sigma x, sigma y, sigma z.
 
 OK.
 So, this is a way to write down the most general Hamiltonian
@@ -47,7 +47,7 @@ Sort of the basis set of matrices
 is the unity matrix and the three Pauli matrices.
 So , 1, 2, 2, 3.
 Of course, this time we cannot throw away the unity matrix,
-because otherwise the density matrix would have more trace,
+because otherwise the density matrix would have no trace,
 and there would be no probability to find
 the particle.
 But we can, again, write it in a compact form
@@ -58,12 +58,12 @@ is 1.
 So, therefore, r0 is not a free parameter.
 It's just the sum of all the probabilities
 to find the system in any state.
-And the non-trivial part is then scale
-a product of this vector r-- rx, ry,
+And the non-trivial part is then scalar
+product of this vector r-- rx, ry,
 rz-- with the vector of the three Pauli matrices.
 So, we have our most general Hamiltonian,
 we have our most general density matrix,
-and now we can insert these into the equations of motion
+and now we can insert these into the equation of motion
 for the density matrix.
 Which, as I said before, is just a reformulation
 of Schrodinger's equation.
@@ -104,7 +104,7 @@ of a classical moment-- classical magnetic moment--
 in a suitable time-dependent magnetic field.
 So, when you have an Hamiltonian, which
 is characterized by-- the most general
-Hamiltonian is characterized by the three coefficients 1, w2,
+Hamiltonian is characterized by the three coefficients w1, w2,
 w3.
 But.
 If you would create a classic system where w1, w2, and w3 are
@@ -122,7 +122,7 @@ an arbitrary quantum-mechanical two-level system, the time
 evolution is just precession.
 It's a rotation.
 There is nothing more complicated possible.
-Well, unless we talk about the coherence.
+Well, unless we talk about decoherence.
 If we have such an Hamiltonian, we
 know, of course, that a pure state will stay pure forever.
 And you can immediately verify that if you look
