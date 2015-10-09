@@ -39,7 +39,7 @@ but you have to replace the eigenvalues by complex numbers.
 In other words, you have to add an imaginary part to the energy
 levels.
 And that means the time evolution
-is exponentially dimmed.
+is exponentially damped.
 So that's as much as you can incorporate
 decoherence and losses into a wave function formalism.
 However, many other processes require the formalism
@@ -53,7 +53,7 @@ with a complex energy eigenvalue.
 But the fact that whatever is lost from the excited state
 is added to the ground state, there
 is no wave function formalism which can describe that.
-So for those forces and for decoherence in general,
+So for those processes and for decoherence in general,
 we require the use of the density operator.
 So I know that most of you have seen
 the density operator in statistical mechanics
@@ -84,7 +84,7 @@ and we can then rewrite it as a matrix, which is a density
 matrix, or simply as the trace of the density
 matrix with the operator.
 And what I introduced here as the density matrix
-can be written as psi of [INAUDIBLE], psi of t,
+can be written as |psi(t)><psi(t)|,
 and the matrix element given by this combination of amplitudes
 when we expand the wave function psi into its basis.
 So this density matrix has diagonal
@@ -98,13 +98,13 @@ expectation value in a matrix formalism.
 But the reason why I wrote is that we want to now add
 some probability to it.
 We do not know for sure that the system is in a pure state.
-We have probabilities pi that the system
+We have probabilities Pi that the system
 is in a quantum state psi i.
 So we add another index to it.
 And when we perform the expectation value--
 there's also one star too many-- when we perform the expectation
 value, we sort of do it for each quantum state
-with a probability pi.
+with a probability Pi.
 So we are actually-- and this is what I wanted to point out,
 this was the purpose of this whole discussion--
 that we are now actually performing two averages.
@@ -144,7 +144,7 @@ And we just write down that the purpose now
 is we have two averages here.
 One is the quantum mechanic average,
 and one is sort of an ensemble average with the probabilities
-pi.
+Pi.
 I want to discuss in a few moments
 the density matrix for two-level system.
 So I have to remind you of two properties,
