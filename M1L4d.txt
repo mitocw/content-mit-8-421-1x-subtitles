@@ -45,20 +45,20 @@ some relaxation process which will restore rho to rho t
 to the thermal equilibrium.
 
 Now how this happens can be formulated in a microscopic way
-and to be the court will go through a beautiful derivation
+and we will go through a beautiful derivation
 of a master equation and really provide some insight
 what causes relaxation.
 But here for the purpose of this course,
 I want to say that there is relaxation
 and I want to introduce now in the phenomenological way
 damping and damping times.
-My phenomenological way-- way to introduce stamping,
+My phenomenological way-- way to introduce damping,
 goes as follows.
 Our equation of motion for the density matrix
 was that this is a unitary evolution described
 by the Schrodinger equation, was that the density matrix evolves
 according to the commutator of the Hamiltonian
-But now-- and I have to peak-- quotation marks around it
+But now-- and I have to put quotation marks around it
 because this is not a mathematically exact way
 of writing it-- but now we're going
 to introduce some term which will damp the density
@@ -66,7 +66,7 @@ matrix to the thermal equilibrium density matrix,
 with some equilibration time Te.
 
 In other words-- I mean this is what you can always
-do if you know the system is damp,
+do if you know the system is damped,
 you have some coherent evolution but eventually you
 add a damping term and you make the damping term-- you
 formulate in such a way that asymptotically the system will
@@ -78,7 +78,7 @@ So it does all the right things.
 Of course, we have to be a little bit careful
 because everything is either an operator or matrix
 and I was just adding the damping term
-as you would probably do it to a one-dimension equation.
+as you would probably do it to a one-dimensional equation.
 So therefore it may be a little bit more specific.
 In many cases, you will find that there
 are two distinctly different relaxation times.
@@ -93,17 +93,17 @@ into equilibrium state.
 That usually involves the removal
 of energy out of the system.
 So it's an energy decay time.
-And if you would inspect our parameterization of the block
+And if you would inspect our parameterization of the Bloch
 vector or population or population differences
 are described by the Z component, the third component
-of the block vector.
-Well we have other components of the block vector
+of the Bloch vector.
+Well we have other components of the Bloch vector
 which correspond to coherencies the off diagonal matrix
-element of the density matrix and they are only known zero
-if you have two states populated with the well-defined actual
+element of the density matrix and they are only non-zero
+if you have two states populated with the well-defined relative
 phase so when you lose-- the industry system trying
 to mechanical systems is its memory of the phase,
-our one and our two component of the Bloch vector go to 0.
+r1 and r2 components of the Bloch vector go to 0.
 So therefore the time T2, the time T2,
 is a time which describes the loss of coherencies,
 the de-phasing times, and in most situations-- well,
@@ -133,9 +133,9 @@ divide by a different relaxation time, T2.
 So what we have found here, these are the famous Bloch
 equations, which were introduced by Bloch in 1946, introduced
 first for magnetic resonance, but they are also
-valued in the optical domain.
+valid in the optical domain.
 For magnetic resonance, you have a two-level system,
 spin up and spin down.
 In the optical domain, you have a ground and excited state.
-In the letter case, they are often refer to as the Optical
+In the latter case, they are often referred to as the Optical
 Bloch equations.
