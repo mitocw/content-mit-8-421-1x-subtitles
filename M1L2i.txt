@@ -70,7 +70,7 @@ It is not an adiabatic change of the direction
 of the magnetic field, it's a sudden field.
 And the consequences are bad.
 You lose your atoms from the magnetic trap.
-It's called [INAUDIBLE].
+It's called Majorana losses.
 And a lot of people know what I'm talking about,
 but I'm not explaining it in detail.
 Time is over.
