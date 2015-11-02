@@ -70,7 +70,7 @@ It is not an adiabatic change of the direction
 of the magnetic field, it's a sudden field.
 And the consequences are bad.
 You lose your atoms from the magnetic trap.
-It's called [INAUDIBLE].
+It's called Majorana losses.
 And a lot of people know what I'm talking about,
 but I'm not explaining it in detail.
 Time is over.
@@ -94,6 +94,6 @@ The exact solution of the Landau-Zener problem,
 for instance, assumes you go from minus infinity
 to plus infinity in the detuning.
 Nobody does that.
-So it is casting sort of finite-- sweep finite duration
+So we're discussing sort of finite -- sweep finite duration
 effects, but usually we can be pretty
 close to the idealized assumption.
