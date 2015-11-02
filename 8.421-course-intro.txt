@@ -262,11 +262,11 @@ they act collectively.
 And of course, coherence between atoms
 can be the coherence of many atoms
 in the Bose-Einstein condensate, where
-they form one big metawave.
+they form one big matter wave.
 
 But it can also be the coherence.
-The atoms are not coherent because they're
-from the Bose-Einstein condensate,
+The atoms are not coherent because they
+form the Bose-Einstein condensate,
 but they interact in a coherent way with light.
 So there's only one aspect where the atoms act coherently.
 They may be in different quantum states,
@@ -276,13 +276,13 @@ of the system, the light doesn't care
 if the atoms are different.
 The light only cares whether the atoms interact
 with the light in an absolute identical way,
-and then you have certain symmetries of the light, atom,
-and direction.
+and then you have certain symmetries of the light-atom-
+interaction.
 And this coherence between many atoms
 in the interaction with light leads to-- I'll
 just give you the buzzwords-- is responsible for the process
 of phase matching.
-When you have a crystalline frequency [? doubled ?]
+When you have a crystal and frequency doubled
 laser light, you want all the atoms to interact coherently.
 And it is also important for the phenomenon of superradiance.
 I found the subject of coherence particularly fascinating.
