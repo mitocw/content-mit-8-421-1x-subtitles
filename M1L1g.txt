@@ -105,7 +105,7 @@ and I just make it obvious where the 2 pi factor is hidden.
 Now this is for the electron.
 
 But if you have an ensemble of classical charges,
-an [INAUDIBLE] distribution of classical charges,
+an arbitrary distribution of classical charges,
 where with the same charge-to-mass ratio,
 you find that the gyromagnetic ratio is 1/2 of that.
 And this here is the Bohr magneton,
