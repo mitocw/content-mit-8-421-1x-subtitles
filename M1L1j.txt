@@ -15,7 +15,7 @@ Now, let me ask you the following.
 If you have an electron in the magnetic field-- well,
 you know that the electron goes in circles.
 
-It's the cycle for motion of the electron.
+It's the cyclotron motion of the electron.
 Now, for any classical charge distribution,
 the Larmor frequency is the charge
 of the particle-- in case of the electron, it's e-- divided
@@ -24,9 +24,9 @@ So the Larmor frequency is e over 2m times b.
 So therefore we know that when we
 have an ensemble of positive and negative charges,
 and there is an effective magnetic moment,
-that this magnetic moment would process
+that this magnetic moment would precess
 at the Larmor frequency, which is given by this expression.
-So who knows what the frequency of the cycle promotion is?
+So who knows what the frequency of the cyclotron motion is?
 
 So when we have a free electron, what
 is the frequency at which it goes in circles?
@@ -36,7 +36,7 @@ OK, I just wanted to mention it--
 there's an important factor of two,
 which you should know about.
 In previous classes I spent 10 or 20 minutes
-to teach you about a few of them, which
+to teach you about a theorem, which
 is called Larmor's theorem, but I summarized the argument
 on the atomic physics wiki, and I can't say more here in class
 than I've written on the wiki.
@@ -53,7 +53,7 @@ of Larmor's theorem, which talks about charge distributions,
 not about magnetic moments-- charge distributions--
 has to make certain approximations.
 So just wanted to point your attention
-to that there are two deviations about Larmor frequency.
+to that there are two derivations about Larmor frequency.
 One is exact, which I gave to you.
 There IS another one, which is Larmor's theorem, which
 applies to isolated charges, which is not exact.
