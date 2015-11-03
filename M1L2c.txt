@@ -39,7 +39,7 @@ in the rotating frame, the rotating field stands still.
 So it becomes a static field which
 points in the x direction.
 And we have the static field in the z direction.
-But now that's what I just gave you.
+But now that's what I just reviewed.
 We have a fictitious magnetic field,
 which comes from the transformation to the rotating
 frame.
@@ -55,7 +55,7 @@ t.
 But in the rotating frame, this becomes now the x prime-axis,
 and it's stationary in the rotating frame.
 
-So this was a field in the lab frame.
+So this was the field in the lab frame.
 In the rotating frame, we have an effective field,
 which is the field in the lab frame
 minus the fictitious field.
