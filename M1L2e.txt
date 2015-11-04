@@ -9,16 +9,16 @@
 #
 #----------------------------------------
 
-What happens when we have an off resonant rotating field?
-When we have an off resonant rotating field,
+What happens when we have an off-resonant rotating field?
+When we have an off-resonant rotating field,
 we go to the rotating frame, but of course the rotating frame
-we go to is now not rotating at the Langmuir frequency,
+we go to is now not rotating at the Larmor frequency,
 because the purpose of going to rotating frame
 is get rid of the time dependence of the rotating
 field.
 So we go to rotating frame, which
 rotates at the frequency of the rotating field.
-So if the rotating fields rotates at a frequency omega,
+So if the rotating field rotates at a frequency omega,
 we have a fictitious field, which is omega over gamma.
 Gamma is the gyromagnetic ratio.
 For the resonant case, we were just completely
@@ -42,9 +42,9 @@ of b1 squared plus b0 minus.
 
 And the fact is this adds something
 to the effective field in the rotating frame
-whether we tried it above and below resonance.
+whether we drive it above and below resonance.
 So therefore, the magnetic moment
-processes at what is called the generalized Rabi
+precesses at what is called the generalized Rabi
 frequency, which I now call the generalized Rabi
 frequency, which is gamma times b effective,
 and this is the quadrature sum of the detuning
@@ -54,5 +54,5 @@ is the Rabi frequency at resonance.
 And this is nothing else than a measure for the drive
 field for the strengths of the drive field b1 in frequencies.
 So therefore the generalized Rabi frequency
-is the resonant Rabi frequency edit in quadrature
+is the resonant Rabi frequency added in quadrature
 with the detuning squared.
