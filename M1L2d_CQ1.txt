@@ -35,8 +35,8 @@ And this was, of course, compared to the Rabi frequency.
 So I've explained to you that the spin flip,
 the Rabi flopping or the pi pulse,
 and this picture was at the magnetic moment,
-thus Rabi flopping rotates-- plus c, minus c, plus c,
-minus c, at the Rabi frequency.
+thus Rabi flopping rotates-- plus z, minus z, plus z,
+minus z, at the Rabi frequency.
 But now we drive the system faster than the Larmor
 frequency.
 And the question is, whatever the magnetic moment does,
