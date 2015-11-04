@@ -41,14 +41,14 @@ But it's clear from that, it will have a maximum value.
 It precesses around the tilt direction.
 And when it's over there, it is a minimum value.
 But it will never completely invert.
-Well, quantum mechanically, if you drive a system at own
+Well, quantum mechanically, if you drive a system not on
 resonance, you cannot completely invert the population.
 But we'll come to that later.
 So what do I need?
-Well, the bin is moving here on a circle.
+Well, the spin is moving here on a circle.
 So let's say the spin was here at one time.
 At another time, it is there.
-It has moved an angle psi.
+It has moved an angle phi.
 The tilt angle between the spin and the magnetic field
 is what I call theta.
 And the angle between the initial magnetic moment
@@ -70,16 +70,16 @@ It's three dimension and triangles and all of that.
 But the best way how I can describe it for you,
 let me introduce this auxiliary line, which connects the tip
 of the magnetic moment at time t equals 0 and at time t.
-And I call this length of this line a.
-And I'm want have now two triangles where one side is a,
-determine a in two different ways, combine the equation,
+And I call this length of this line A.
+And I'm want have now two triangles where one side is A,
+determine A in two different ways, combine the equation,
 and we are done.
 So the first way is that we have the magnetic moment at time 0,
 the magnetic moment at time t.
 We said the angle is alpha.
 And the two tips are connected by a.
 And you know in an arbitrary triangle
-you have this would be [? Pythagoras ?]
+you have this would be Pythagoras
 but in the general case, this is valid for general triangle.
 So applying that to this triangle, we have a square.
 b square is mu square. c square is mu square.
@@ -99,13 +99,13 @@ You want to lock down the effective magnetic field.
 We see the circle where the magnetic moment precesses.
 It has precessed from here to there.
 We connect this line.
-This was our a.
+This was our A.
 And the angle at which the magnetic moment has precesses
 is phi.
 And the radius, as we derived before,
 was mu times sine theta.
 So now just using the same equation for this triangle,
-we find that a square is 2 mu square,
+we find that A square is 2 mu square,
 sine square theta, times 1 minus cosine phi.
 And for cosine phi, I want to use the trig identity
 and express it by half the angle.
@@ -114,7 +114,7 @@ Now we are done.
 We are pretty much looking at this-- the drawing is clear,
 precession around the tilt angle,
 and we are just doing geometry here.
-And we have now two expressions for a square.
+And we have now two expressions for A square.
 We can set the two expressions equal.
 
 And solve for the unknown, which is cosine alpha.
@@ -161,7 +161,7 @@ And, as I will show you next week,
 this result is exactly the same as
 for quantum mechanical expectation values.
 Question?
-So what if we have [INAUDIBLE] oscillating [INAUDIBLE]
+So what if we have magnetic field oscillating just in one direction
 instead of rotating magnetic fields?
 Oh, that's a much more complicated problem.
 What happens when we have the magnetic field, which
@@ -204,7 +204,7 @@ polarized light, linearly polarized magnetic fields,
 we usually have to do an additional approximation,
 the rotating wave approximation.
 And since the rotating wave approximation is done always
-in almost [INAUDIBLE], any paper you can find,
+in almost any treatment, any paper you can find,
 we think it's always necessary.
 But what I've shown to you is when we have a rotating field,
 we don't need any approximation.
