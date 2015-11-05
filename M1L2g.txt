@@ -46,11 +46,11 @@ So adiabatic means that this frequency sweep has to be slow.
 Slow is slow compared to the Larmor frequency.
 
 At any given moment, the magnetic moment
-processes at the Larmor frequency,
+precesses at the Larmor frequency,
 which is the gyromagnetic ratio times the effective magnetic
 field.
 So, it's sort of quasi-stationary, this spin
-processes around the effective magnetic field
+precesses around the effective magnetic field
 and we want to change the frequency of the drive,
 slow compared to that motion.
 Well, the word rapid adiabatic passage,
@@ -67,7 +67,7 @@ So slow compared to the Larmor frequency and rapid
 compared that to all the things I'm not mentioning here.
 Rapid compared to decoherence and relaxation processes.
 
-I'm will not set up differentially equation
+I will not set up differentially equation
 and solve them.
 I'm going to give you the intuitive picture of what
 goes on, but then also derive what
@@ -115,7 +115,7 @@ a situation where the effective field is just at a tiny angle.
 And if you started out with our magnetic moment aligned in z--
 and we assume B 1 is really perturbative.
 Pretty much, the magnetic moment is very tightly coupled.
-It has a very small procession angle.
+It has a very small precession angle.
 Or if you want, if you take the magnetic field
 B1 to be perturbative, you can say
 the magnetic moment is aligned with the effective field.
@@ -123,7 +123,7 @@ That's the limit of-- that the cone angle of precision
 is very small.
 So let me write that down.
 This was omega, much, much smaller
-than the normal frequency.
+than the Larmor frequency.
 
 So now, we want to turn up the knob
 on the frequency of the drive.
@@ -144,10 +144,10 @@ we have tilted the effective magnetic field
 from the z direction into the x direction.
 
 And at any given moment, I mean, we
-know what the exact solution of the magnetic moment--
+know what the exact solution of the magnetic moment is--
 At any given moment, the magnetic moment
-processes around the effective magnetic field.
-And if the procession is very fast,
+precesses around the effective magnetic field.
+And if the precession is very fast,
 and the effective magnetic field is slowly rotating,
 the magnetic moment is just following.
 So therefore, at this point, when we are at resonance,
@@ -166,8 +166,8 @@ the magnetic moment aligned with the effective magnetic field.
 And we have just a handle we invert.
 We move around the magnetic moment.
 
-So, in the adiabatic limit, the spin processes tightly.
-And by tightly, I mean the angle theta is small around Bf, B
+So, in the adiabatic limit, the spin precesses tightly.
+And by tightly, I mean the angle theta is small around B_eff, B
 effective, and follows the direction
 of the effective magnetic field.
 So we are rotating an effective field.
@@ -183,7 +183,7 @@ Can't you also do this by keeping the frequency the same
 and just ramping up the strength?
 
 Yes, I mean, the essence here is that
-the effective magnetic field is [INAUDIBLE] through resonance.
+the effective magnetic field is scanned through resonance.
 And what you are suggesting is, if the frequency is constant
 that would mean the fictitious magnetic field is constant.
 But if we were given fictitious magnetic field,
@@ -202,13 +202,13 @@ change the Larmor frequency of the atom,
 instead of changing the drive frequency.
 What really matters in the whole business
 is the relative frequency between the two.
-Is it necessarily true that the spin always processes tightly
+Is it necessarily true that the spin always precesses tightly
 around the effective field?
 Isn't it at resonance, the radius of the circle
 in precession is equal to mu?
 
 Before we found that the radius was mu sine theta.
-And then sine thetha, it was like omega r over--
+And then sine theta, it was like omega r over--
 Yes, but the way how we've set it up here-- now we start out--
 if you are far away from resonance,
 the angle theta is infinitesimally small.
@@ -230,7 +230,7 @@ that would mean you have suddenly
 created an effective field which is tilted.
 So then, by the sudden switch on of your drive,
 you have now an angle theta, and the magnetic moment
-processes with the procession of angle theta.
+precesses with the precession of angle theta.
 But what we are here doing is, we
 are ever so slightly changing the angle theta.
 And then, the spin stays aligned.
