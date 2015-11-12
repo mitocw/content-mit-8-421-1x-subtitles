@@ -145,5 +145,4 @@ has to be smaller than the relevant frequency squared.
 
 As I said, we'll come back to that
 when we do the quantized treatment
-of rapid adiabatic passage and we encounter that combination
-in the Landau-Zener parameter.
+of rapid adiabatic passage and we encounter that combination in the Landau-Zener parameter.

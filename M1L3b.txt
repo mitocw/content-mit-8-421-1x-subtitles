@@ -150,5 +150,4 @@ has this geometric visualization of this precessing motion.
 I know I'm not explaining it exactly.
 It's more I want to sort of wet your appetite for what
 comes later, and also sort of prep you
-that some of the simple pictures will really
-carry through the course.
+that some of the simple pictures will really carry through the course.
