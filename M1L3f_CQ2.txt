@@ -9,15 +9,15 @@
 #
 #----------------------------------------
 
-Since it is so important, let me ask you a quicker question,
+Since it is so important, let me ask you a clicker question,
 whether this Hamiltonian can be exactly realized in nature,
 or it is an approximation?
 
 For instance, let-- you always have cosine omega t
 as a drive and cosine omega t is e to the plus i omega t and e
 to the minus omega t.
-And then maybe with a rotating wave approximation before
-[? we ?] [? weigh ?] [? a term. ?] So I sort of want
+And then maybe with a rotating wave approximation we
+throw away a term. So I sort of want
 to ask you, is this an idealization that we have
 a coupling which is a simple, complex exponential?
 Is nature always more complicated?
