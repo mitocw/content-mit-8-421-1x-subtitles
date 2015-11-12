@@ -104,7 +104,7 @@ The resonance theta is 90 degrees.
 And the correction angle is whatever
 we have of the effective z field over B1.
 And that means that the derivative, the angle theta
-dot, the angle of velocity at which the magnetic field
+dot, the angular velocity at which the magnetic field
 rotates, there's a time derivative
 because we sweep the frequency.
 So therefore, theta dot is nothing else
@@ -121,7 +121,7 @@ with a gamma factor.
 So therefore, we have the adiabatic condition
 that omega dot over omega Rabi has
 to be smaller than omega Rabi.
-Or to say it inverts, the change delta omega of your drive
+Or to say it inverse, the change delta omega of your drive
 frequency, the change delta omega in one Rabi period
 has to be smaller than the Rabi frequency.
 
@@ -146,3 +146,4 @@ has to be smaller than the relevant frequency squared.
 As I said, we'll come back to that
 when we do the quantized treatment
 of rapid adiabatic passage and we encounter that combination
+in the Landau-Zener parameter.
