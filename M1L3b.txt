@@ -91,24 +91,24 @@ applies to any two-level system.
 It's also valid-- and this will be relevant for atoms--
 if you have composite angular momentum.
 
-For instance, we will encounter the total angular momentum, f,
+For instance, we will encounter the total angular momentum, F,
 of an atom which has components from the orbital motion
 of the electron, the spin of the electron,
 and the spin of the nucleus.
-But if you have such an angular momentum,
-if the equation of motion is it will precess around
+But if you have such an angular momentum F,
+the equation of motion is it will precess around
 a magnetic field.
 Well the small print here is unless the B field is so strong
 that it decouples the components,
 or that it breaks up the coupling of the different parts
 of the angular momentum.
 In other words, we have simply assumed here
-that angular momenta-- m a magnetic moment is
+that angular momentum -- a magnetic moment is
 gamma times angular momentum.
 And that requires that the angular momenta
 are coupled in a certain way.
 And if you don't fully understand
-what coupled of angular momenta is,
+what coupling of angular momenta is,
 we'll really talk about that when
 we talk about atomic structure.
 So as long as the spins stay coupled to one total spin,
@@ -148,6 +148,7 @@ the description of Dicke superradiance,
 has this geometric visualization of this precessing motion.
 
 I know I'm not explaining it exactly.
-It's more I want to sort of whet your appetite for what
+It's more I want to sort of wet your appetite for what
 comes later, and also sort of prep you
 that some of the simple pictures will really
+carry through the course.
