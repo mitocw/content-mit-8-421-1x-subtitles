@@ -26,14 +26,14 @@ But I want to sort of bring out the big idea here,
 which is analogous to what we have
 done in the last few classes.
 Namely we have involved rotating frames.
-So what solves this Hamiltonian is a unit heavy transformation,
-and the unit heavy transformation is this one.
+So what solves this Hamiltonian is a unitary transformation,
+and the unitary transformation is this one.
 
 And so this unitary transformation,
 it transforms the Hamiltonian to a time independent one.
-We have now time independent of diagonal matrix elements.
-Our title matrix elements have changed.
-Delta is now the detuning of the tri
+We have now time independent off-diagonal matrix elements.
+Our diagonal matrix elements have changed.
+Delta is now the detuning of the drive
 frequency from the energy splitting of the two level
 system.
 In particular, when we are on resonance,
@@ -51,14 +51,14 @@ that's how I can generate the unitary transformation.
 And this unitary transformation makes the Hamiltonian time
 independent.
 So in other words, everything is in the classical system.
-We just go to frame, which rotates with the Rabi
+We just go to a frame, which rotates with the Rabi
 drive, and we find a time-independent problem.
 So now this Hamiltonian can be easily solved.
 
 And you will find as a special case
 when you start with an amplitude,
 initially you start in the ground state.
-When the excited state, amplitude squared,
+Then the excited state, amplitude squared,
 the general is the Rabi oscillation, something
 we discussed 40 minutes ago.
 
