@@ -9,16 +9,16 @@
 #
 #----------------------------------------
 
-It's just use for a moment, the result
+Let's just use for a moment the result
 we got from Heisenberg's equation of motion.
 We know the classical result. We've
 already derived for the classical spin,
 the classical result for the expectation
 value of the magnetic moment.
 But now I want to sort of relate it
-to something kind of mechanical because we
+to something quantum mechanical because we
 know that the classical solution equals
-a kind of mechanical solution.
+a quantum mechanical solution.
 So, if you have a two-level system,
 the z component of the magnetic moment
 is the difference between spin down and spin up.
@@ -44,9 +44,9 @@ squared generalized Rabi frequency times time over 2.
 So the two factors of one half and one half cancel,
 and what we find now for the quantum mechanical system using
 Heisenberg's equation of motion, is
-that if you compare a system initially
+that if you prepare a system initially
 in the ground state, the excited state probability,
-the friction, the excited state oscillates
+the fraction in the excited state oscillates
 with the Rabi frequency.
 And this is, I think, the second time in this course, and not
 the last time that we obtain the Rabi transition probability.
