@@ -10,12 +10,12 @@
 #----------------------------------------
 
 Let's now talk about features of, yes,
-the most important thing for us, namely the two-level system,
+the most important spin for us, namely the two-level system,
 which is spin 1/2.
 
 The most genetic system is an electron in a magnetic field, B
 times e z.
-And why don't we start with a quicker question.
+And why don't we start with a clicker question.
 So the question is, what is the level structure of the electron
 in the magnetic field?
 It's a two-level system, and you have two options,
@@ -27,4 +27,4 @@ is in the lower state when the spin is up
 or when the spin is down.
 You would say it's a stupid definition,
 but we talk all the time about an electron is in the spin
-down state, or the spin up state, which is the lowest
+down state, or the spin up state. Which is the lowest energy state of the electron?
