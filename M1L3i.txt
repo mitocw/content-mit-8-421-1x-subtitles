@@ -9,89 +9,89 @@
 #
 #----------------------------------------
 
-I want to say a few words now about, rabid adiabatic passage.
+I want to say a few words now about, rapid adiabatic passage.
 
 But this time, by emphasizing the quantum mechanical aspect.
 In other words, we have a clear understanding
 what happens classically with a clear understanding what
 happens in the adiabatic limit.
-But I just want to start off in the next 10 minutes,
+But I just want to sort of in the next 10 minutes,
 use what we have already learned,
-combine it with the quantum mechanical inventorium
+combine it with the quantum mechanical Hamiltonian
 and tell you that, while when you are not fully adiabatic,
 you actually have transition probabilities between the two
 states.
-So when we sort of bring in certain-- bring in the concept
+So I want to sort of bring in certain-- bring in the concept
 of transition probabilities to the case
 of rapid adiabatic-- well, to the case of-- what
 I want to say is, rapid adiabatic passage
-but I'm just going to say adiabatic.
+when it's no longer adiabatic.
 But that just means, when we sweep the frequency,
 and we're not in the adiabatic limit.
 OK.
 So how do we describe it quantum mechanically?
 We use the rotating frame now for convenience
-that allows me write down exactly the same inventorium
+that allows me write down exactly the same Hamiltonian
 in the time independent picture.
-So the inventorium and has two parts, the diagonal part
+So the Hamiltonian and has two parts, the diagonal part
 and off diagonal part.
 So if I show the energy as a function of E2 and delta.
 Maybe I should times 2 over H. Just normalize it.
 So then it becomes just the straight line
-at 45 degree, Y equals X. So the unperturbed-- inventorium
+at 45 degree, Y equals X. So the unperturbed-- Hamiltonian
 without drive has a level crossing, a level
-crossing at the 2 and 0.
+crossing at detuning 0.
 Then, we add to it the drive term.
-So the full inventorium with the addition
+So the full Hamiltonian with the addition
 of the drive term plus delta, minus delta, and now
 it has the coupling with the rapid frequency.
 That means that on resonance, the degeneracy between the two
-levels is split by the only other rapid frequency.
-And if I now show you the energy item levels of this 2
-by 2 inventorium, it will asymptotically
+levels is split by the Rabi frequency.
+And if I now show you the energy eigenlevels of this 2
+by 2 Hamiltonian, it will asymptotically
 coincide with a dashed line.
 Do this and do that.
-So in other words, I'm just reminding you that non-diagram,
-and a matrix element turns a crossing
-into an averted crossing.
+So in other words, I'm just reminding you that non-diagonal,
+matrix element turns a crossing
+into an avoided crossing.
 
 So when we take the frequency, omega and we sweep
 the detuning, so we change delta, and do
-a sweep of the frequency, omega, it will leave only that dot.
-Then we sweep through the resonance.
+a sweep of the frequency, omega, at a rate omega dot,
+then we sweep through the resonance.
 And in one limit we have rapid adiabatic passage,
-or in general, we have-- and them we
+or in general, we have-- we
 realize the Landau-Zener problem of a sweep
 through an avoided crossing.
 So what I'm formulating here is, it's
 the so-called Landau-Zener crossing
 or the Landau-Zener problem, which
 is the quantum mechanical description of-- you
-take a system by changing your external parameter, here.
-We sweep the frequency of the rotating field.
+take a system by changing your external parameter, here
+we sweep the frequency of the rotating field.
 But by changing the external parameter,
 We sweep the system through the avoided crossing.
 
 And it has the two limiting cases,
 that when we go through this crossing very, very slowly,
-the adiabatic theorum tells us we
-stay on one of these adiabatic serving curves.
+the adiabatic theorem tells us we
+stay on one of these adiabatic solid curves.
 And this is the case or rapid adiabatic passage, which we
 discussed in the classic limit.
-But because also the other solution,
+But it has also the other solution,
 if you would sweep through it very, very fast
-you're on the diabetic limit.
+you're on the diabatic limit.
 You follow the dashed line, and you start up here,
 and you wind up there.
 
 The Landau-Zener problem is actually
-a problem, which is-- you can find it in all text books,
+a problem, which is-- you find it in all text books,
 but to the best of my knowledge, there
-is no simple eliminate of any deviation, which
+is no simple elementary derivation, which
 I could give you a few minutes.
-And the mathematical problem is a nice mathematical.
-It's a demonstration of an exact dissolvable model.
-But I'm not to my knowledge explicitly devaluing.
+And the mathematical problem is a nice mathematical --
+it's a demonstration of an exactly solvable model.
+But I'm not to my knowledge explicitly deriving it.
 It is not providing additional insight.
 It's one of the cases where the result is
 more insightful and much simpler than the derivation.
@@ -111,50 +111,50 @@ This square would go outside the bracket.
 So therefore, what we find is from the exact solution.
 But the Landau-Zener parameter is a quarter times--
 and this should look familiar.
-The omega rapid frequency, omega rapid frequency
+The omega Rabi frequency, omega Rabi frequency
 squared over omega dot.
 
 When we discussed the limit of a adiabaticity classically,
 I hope you remember I gave you the argument of looking
 at the adiabatic condition.
-That the adiabatic case that requires
-omega only that dot to be much smaller than omega [INAUDIBLE]
+That the adiabatic case requires
+omega dot to be much smaller than omega Rabi
 squared.
 So here, there being actually what
 the P is in the quantum mechanical problem,
 is just the ratio of the two quantities
 we compared when we looked for the limit of adiabaticity.
-So therefore, the probability for an non-adiabatic transition
-is simply involving these ratio, omega [INAUDIBLE]
+So therefore, the probability for a non-adiabatic transition
+is simply involving this ratio, omega Rabi
 squared over omega dot.
 
 So in other words, we know already
-from the classical algorithm, but here you confirm it.
+from the classical argument, but here you confirm it.
 Adiabaticity required that this inequality is met.
-Since we are using it sort of-- diabetic sweeps
+Since we are using it sort of-- diabatic sweeps
 in the laboratory, as long as I've
-been involved in doing called atom science,
+been involved in doing cold atom science,
 I want to sort of go one step further and teach you
 a little bit more about this formula,
 and try to provide insight.
 And often insight is also provided when
 you apply perturbation theory.
 So I know the adiabatic case is very simple.
-But I want to look at the diabetic case
+But I want to look at the diabatic case
 and then look at transition probabilities
 in a perturbative way.
 This is actually the way how you often transfer population
 in the laboratory.
 So I want to understand better the way how
 we transfer population from one curve to the other one.
-If you do a fast sweep, we call it diabetic.
+If you do a fast sweep, we call it diabatic.
 
 So in other words, if you have this crossing,
 and we go really fast, now what happens
 is, this is the crossing between spin up and spin down.
-If you go much, much faster than that rapid frequency,
+If you go much, much faster than that Rabi frequency,
 the spin has no opportunity to change its orientation.
-So therefore, the function, the spin has to stay up or down.
+So therefore, the wave function, the spin has to stay up or down.
 And that means the system just goes straight
 through the crossing.
 Because spin up has positive slope.
@@ -169,43 +169,43 @@ So if you sweep fast.
 That's what's happening.
 OK.
 So we have two trivial limits.
-One is the adiabatic limit just in the adiabatic curve
-for nothing happens.
+One is the adiabatic limit, we just stay on the adiabatic curve
+and nothing happens.
 The other limit is, the infinitely fast limit.
 And nothing happens again when we
-looked at the diabetic pieces which is going up
+looked at the diabatic basis which is spin up
 and spin down.
-But now let's be honest adiabatic.
+But now let's be almost adiabatic.
 And this is a problem in which we really
-want to understand physically intuitively because that means
-the system spins a smaller tie-in low resonance
+want to understand physically and intuitively because that means
+the system spins a small time near resonance
 and there is a small probability to make a transition.
 
 So if you are in one of you're hyperfine states,
-pick your favorite, any of your favorite hyperfine states.
+pick your favorite atom, your favorite hyperfine states.
 You rapidly sweep the frequency.
-You will find unless you speed infinitely
-fast, that there's this mode for ability
+You will find unless you sweep infinitely
+fast, that there's a small probability in
 the other hyperfine state.
-And that's what I'm going to calculate now.
+And that's what you want to calculate now.
 And I want you to understand how would you
 estimate and calculate the small probability.
 So let's now estimate the result, namely
 for this small probability, in perturbation theory.
 
 And actually what I'm calculating for
-you here is if you use evaporation.
+you here is, when you do RF-induced evaporation.
 I know half of the class is doing that.
-If you apply on an F-field, you don't have to make it so strong
+If you apply an RF-field, you don't have to make it so strong
 that you're on the adiabatic limit.
-You are accepting this limit.
+You are exactly in this limit.
 The atom will slosh several times
-through the resonance in an almost diabetic way.
+through the resonance in an almost diabatic way.
 But there is a finite spin for the probability,
 and that's how you evaporate atoms.
 And I want you now to fully understand
-the derivation that is the probability of ejecting
-atoms in the almost diabetic limit with our f spin flips.
+the derivation what is the probability of ejecting
+atoms in the almost diabatic limit with RF spin flips.
 And that's the limit where 90% of the BEC experiments operate.
 So I hope everyone realizes it's an important question.
-And also I hope everybody understands the question
+And also I hope everybody understands the question because now I have clicker questions for you.
