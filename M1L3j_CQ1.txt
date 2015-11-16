@@ -24,8 +24,8 @@ we find an amplitude a2, and the probability
 to be in the state two, which is the amplitude squared
 is proportional to the Rabi frequency
 squared times the effective time squared, the effective time
-of drive in the system.
-Coherent processes are always for quadratic in time.
+of driving the system.
+Coherent processes are always quadratic in time.
 OK.
 If we do it incoherently, well, the way
 how we describe incoherent processes
@@ -53,7 +53,7 @@ We evaporate with a weak cross-- almost 80.
 With a weaker F drive, so we are closer to the diabatic limit.
 So if you think about this problem,
 I want you to tell me if this process, the transition,
-the perturbation transition close to the diabetic case
+the perturbative transition close to the diabatic case
 is that should we use when we apply the perturbation
 theory, the coherent picture.
 
