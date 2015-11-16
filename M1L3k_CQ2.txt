@@ -29,11 +29,11 @@ And, it is this effective times squared,
 which determines what happens.
 What our transition amplitude is.
 So, therefore, the question is: what is the effective time
-in the [? lambda ?] [? z ?] now causing?
+in the Landau-Zener crossing?
 I can give you three choices.
 One is, the effective time is-- well we changed omega,
 and the effective time is what is
-the time until we're already tuning,
+the time until we have a detuning,
 which is equal to the Rabi frequency.
 Another possibility is that the effective time that
 will coherently drive the system,
@@ -44,8 +44,8 @@ these are our two elements.
 So, another possibility how I can get time
 is omega is frequency, omega dot is frequency squared,
 and the square root of one over omega
-dot-- at least for the fields the dimension
-and criteria on that this time.
+dot-- at least fulfills the dimensional
+criterion that this time.
 So, my question for you is: what do you think
 is the effective time during which we drive the system
 coherently?
