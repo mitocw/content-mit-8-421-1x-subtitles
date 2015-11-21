@@ -84,7 +84,7 @@ and we can then rewrite it as a matrix, which is a density
 matrix, or simply as the trace of the density
 matrix with the operator.
 And what I introduced here as the density matrix
-can be written as |psi(t)><psi(t)|,
+can be written as |psi(t)&#x3009;&#x3008;psi(t)|,
 and the matrix element given by this combination of amplitudes
 when we expand the wave function psi into its basis.
 So this density matrix has diagonal
