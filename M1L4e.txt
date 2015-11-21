@@ -23,7 +23,7 @@ and the atoms will lose-- will decohere.
 They all will eventually wind up with a different phase,
 that if you look at the average of coherence, it will go to 0.
 So any form of inhomogeneity, which
-is not quenching at quantum state, which is not creating
+is not quenching a quantum state, which is not creating
 any form of deactivation of the excited state,
 can actually decohere the phase.
 And these are contributions to T2.
@@ -66,7 +66,7 @@ Every process which contributes to T1
 will also contribute to T2.
 But there are lots of processes which only contribute to T2.
 So therefore, in general, T2 is much faster
-because many more processes can contribute with.
+because many more processes can contribute to it.
 However, now if you asked me, is that always true?
 Well, there is one glitch, and this is the following.
 T1 is the time to damp populations,
@@ -212,7 +212,7 @@ So what I'm saying-- it's sort of subtle,
 but it's also very trivial.
 I don't know if this addresses your question.
 
-And in the end, in general you need the density measures.
+And in the end, in general you need the density matrix.
 I just wanted to emphasize that there
 is a little bit of decoherence where you can still get away
 with a wave function description.
