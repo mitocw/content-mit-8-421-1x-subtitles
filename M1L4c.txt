@@ -17,7 +17,7 @@ general two-level system?
 Well, the most general Hamiltonian
 is the most general Hamiltonian we can
 construct with 2 by 2 matrices.
-And the base is set to expand the 2 by 2 matrices
+And the basis set to expand the 2 by 2 matrices
 are the Pauli matrices.
 So, if we expand the Hamiltonian into the unity matrix-- sigma
 x, sigma y, and sigma z, we have four coefficients,
@@ -45,7 +45,7 @@ And the most general density matrix
 can also be expanded into its four components.
 Sort of the basis set of matrices
 is the unity matrix and the three Pauli matrices.
-So , 1, 2, 2, 3.
+So r1, r2, r3.
 Of course, this time we cannot throw away the unity matrix,
 because otherwise the density matrix would have no trace,
 and there would be no probability to find
@@ -89,7 +89,7 @@ from the result we discussed previously.
 Where we found that if you have an arbitrary
 quantum-mechanical spin, the time derivative
 can be written in that way.
-So, previously we found for a purer state,
+So, previously we found for a pure state,
 but now we find it that it's even valid for general density
 matrix and its time evolution.
 So, what I've derived for you is the famous theorem, which
