@@ -69,7 +69,7 @@ A single photon would just fly by,
 but if you want to a photon to really intimately interact
 with an atom, maybe getting absorbed immediate,
 absorbed immediate, if you really
-want to have the photon as a [INAUDIBLE] state
+want to have the photon as a quantum state
 and not just as something which flies by, you need cavities,
 and not just as something which flies by, you need cavities, And we have really seen peak advances
 And we have really seen peak advances
@@ -192,17 +192,17 @@ the Schrodinger equation.
 You would say this has been done in the old days of quantum
 mechanics in the '20s and '30s, and, of course, lots of people
 have been recognized.
-But there are to aspects of the Schrodinger equation
+But there are two aspects of the Schrodinger equation
 which hadn't been understood or which have been understood only
 recently.
 One is the aspect of entanglement and error
 correction.
-Nobody, until 10 or 20 years, nobody [INAUDIBLE]
+Nobody, until 10 or 20 years, nobody until (Shaw?) [INAUDIBLE]
 and collaborators introduced error correction would
 have thought that a quantum system can de-cohere,
 but you can reestablish coherence
 by what is called quantum error correction.
-This are properties of the simple Schrodinger
+These are properties of the simple Schrodinger
 equation for just a few, well, qubits
 for a few particles, which were not known,
 or even the expert in field would have flatly said,
@@ -210,7 +210,7 @@ no, this is not possible.
 And another aspect of actually single particle quantum physics
 which has been fully appreciated only recently
 is the question of Berry phase and topological phase.
-All the [INAUDIBLE] in condensed matter physics,
+All the rave in condensed matter physics,
 which is also spilling over to atomic physics,
 of quantum hall effect, topological insulators and all
 of it means that there are nontrivial
@@ -225,7 +225,7 @@ new aspects of the Schrodinger equation.
 Will there be something else of the same caliber
 <i><b><u><font color=#00000000></font></u></b></i>
 20 years ago, people would have said, no,
-and, I just gave you to examples of major new insight which
+and, I just gave you two examples of major new insight which
 has really changed our understanding of quantum
 physics.
 A few years ago I served on a National Academy
@@ -236,9 +236,9 @@ is asked to give advice and try to provide the best wisdom
 possible what is exciting.
 Of course we didn't predict the future, but at least,
 to the extent possible, we summarized
-what are the frontier areas where see rapid development
+what are the frontier areas where we see rapid development
 and where it would be worth investing further.
-And you will actually see that the number of those frontier
+And you will actually see that a number of those frontier
 areas are where your research happens.
 One is the traditional area of precision measurements.
 As long as atomic physics exists,
@@ -247,13 +247,12 @@ is we can do precise measurements, atomic clocks,
 and precision measurements of fundamental constants, and all
 that, and that continues until the present day.
 It was just two weeks ago that there
-was a new major paper on the really
+was a new Nature paper on the really
 major advance in atomic clocks.
 Strontium neutral atom clock has reached the precision
 of 6 times 10 to the minus 18.
 It's amazing.
 It's amazing. You really have to carefully understand and measure
-You really have to carefully understand and measure
 small changes in the black-body radiation because just
 the black-body radiation creates frequency shifts, which
 would interfere with that precision--
@@ -261,7 +260,7 @@ an amazing accomplishment for the field.
 So precision measurements continue
 to be an important frontier.
 Of course, there's always the aspect
-of metrology, determine time frequency and other things
+of metrology, determine time, frequency, and other things
 with higher and higher accuracy, but there are also
 applications.
 Just one example is magnetometry.
@@ -272,7 +271,7 @@ So people are now talking about using atoms or artificial
 atoms in the form of NV centers to measure
 the magnetic field in biological cells and all that.
 So measurement has fundamental aspects
-but has also applied aspects
+but has also applied aspects.
 Well, other frontiers are, of course you can use the work
 'ultra--' ultracold.
 We've talked about high intensity lasers--
