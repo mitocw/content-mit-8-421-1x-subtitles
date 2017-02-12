@@ -1,5 +1,4 @@
-
-1;95;0c#
+#
 # File:   content-mit-8-421-1x-subtitles/8.421-atomic-physics-topic-intro.txt
 #
 # Captions for 8.421x module
