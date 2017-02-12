@@ -67,8 +67,8 @@ but light also wants to be controlled,
 and this is done by using cavities.
 A single photon would just fly by,
 but if you want to a photon to really intimately interact
-with an atom, maybe getting absorbed immediate,
-absorbed immediate, if you really
+with an atom, maybe getting absorbed, emitted,
+absorbed, emitted, if you really
 want to have the photon as a quantum state
 and not just as something which flies by, you need cavities,
 and not just as something which flies by, you need cavities, And we have really seen peak advances
@@ -197,7 +197,7 @@ which hadn't been understood or which have been understood only
 recently.
 One is the aspect of entanglement and error
 correction.
-Nobody, until 10 or 20 years, nobody until (Shaw?) [INAUDIBLE]
+Nobody, until 10 or 20 years, nobody until Shor]
 and collaborators introduced error correction would
 have thought that a quantum system can de-cohere,
 but you can reestablish coherence
@@ -222,14 +222,14 @@ thought in the '40s and '50s, that's it;
 there's nothing else to do research.
 And now we see whole new fields emerging, exploiting
 new aspects of the Schrodinger equation.
-Will there be something else of the same caliber
+Will there be something else of the same caliber to be discovered
 <i><b><u><font color=#00000000></font></u></b></i>
 20 years ago, people would have said, no,
 and, I just gave you two examples of major new insight which
 has really changed our understanding of quantum
 physics.
 A few years ago I served on a National Academy
-of Science committee trying to be impossible,
+of Science committee trying to do the impossible,
 to predict the future of the field.
 But sometimes the National Academy of Sciences
 is asked to give advice and try to provide the best wisdom
