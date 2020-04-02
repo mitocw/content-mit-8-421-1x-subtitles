@@ -96,7 +96,7 @@ of generalized off resonant Rabi frequency,
 that all of that, you find in the classical motion
 of a magnetic moment.
 Or for instance, the physics of Rapid Adiabatic Following
-Landau-Zeno crossing.
+Landau-Zener crossing.
 A lot of physics, we would usually
 associate with a quantum system,
 you find it here in a purely classical system.
