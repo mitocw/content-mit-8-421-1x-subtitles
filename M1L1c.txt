@@ -17,7 +17,7 @@ So, what is a two-level system?
 Well, it's a system with two levels.
 What is an harmonic oscillator?
 Well, it's a system which has an infinite number
-of equidistance levels.
+of equidistant levels.
 
 I will tell you later in this course, when
 we talk about the AC and DC Stark Effect,
